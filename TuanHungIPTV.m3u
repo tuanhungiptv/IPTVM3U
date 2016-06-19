@@ -146,11 +146,11 @@ http://newcdn.vtvplay.vn:8081/livechannel/vtcab4-abr/playlist.m3u8?wmsAuthSign=c
 #EXTINF:-1,HayTV (VTVcap6)
 http://newcdn.vtvplay.vn:8081/livechannel/vtcab6-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDE2IDU6NTY6MTIgQU0maGFzaF92YWx1ZT1wNUEvTEVZdGRMMjUrL3BmS3ViWjJ3PT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1,DRAMAS (VTVcap7)
-http://newcdn.vtvplay.vn:8081/livechannel/vtcab7-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDE2IDU6NTc6MDYgQU0maGFzaF92YWx1ZT1kblFEQWxMV3lzN0ZJUG5ZV2x1NTd3PT0mdmFsaWRtaW51dGVzPTI0MA==
+http://newcdn.vtvplay.vn:8081/livechannel/vtcab6-abr/livechannel/vtvcab6-p1/chunks.m3u8?nimblesessionid=784472&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDE2IDI6NTk6MTUgUE0maGFzaF92YWx1ZT0wRkRlWWlYLzBKRlRsazhydmd5TXB3PT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1,BiBi (VTVcap8)
-http://newcdn.vtvplay.vn:8081/livechannel/vtvca8-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDE2IDU6NTg6NDEgQU0maGFzaF92YWx1ZT1xNjh4dzJKQWt5Y2dVVFJkNy9pUFhRPT0mdmFsaWRtaW51dGVzPTI0MA==
+http://newcdn.vtvplay.vn:8081/livechannel/vtvca8-abr/livechannel/vtvcab8-p1/chunks.m3u8?nimblesessionid=783407&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDE2IDI6NTQ6MDEgUE0maGFzaF92YWx1ZT1LU2svcjRKUkNleVBKT0VQekZqYWdnPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1,InfoTV (VTVcap9)
-http://newcdn.vtvplay.vn:8081/livechannel/vtcab9-abr/livechannel/vtvcab9-p1/chunks.m3u8?nimblesessionid=719679&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDE2IDU6NTk6MjYgQU0maGFzaF92YWx1ZT1FYTM4R212YitRZ2dSSVl1K2tJdkh3PT0mdmFsaWRtaW51dGVzPTI0MA==
+http://newcdn.vtvplay.vn:8081/livechannel/vtcab9-abr/livechannel/vtvcab9-p1/chunks.m3u8?nimblesessionid=782455&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDE2IDI6NDk6NDAgUE0maGFzaF92YWx1ZT0xYW9wN3RNQThhaXBNU29LbllDWG13PT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1,O2TV (VTVcap10)
 http://newcdn.vtvplay.vn:8081/livechannel/vtcab10-abr/livechannel/vtvcab10-p1/chunks.m3u8?nimblesessionid=719747&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDE2IDY6MDE6MTYgQU0maGFzaF92YWx1ZT02Z3cyOWVyaXgrb2R1dUxKZWpENGx3PT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1,Yeah1TV (VTVcap17)
