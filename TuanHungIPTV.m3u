@@ -4,10 +4,13 @@
 http://123.29.68.44/live.m3u8?c=vstv002&q=medium&type=tv&token=S0sbtQe29f_2_Xn2eSDKHw&time=1466272722&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1466186322807&pkg=pkg1
 #EXTINF:-1, VTV1 HD 
 http://xmiolive.e14538a7.viettel-cdn.vn/vtv1.smil/chunklist_b1500000.m3u8
-
-
 #EXTINF:-1, VTV3 HD server 1
+http://xmiolive.e14538a7.viettel-cdn.vn/vtv2.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1, VTV2 HD 
 http://hlscache.fptplay.net.vn/event/vtv3hd_hls.smil/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjdjMTY1ODg1MjVhYTRkN2E5ODYxMzYxY2ExNzljODBhIiwgInNlcnZlcl90aW1lIjogMTQ2NjI5Njc0NCwgImNoYW5uZWxfaWQiOiAidnR2My1oZCIsICJ2YWxpZF9taW51dGVzIjogMTQ0MH0
+#EXTINF:-1, VTV3 HD server 2
+http://123.30.185.126/hls/vtv3.m3u8
 #EXTINF:-1, VTV4
 http://hlscache.fptplay.net.vn/liver/vtv4_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjM4MzMwOCwgInRva2VuIjogImY0OTg0ZTc0YmRiOTk3ZTUwZWNkMTkyOGJkNzc0ZWQ4IiwgInNlcnZlcl90aW1lIjogMTQ2NjI5NjkwOCwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0djRfaGxzIn0=
 #EXTINF:-1, VTV5
