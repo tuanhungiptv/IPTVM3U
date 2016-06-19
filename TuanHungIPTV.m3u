@@ -6,20 +6,20 @@ http://123.29.68.44/live.m3u8?c=vstv002&q=medium&type=tv&token=S0sbtQe29f_2_Xn2e
 http://xmiolive.e14538a7.viettel-cdn.vn/vtv1.smil/chunklist_b1500000.m3u8
 #EXTINF:-1, VTV2 HD server 1
 http://xmiolive.e14538a7.viettel-cdn.vn/vtv2.smil/chunklist_b1500000.m3u8
-
-#EXTINF:-1, VTV3 HD 
-http://hlscache.fptplay.net.vn/event/vtv3hd_hls.smil/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjdjMTY1ODg1MjVhYTRkN2E5ODYxMzYxY2ExNzljODBhIiwgInNlcnZlcl90aW1lIjogMTQ2NjI5Njc0NCwgImNoYW5uZWxfaWQiOiAidnR2My1oZCIsICJ2YWxpZF9taW51dGVzIjogMTQ0MH0
 #EXTINF:-1, VTV3 HD server 2
 http://123.30.185.126/hls/vtv3.m3u8
 #EXTINF:-1, VTV4
 http://hlscache.fptplay.net.vn/liver/vtv4_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjM4MzMwOCwgInRva2VuIjogImY0OTg0ZTc0YmRiOTk3ZTUwZWNkMTkyOGJkNzc0ZWQ4IiwgInNlcnZlcl90aW1lIjogMTQ2NjI5NjkwOCwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0djRfaGxzIn0=
 #EXTINF:-1, VTV5
 http://mobi.vtvplus.vn:1935/live/vtv5.m3u8
-#EXTINF:-1, VTV6 HD
-http://11e6.vp9.tv/chn/vtv6/v.m3u8
-#EXTINF:-1, VTV8 HD
+#EXTINF:-1, VTV6
+http://hlscache.fptplay.net.vn/liver/vtc6_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjQzNjA1NywgInRva2VuIjogImFhZmQyOGQ1YWU0YjUxZWRhNzNmYTBmYjdjMzQxOWQyIiwgInNlcnZlcl90aW1lIjogMTQ2NjM0OTY1NywgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0YzZfaGxzIn0=
+#EXTINF:-1, VTV8
+http://hlscache.fptplay.net.vn/livek/vtc8_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjQzNjI1NywgInRva2VuIjogImNlODRlNDQ5NzYzODE3ZDBjM2IxZGFjYjYzZGJkNDk2IiwgInNlcnZlcl90aW1lIjogMTQ2NjM0OTg1NywgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0YzhfaGxzIn0=
+
+#EXTINF:-1, VTV8 HD 
 http://hlscache.fptplay.net.vn/livek/vtv8hd_hls.smil/chunklist_b300000.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjM4MzUwOCwgInRva2VuIjogImE5NDlhYjZkNjY3M2NjMDhlMzcxZDVmNmI4NmYzMzhiIiwgInNlcnZlcl90aW1lIjogMTQ2NjI5NzEwOCwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0djhoZF9obHMifQ==
-#EXTINF:-1, VTV9
+#EXTINF:-1, VTV9 Mở chậm
 http://11e6.vp9.tv/chn/vtv9/v.m3u8
 #EXTINF:-1, VOVTV
 http://hlscache.fptplay.net.vn/lives/vovtv_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjM4MzY5MywgInRva2VuIjogIjg4NTg2YzViM2Y3NmY5NDkyZjkwODY5YjVkN2Q5MjQ4IiwgInNlcnZlcl90aW1lIjogMTQ2NjI5NzI5MywgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZvdnR2X2hscyJ9
