@@ -58,7 +58,7 @@ http://hlscache.fptplay.net.vn/lives/htvcgiadinh_hls.smil/playlist.m3u8?token=ey
 #EXTINF:-1,FBNC
 http://hlscache.fptplay.net.vn/lives/fbnchd_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjM5MDEzNywgInRva2VuIjogIjA0YzY5ZDQ3YjFmZGFkMWY3OTQ1YWY4MzU4Y2Y0NmVlIiwgInNlcnZlcl90aW1lIjogMTQ2NjMwMzczNywgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImZibmNoZF9obHMifQ==
 #EXTINF:-1,HTV COOP
-http://htvlive.1c656bad.cdnviet.com/8c828438cc247aaf75a24549a90802b01466395468/htvcoop.360p.stream/playlist.m3u8
+http://htvlive.1c656bad.cdnviet.com/3267a808d76b92e66abbeb25306ef9231466560626/htvcoop.360p.stream/playlist.m3u8
 #EXTINF:-1 group-title="Kênh VTc ", [COLOR red][B]Kênh VTc[/B][/COLOR]
 #EXTINF:-1, VTC1 SD
 http://hlscache.fptplay.net.vn/liver/vtc1_hls.smil/chunklist_b300000.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjM1ODAyMCwgInRva2VuIjogIjM1NTJjMTM1YWJhMjI0NzdhMmVlNGM2MGMzNTliYWRkIiwgInNlcnZlcl90aW1lIjogMTQ2NjI3MTYyMCwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0YzFfaGxzIn0=
