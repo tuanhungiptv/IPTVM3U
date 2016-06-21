@@ -3,11 +3,11 @@
 #EXTINF:-1, VTV1
 http://123.29.68.44/live.m3u8?c=vstv002&q=medium&type=tv&token=S0sbtQe29f_2_Xn2eSDKHw&time=1466272722&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1466186322807&pkg=pkg1
 #EXTINF:-1, VTV1 HD 
-http://xmiolive.e14538a7.viettel-cdn.vn/vtv1.smil/chunklist_b1500000.m3u8
-#EXTINF:-1, VTV2 HD server 1
-http://xmiolive.e14538a7.viettel-cdn.vn/vtv2.smil/chunklist_b1500000.m3u8
-#EXTINF:-1, VTV3 HD server 2
-http://123.30.185.126/hls/vtv3.m3u8
+http://hlscache.fptplay.net.vn/livek/vtv1hd_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjYwMDYwNywgInRva2VuIjogIjA2OTJmNGEyNjhmMWNmNDFhNjI1ZDFiYTI2NDkwMzMxIiwgInNlcnZlcl90aW1lIjogMTQ2NjUxNDIwNywgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0djFoZF9obHMifQ==
+#EXTINF:-1, VTV2 HD 
+http://live.vtn.cdn.fptplay.net/liver/vtv2_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjYwMDUxNywgInRva2VuIjogIjM1OTE2ZjkxMmRlYTNjODEzYzIwYmY5NDNiY2RjZjYzIiwgInNlcnZlcl90aW1lIjogMTQ2NjUxNDExNywgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0djJfaGxzIn0=
+#EXTINF:-1, VTV3 
+http://hlscache.fptplay.net.vn/event/vtv3hd_hls.smil/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjI5OGQ5ZDJkOWE2MGQ1YzhkMGMwMGY4NmYzMzdmM2JjIiwgInNlcnZlcl90aW1lIjogMTQ2NjUxNDAyOCwgImNoYW5uZWxfaWQiOiAidnR2My1oZCIsICJ2YWxpZF9taW51dGVzIjogMTQ0MH0
 #EXTINF:-1, VTV4
 http://hlscache.fptplay.net.vn/liver/vtv4_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjM4MzMwOCwgInRva2VuIjogImY0OTg0ZTc0YmRiOTk3ZTUwZWNkMTkyOGJkNzc0ZWQ4IiwgInNlcnZlcl90aW1lIjogMTQ2NjI5NjkwOCwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0djRfaGxzIn0=
 #EXTINF:-1, VTV5
@@ -18,8 +18,8 @@ http://hlscache.fptplay.net.vn/liver/vtc6_hls.smil/playlist.m3u8?token=eyJ2YWxpZ
 http://hlscache.fptplay.net.vn/livek/vtc8_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjQzNjI1NywgInRva2VuIjogImNlODRlNDQ5NzYzODE3ZDBjM2IxZGFjYjYzZGJkNDk2IiwgInNlcnZlcl90aW1lIjogMTQ2NjM0OTg1NywgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0YzhfaGxzIn0=
 #EXTINF:-1, VTV8 HD 
 http://hlscache.fptplay.net.vn/livek/vtv8hd_hls.smil/chunklist_b300000.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjM4MzUwOCwgInRva2VuIjogImE5NDlhYjZkNjY3M2NjMDhlMzcxZDVmNmI4NmYzMzhiIiwgInNlcnZlcl90aW1lIjogMTQ2NjI5NzEwOCwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0djhoZF9obHMifQ==
-#EXTINF:-1, VTV9 Mở chậm
-http://11e6.vp9.tv/chn/vtv9/v.m3u8
+#EXTINF:-1, VTV9
+http://vtvgoobj.04477775.sabai.vn/9914c671fd94fd95b0e29034e2ab31da1466525246/live/_definst_/vtv9-mid.m3u8
 #EXTINF:-1, VOVTV
 http://hlscache.fptplay.net.vn/lives/vovtv_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjQzOTI0MCwgInRva2VuIjogImE3ZmI5N2JkMTBiYjU1NzFhZTBlN2ZiMzE5OGU3OThkIiwgInNlcnZlcl90aW1lIjogMTQ2NjM1Mjg0MCwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZvdnR2X2hscyJ9
 #EXTINF:-1, ANTV
@@ -132,24 +132,6 @@ http://hlscache.fptplay.net.vn/livek/dongnai2_hls.smil/chunklist_b2500000.m3u8?t
 http://hlscache.fptplay.net.vn/livek/cantho_hls.smil/chunklist_b2500000.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjM0NjY4NiwgInRva2VuIjogIjI1MWQ0Y2U2Y2IxZDBhMDc4NzVjMTRlNTAxNzY5NDg2IiwgInNlcnZlcl90aW1lIjogMTQ2NjI2MDI4NiwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImNhbnRob19obHMifQ==
 #EXTINF:-1,Long An LA34
 http://hlscache.fptplay.net.vn/liver/longan_hls.smil/chunklist_b2500000.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjM0NjkwNSwgInRva2VuIjogIjkwNTE3YzdjZmM3ZmJhNDQ1ZmVjZTUyNDk0ZDJiMjUzIiwgInNlcnZlcl90aW1lIjogMTQ2NjI2MDUwNSwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImxvbmdhbl9obHMifQ==
-#EXTINF:-1,Giải trí (VTVcap1)
-http://newcdn.vtvplay.vn:8081/livechannel/vtcab1-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDE2IDU6NTE6MjggQU0maGFzaF92YWx1ZT1Dc3BiTlhIUDE2S0M3MXdUNElyN3BRPT0mdmFsaWRtaW51dGVzPTI0MA==
-#EXTINF:-1,Văn Hóa (VTVcap4)
-http://newcdn.vtvplay.vn:8081/livechannel/vtcab4-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDE2IDU6NTQ6NTEgQU0maGFzaF92YWx1ZT1pdjZNb3ZUYWk2M2NRMEVTWWJxUnJBPT0mdmFsaWRtaW51dGVzPTI0MA==
-#EXTINF:-1,HayTV (VTVcap6)
-http://newcdn.vtvplay.vn:8081/livechannel/vtcab6-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDE2IDU6NTY6MTIgQU0maGFzaF92YWx1ZT1wNUEvTEVZdGRMMjUrL3BmS3ViWjJ3PT0mdmFsaWRtaW51dGVzPTI0MA==
-#EXTINF:-1,DRAMAS (VTVcap7)
-http://newcdn.vtvplay.vn:8081/livechannel/vtcab6-abr/livechannel/vtvcab6-p1/chunks.m3u8?nimblesessionid=784472&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDE2IDI6NTk6MTUgUE0maGFzaF92YWx1ZT0wRkRlWWlYLzBKRlRsazhydmd5TXB3PT0mdmFsaWRtaW51dGVzPTI0MA==
-#EXTINF:-1,BiBi (VTVcap8)
-http://newcdn.vtvplay.vn:8081/livechannel/vtvca8-abr/livechannel/vtvcab8-p1/chunks.m3u8?nimblesessionid=783407&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDE2IDI6NTQ6MDEgUE0maGFzaF92YWx1ZT1LU2svcjRKUkNleVBKT0VQekZqYWdnPT0mdmFsaWRtaW51dGVzPTI0MA==
-#EXTINF:-1,InfoTV (VTVcap9)
-http://newcdn.vtvplay.vn:8081/livechannel/vtcab9-abr/livechannel/vtvcab9-p1/chunks.m3u8?nimblesessionid=782455&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDE2IDI6NDk6NDAgUE0maGFzaF92YWx1ZT0xYW9wN3RNQThhaXBNU29LbllDWG13PT0mdmFsaWRtaW51dGVzPTI0MA==
-#EXTINF:-1,O2TV (VTVcap10)
-http://newcdn.vtvplay.vn:8081/livechannel/vtcab10-abr/livechannel/vtvcab10-p1/chunks.m3u8?nimblesessionid=719747&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDE2IDY6MDE6MTYgQU0maGFzaF92YWx1ZT02Z3cyOWVyaXgrb2R1dUxKZWpENGx3PT0mdmFsaWRtaW51dGVzPTI0MA==
-#EXTINF:-1,Yeah1TV (VTVcap17)
-http://newcdn.vtvplay.vn:8081/livechannel/vtcab17-abr/livechannel/vtvcab17-p1/chunks.m3u8?nimblesessionid=719791&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDE2IDY6MDI6MjkgQU0maGFzaF92YWx1ZT1raDkza0VJUjJqQTBYbmFwVjUrUHZBPT0mdmFsaWRtaW51dGVzPTI0MA==
-#EXTINF:-1,Tuấn Hùng Film Châu á 
-http://live.csmtalk.vcdn.vn/hls/18f9d7a5c9e808f819b8af448ae01083/576663ff/meowwdoraemon/index.m3u8
 #EXTINF:-1,QUẢNG NGÃI (PTQ)
 http://hlscache.fptplay.net.vn/livex/quangngai_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjQzOTM0NywgInRva2VuIjogImM1ZWI0OTg3Njc1OTE2ZDQ0ZDY0MjI5NmE3ZGU0ZDhhIiwgInNlcnZlcl90aW1lIjogMTQ2NjM1Mjk0NywgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInF1YW5nbmdhaV9obHMifQ==
 #EXTINF:-1,BTV - BẠC LIÊU
