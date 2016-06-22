@@ -1,9 +1,5 @@
 ﻿#EXTM3U TuanHungTVbox
-#EXTINF:-1,Bóng đá ERRO
-http://tv1.tivi8k.net/stream-tivi8k-net/cinemax/playlist.m3u8
 #EXTINF:-1 group-title="Kênh VTV ", [COLOR red][B]Kênh VTV[/B][/COLOR]
-#EXTINF:-1, VTV1
-http://123.29.68.44/live.m3u8?c=vstv002&q=medium&type=tv&token=S0sbtQe29f_2_Xn2eSDKHw&time=1466272722&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1466186322807&pkg=pkg1
 #EXTINF:-1, VTV1 HD 
 http://hlscache.fptplay.net.vn/livek/vtv1hd_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjYwMDYwNywgInRva2VuIjogIjA2OTJmNGEyNjhmMWNmNDFhNjI1ZDFiYTI2NDkwMzMxIiwgInNlcnZlcl90aW1lIjogMTQ2NjUxNDIwNywgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0djFoZF9obHMifQ==
 #EXTINF:-1, VTV2 HD 
@@ -19,7 +15,7 @@ http://hlscache.fptplay.net.vn/event/vtv6hd_hls.smil/playlist.m3u8?token=eyJoYXN
 #EXTINF:-1, VTV8 HD 
 http://hlscache.fptplay.net.vn/livek/vtv8hd_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjYwNDk4OCwgInRva2VuIjogIjdhNTA3ZDgxZDRiYzA3YzdlYzU1YmE2OWU2ZDJkMWY2IiwgInNlcnZlcl90aW1lIjogMTQ2NjUxODU4OCwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0djhoZF9obHMifQ==
 #EXTINF:-1, VTV9
-http://vtvgoobj.04477775.sabai.vn/9914c671fd94fd95b0e29034e2ab31da1466525246/live/_definst_/vtv9-mid.m3u8
+http://222.255.27.46/vtv9.m3u8?token=4a7d4b22be
 #EXTINF:-1, VOVTV
 http://hlscache.fptplay.net.vn/lives/vovtv_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjQzOTI0MCwgInRva2VuIjogImE3ZmI5N2JkMTBiYjU1NzFhZTBlN2ZiMzE5OGU3OThkIiwgInNlcnZlcl90aW1lIjogMTQ2NjM1Mjg0MCwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZvdnR2X2hscyJ9
 #EXTINF:-1, ANTV
@@ -57,8 +53,6 @@ http://hlscache.fptplay.net.vn/lives/htvcphunu_hls.smil/playlist.m3u8?token=eyJ2
 http://hlscache.fptplay.net.vn/lives/htvcgiadinh_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjM4NDE3NywgInRva2VuIjogImZkYjZmNmE5Mzc1NzFhZjI2MzQ4OTM0MjkxYjYwYTE4IiwgInNlcnZlcl90aW1lIjogMTQ2NjI5Nzc3NywgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImh0dmNnaWFkaW5oX2hscyJ9
 #EXTINF:-1,FBNC
 http://hlscache.fptplay.net.vn/lives/fbnchd_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjM5MDEzNywgInRva2VuIjogIjA0YzY5ZDQ3YjFmZGFkMWY3OTQ1YWY4MzU4Y2Y0NmVlIiwgInNlcnZlcl90aW1lIjogMTQ2NjMwMzczNywgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImZibmNoZF9obHMifQ==
-#EXTINF:-1,HTV COOP
-http://htvlive.1c656bad.cdnviet.com/3267a808d76b92e66abbeb25306ef9231466560626/htvcoop.360p.stream/playlist.m3u8
 #EXTINF:-1 group-title="Kênh VTc ", [COLOR red][B]Kênh VTc[/B][/COLOR]
 #EXTINF:-1, VTC1 SD
 http://hlscache.fptplay.net.vn/liver/vtc1_hls.smil/chunklist_b300000.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjM1ODAyMCwgInRva2VuIjogIjM1NTJjMTM1YWJhMjI0NzdhMmVlNGM2MGMzNTliYWRkIiwgInNlcnZlcl90aW1lIjogMTQ2NjI3MTYyMCwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0YzFfaGxzIn0=
@@ -77,7 +71,7 @@ http://hlscache.fptplay.net.vn/livek/vtc8_hls.smil/playlist.m3u8?token=eyJ2YWxpZ
 #EXTINF:-1, VTC9 Let'Việt
 http://hlscache.fptplay.net.vn/xskt/letsviet_hls.smil/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjQ4NzJiNzIyYmQ3NTQxYTZmNDczZmUyOWRkMjRlYzFmIiwgInNlcnZlcl90aW1lIjogMTQ2NjM1MjUyMSwgImNoYW5uZWxfaWQiOiAibGV0cy12aWV0IiwgInZhbGlkX21pbnV0ZXMiOiAxNDQwfQ
 #EXTINF:-1, VTC10 NetViet
-http://htvlive.1c656bad.cdnviet.com/2f500d45c6a7c60bf639166d8ae564dd1466562279/vtc10.360p.stream/playlist.m3u8
+http://118.107.85.14:1935/tvnet/smil:vtc10.smil/chunklist_w556028930_b1000000.m3u8?t=1466568272&token=1479367a67e8f8704739d719583b91f6
 #EXTINF:-1, VTC12
 http://hlscache.fptplay.net.vn/livek/vtc12_hls.smil/chunklist_b2500000.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjM1ODk4OSwgInRva2VuIjogIjE5MDIxYjhmMWY1ZjM0YTUyZWIwOTc0NzM1YjY4NTkwIiwgInNlcnZlcl90aW1lIjogMTQ2NjI3MjU4OSwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0YzEyX2hscyJ9
 #EXTINF:-1, VTC13 (ITV)
@@ -199,7 +193,7 @@ http://hlscache.fptplay.net.vn/lives/khanhhoa_hls.smil/playlist.m3u8?token=eyJ2Y
 #EXTINF:-1,NBTV-Ninh Bình
 http://hlscache.fptplay.net.vn/lives/ninhbinh_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjYwMjI4MCwgInRva2VuIjogImMzMTllNWE1ZDc2OTIyNmU2Yjk5NGNlNmQwNWZjYzQ3IiwgInNlcnZlcl90aW1lIjogMTQ2NjUxNTg4MCwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogIm5pbmhiaW5oX2hscyJ9
 #EXTINF:-1,BRT-Vũng Tàu
-http://hlscache.fptplay.net.vn/lives/bariavungtau_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjYwMjc0OCwgInRva2VuIjogIjVkZWU5MWY3YTFjYWI0MmIzMGFiODFiNTBhZDgzZWU1IiwgInNlcnZlcl90aW1lIjogMTQ2NjUxNjM0OCwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImJhcmlhdnVuZ3RhdV9obHMifQ==
+http://hlscache.fptplay.net.vn/lives/bariavungtau_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjY1NDc2OCwgInRva2VuIjogImU3YWYyMTAyYmFlM2FhMWViNjIyZDhjNTllOGZkNzkxIiwgInNlcnZlcl90aW1lIjogMTQ2NjU2ODM2OCwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImJhcmlhdnVuZ3RhdV9obHMifQ==
 #EXTINF:-1,NTV-Nghệ An
 http://hlscache.fptplay.net.vn/lives/nghean_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjYwMjgwNCwgInRva2VuIjogImIzYjExMmI4ODZlMjc0ZjIzYmU1ZWFjYjUwOGY4YmRiIiwgInNlcnZlcl90aW1lIjogMTQ2NjUxNjQwNCwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogIm5naGVhbl9obHMifQ==
 #EXTINF:-1,QNTV3-QUảng Ninh 3
