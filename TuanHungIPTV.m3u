@@ -1,4 +1,6 @@
 ﻿#EXTM3U TuanHungTVbox
+#EXTINF:-1,trực tiếp Bồ Đào Nha & Hungary
+http://live.csmtalk.vcdn.vn/hls/c73d2f9ba972a392f4d90b374603d5f4/15578becc4d/talktvvv/index.m3u8
 #EXTINF:-1 group-title="Kênh VTV ", [COLOR red][B]Kênh VTV[/B][/COLOR]
 #EXTINF:-1, VTV1 HD 
 http://hlscache.fptplay.net.vn/livek/vtv1hd_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjYwMDYwNywgInRva2VuIjogIjA2OTJmNGEyNjhmMWNmNDFhNjI1ZDFiYTI2NDkwMzMxIiwgInNlcnZlcl90aW1lIjogMTQ2NjUxNDIwNywgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0djFoZF9obHMifQ==
