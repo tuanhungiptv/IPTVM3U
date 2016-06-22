@@ -212,6 +212,10 @@ http://hlscache.fptplay.net.vn/livek/danang1_hls.smil/playlist.m3u8?token=eyJ2YW
 http://hlscache.fptplay.net.vn/livek/hanoitv1_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjYwMzkyMiwgInRva2VuIjogIjk5Y2E2ZjM5MWU5OGQ5N2Q3ZGYxZDAzMWU4OGY1ODY1IiwgInNlcnZlcl90aW1lIjogMTQ2NjUxNzUyMiwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImhhbm9pdHYxX2hscyJ9
 #EXTINF:-2,Hà Nội 2
 http://hlscache.fptplay.net.vn/livek/hanoitv2_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjYwMzk4NSwgInRva2VuIjogIjY5NTI3YTg4MGJlZDNjZjFhOWQ1NDM4YzIwOTQyNDRjIiwgInNlcnZlcl90aW1lIjogMTQ2NjUxNzU4NSwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImhhbm9pdHYyX2hscyJ9
+#EXTINF:3,P1-Phim 24/7 
+http://live.csmtalk.vcdn.vn/hls/2a71891d617f84926e919e283b8848ca/15576524775/thev/index.m3u8
+#EXTINF:3,P2-Phim 24/7
+http://49.213.127.18:8000/924903.flv?longgau=deptraimanly&uin=99999
 
 
 
