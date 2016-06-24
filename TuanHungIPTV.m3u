@@ -3,13 +3,13 @@
 #EXTINF:-1, VTV1 HD 
 http://11e6.vp9.tv/chn/vtv1/v.m3u8
 #EXTINF:-1, VTV2 SD 
-http://live.vtn.cdn.fptplay.net/liver/vtv2_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2MzIxOSwgInRva2VuIjogImZiNGQ5YTkzNjBiYzllMDM5MWI4NjU4YzdiZGM0Y2VkIiwgInNlcnZlcl90aW1lIjogMTQ2NjY3NjgxOSwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0djJfaGxzIn0=
+http://vnn.anluong.info/hls/vtv2.m3u8
 #EXTINF:-1, VTV3 HD
-http://hlscache.fptplay.net.vn/event/vtv3hd_hls.smil/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImRhMTk0OWQwMDEyOGZkZDllZGRjZmUyNTcxZWFkMTBjIiwgInNlcnZlcl90aW1lIjogMTQ2NjY3Njc2OSwgImNoYW5uZWxfaWQiOiAidnR2My1oZCIsICJ2YWxpZF9taW51dGVzIjogMTQ0MH0
+http://vnn.anluong.info/hls/vtv2.m3u8
 #EXTINF:-1, VTV4
-http://hlscache.fptplay.net.vn/liver/vtv4_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2MzI2NiwgInRva2VuIjogIjE5YTRiYjVkMDJhNTVlMjJiMmExOTMwNmZhZjdkZDdiIiwgInNlcnZlcl90aW1lIjogMTQ2NjY3Njg2NiwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0djRfaGxzIn0=
+http://vnn.anluong.info/hls/vtv2.m3u8
 #EXTINF:-1, VTV5
-http://mobi.vtvplus.vn:1935/live/vtv5.m3u8
+http://vnn.anluong.info/hls/vtv5.m3u8
 #EXTINF:-1, VTV6 HD
 http://hlscache.fptplay.net.vn/event/vtv6hd_hls.smil/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjk2MGE0NjIwMjlkOTM5OWRlMjZmODAxZDhhYjUyMzU3IiwgInNlcnZlcl90aW1lIjogMTQ2NjY3NzAxMywgImNoYW5uZWxfaWQiOiAidnR2Ni1oZCIsICJ2YWxpZF9taW51dGVzIjogMTQ0MH0
 #EXTINF:-1, VTV8 HD 
