@@ -7,7 +7,7 @@ http://vnn.anluong.info/hls/vtv2.m3u8
 #EXTINF:-1, VTV3 HD
 http://11e6.vp9.tv/chn/vtv3/v.m3u8
 #EXTINF:-1, VTV4
-http://11e6.vp9.tv/chn/vtv3/v.m3u8
+http://xmiolive.e14538a7.viettel-cdn.vn/vtv4.smil/chunklist_b1500000.m3u8
 #EXTINF:-1, VTV5
 http://data.xemtiviso.com/fpt-vtv5.m3u8
 #EXTINF:-1, VTV6 HD
@@ -85,6 +85,9 @@ http://m.anluong.info/m3u8/vtc8.m3u8
 http://14.161.5.88:1935/live/myStream/playlist.m3u8
 #EXTINF:-1, VTC10 NetViet
 http://sv.tivi24h.com/vtc10.m3u8
+#EXTINF:-1, VTC11 NetViet
+http://02e4.vp9.tv/chn/kids/v.m3u8
+
 #EXTINF:-1, VTC13 HD (ITV)
 http://censoft.mobi:1935/tvviet/vtc12.stream/chunklist_w1168893918.m3u8
 
@@ -105,6 +108,8 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:-1,VEVO 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1,02TV
+http://02e4.vp9.tv/chn/o2tv/v.m3u8
 #EXTINF:-1,Bình Dương 1 (BTV1)
 http://m.anluong.info/m3u8/binhduong1.m3u8
 #EXTINF:-1,Bình Dương 2 (BTV2)
