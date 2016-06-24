@@ -11,75 +11,90 @@ http://vnn.anluong.info/hls/vtv2.m3u8
 #EXTINF:-1, VTV5
 http://vnn.anluong.info/hls/vtv5.m3u8
 #EXTINF:-1, VTV6 HD
-http://hlscache.fptplay.net.vn/event/vtv6hd_hls.smil/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjk2MGE0NjIwMjlkOTM5OWRlMjZmODAxZDhhYjUyMzU3IiwgInNlcnZlcl90aW1lIjogMTQ2NjY3NzAxMywgImNoYW5uZWxfaWQiOiAidnR2Ni1oZCIsICJ2YWxpZF9taW51dGVzIjogMTQ0MH0
+http://m.anluong.info/m3u8/vtv6.m3u8
+#EXTINF:-1, VTV7 HD
+http://vtvgoobj.04477775.sabai.vn/e59a4471af7dc77090d7ec962e7013cb1466803376/live/_definst_/vtv7.m3u8
 #EXTINF:-1, VTV8 HD 
-http://hlscache.fptplay.net.vn/event/vtv6hd_hls.smil/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjk2MGE0NjIwMjlkOTM5OWRlMjZmODAxZDhhYjUyMzU3IiwgInNlcnZlcl90aW1lIjogMTQ2NjY3NzAxMywgImNoYW5uZWxfaWQiOiAidnR2Ni1oZCIsICJ2YWxpZF9taW51dGVzIjogMTQ0MH0
+http://vtvgoobj.04477775.sabai.vn/83692337089741e4a3b79974b1581cba1466803458/live/_definst_/vtv8-mid.m3u8
 #EXTINF:-1, VTV9
-http://s3.vtvplus.vn/live/vtv9.m3u8?t=a2da002d4da20c6a4ad33805f99d4396&e=1466684394
+http://vtvgoobj.04477775.sabai.vn/c142b6ae5cffc9100b292bfd990441121466803498/live/_definst_/vtv9-mid.m3u8
 #EXTINF:-1, VOVTV
-http://hlscache.fptplay.net.vn/lives/vovtv_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2MzcxMCwgInRva2VuIjogIjNmYjA1NzQ2NTExODk1YWNlZmFkMDJhZjQ0OTljOTllIiwgInNlcnZlcl90aW1lIjogMTQ2NjY3NzMxMCwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZvdnR2X2hscyJ9
+http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
+#EXTINF:-1, Giao Thông
+http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
 #EXTINF:-1, ANTV
-http://hlscache.fptplay.net.vn/livek/anninhtv_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2Mzc2MiwgInRva2VuIjogImVjODhiNDU5OWQ1ZDU0MmQyOWQ2ZTVlZTIzOWUxN2MwIiwgInNlcnZlcl90aW1lIjogMTQ2NjY3NzM2MiwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImFubmluaHR2X2hscyJ9
+http://xmiolive.e14538a7.viettel-cdn.vn/antv.smil/chunklist_b1500000.m3u8
 #EXTINF:-1,QUỐC PHÒNG VIỆT NAM
-http://hlscache.fptplay.net.vn/liver/quocphongvnhd_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2Mzc5MiwgInRva2VuIjogImVmYzc5Y2VjNTIyYjZlZGZmNjZiY2JiZDRiYzgzODkyIiwgInNlcnZlcl90aW1lIjogMTQ2NjY3NzM5MiwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInF1b2NwaG9uZ3ZuaGRfaGxzIn0=
+http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
+#EXTINF:-1,TTXVN
+http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
 #EXTINF:-1,QUỐC Hội
-http://hlscache.fptplay.net.vn/livek/quochoivn_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2MzgzMywgInRva2VuIjogImE5YjMzMGU1YmRmZGIxNDc2MWE4MWY2YTBjY2VlMzYyIiwgInNlcnZlcl90aW1lIjogMTQ2NjY3NzQzMywgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInF1b2Nob2l2bl9obHMifQ==
+http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
 #EXTINF:-1 group-title="Kênh HTV ", [COLOR red][B]Kênh HTV[/B][/COLOR]
 #EXTINF:-1, HTV1
-http://hlscache.fptplay.net.vn/lives/htv1_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2Mzg2MywgInRva2VuIjogImZlMDhjZDU0ZmZmMDdlZjU1ZjBlMWRlY2MxYjZkYzA2IiwgInNlcnZlcl90aW1lIjogMTQ2NjY3NzQ2MywgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImh0djFfaGxzIn0=
+http://live.vn-hd.com/018e04b88016828fe9e4e7ba553b0ff5/spsklfl/htv1.360p.stream/playlist.m3u8
 #EXTINF:-1, HTV2
-http://hlscache.fptplay.net.vn/livek/htv2hd_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2Mzg4OCwgInRva2VuIjogIjlmNjExZjc0M2QyNjY3NzM3MGUzMzA1NGYzZThmNWM5IiwgInNlcnZlcl90aW1lIjogMTQ2NjY3NzQ4OCwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImh0djJoZF9obHMifQ==
+http://live.vn-hd.com/018e04b88016828fe9e4e7ba553b0ff5/spsklfl/htv2.720p.stream/chunklist.m3u8
 #EXTINF:-1, HTV3
-http://hlscache.fptplay.net.vn/livek/htv3_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2MzkxMCwgInRva2VuIjogIjczNTUyZTcwNjVjZTFmNTM3MzliN2U1YzdiMmZjYTg0IiwgInNlcnZlcl90aW1lIjogMTQ2NjY3NzUxMCwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImh0djNfaGxzIn0=
+http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
 #EXTINF:-1, HTV4
-http://hlscache.fptplay.net.vn/lives/htv4_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2Mzk0OSwgInRva2VuIjogImMyYTEwZDU3N2U5ZWQzNWRiZTcyNDNlZjJkYThlYWFlIiwgInNlcnZlcl90aW1lIjogMTQ2NjY3NzU0OSwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImh0djRfaGxzIn0=
+http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
 #EXTINF:-1, HTV7 HD
-http://hlscache.fptplay.net.vn/livek/htv7hd_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2Mzk3MywgInRva2VuIjogIjQzZjA4Mzc3M2VhNzM1MzYxOTdjZmJjYWI5MTNmYmJmIiwgInNlcnZlcl90aW1lIjogMTQ2NjY3NzU3MywgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImh0djdoZF9obHMifQ==
+http://live.vn-hd.com/018e04b88016828fe9e4e7ba553b0ff5/spsklfl/htv7.720p.stream/playlist.m3u8
 #EXTINF:-1, HTV9 HD
-http://hlscache.fptplay.net.vn/livek/htv9hd_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2NDAxMSwgInRva2VuIjogIjZkYjE4MjM3NmJmMGY1NGIxMTA3N2JlZjVkZDI5YzJkIiwgInNlcnZlcl90aW1lIjogMTQ2NjY3NzYxMSwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImh0djloZF9obHMifQ==
+http://live.vn-hd.com/018e04b88016828fe9e4e7ba553b0ff5/spsklfl/htv9.720p.stream/playlist.m3u8
 #EXTINF:-1, HTV The Thao
-http://hlscache.fptplay.net.vn/livek/htvcthethao_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2NDI0OCwgInRva2VuIjogIjM1NmRlOGEyZDBhOGIwZDdhM2NmYTk2MmNiMzViNDBiIiwgInNlcnZlcl90aW1lIjogMTQ2NjY3Nzg0OCwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImh0dmN0aGV0aGFvX2hscyJ9
+http://live.vn-hd.com/018e04b88016828fe9e4e7ba553b0ff5/spsklfl/vtv1.360p.stream/chunklist.m3u8
 #EXTINF:-1, HTVC MOVIE HD
-http://hlscache.fptplay.net.vn/livek/htvcmoviehd_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2NDI5NCwgInRva2VuIjogIjg4OWE5ZWNkZTFmYjhkOGNiNzRlNzZjMGMyMzAxMjcyIiwgInNlcnZlcl90aW1lIjogMTQ2NjY3Nzg5NCwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImh0dmNtb3ZpZWhkX2hscyJ9
+http://live.vn-hd.com/018e04b88016828fe9e4e7ba553b0ff5/spsklfl/vtv1.360p.stream/chunklist.m3u8
 #EXTINF:-1, HTVC Thuần Việt HD
-http://hlscache.fptplay.net.vn/liver/htvcthuanviethd_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2NDMyMSwgInRva2VuIjogImY5ZTNiNjZkZmViMDUzNDg5ZDcxZTNjOGM2NWIxZmUzIiwgInNlcnZlcl90aW1lIjogMTQ2NjY3NzkyMSwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImh0dmN0aHVhbnZpZXRoZF9obHMifQ==
+http://live.vn-hd.com/018e04b88016828fe9e4e7ba553b0ff5/spsklfl/vtv1.360p.stream/chunklist.m3u8
 #EXTINF:-1, HTVC Thuần Việt SD
-http://hlscache.fptplay.net.vn/lives/htvcthuanviet_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2NDM0NSwgInRva2VuIjogImI2NTRlNWQ3YjYwZmNjMjJlNmRlY2E0ODAyNmMxZjRlIiwgInNlcnZlcl90aW1lIjogMTQ2NjY3Nzk0NSwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImh0dmN0aHVhbnZpZXRfaGxzIn0=
+http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
 #EXTINF:-1, HTVC Du Lịch Và Cuộc Sống SD
-http://hlscache.fptplay.net.vn/livek/htvcdulich_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2NDQzMSwgInRva2VuIjogImEyYjA5YmEzMWYyNTk1OWFhYTI4YzNiYmU2NDcxMWY4IiwgInNlcnZlcl90aW1lIjogMTQ2NjY3ODAzMSwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImh0dmNkdWxpY2hfaGxzIn0=
+http://live.vn-hd.com/018e04b88016828fe9e4e7ba553b0ff5/spsklfl/du_lich.360p.stream/playlist.m3u8
 #EXTINF:-1,HTVC Phụ Nữ SD
-http://hlscache.fptplay.net.vn/lives/htvcphunu_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2NDQ2MiwgInRva2VuIjogIjlhN2JlNjgwMjUzZTI2N2Y1M2JhMmY2YjE0NjRjZGU2IiwgInNlcnZlcl90aW1lIjogMTQ2NjY3ODA2MiwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImh0dmNwaHVudV9obHMifQ==
+http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
 #EXTINF:-1,HTVC Gia Đình
-http://hlscache.fptplay.net.vn/lives/htvcgiadinh_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2NDU0MCwgInRva2VuIjogImUzOTA2Y2NkZjgyMDgzZWVjNjllYWIyNTEyMWY5MDA2IiwgInNlcnZlcl90aW1lIjogMTQ2NjY3ODE0MCwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImh0dmNnaWFkaW5oX2hscyJ9
+http://live.vn-hd.com/018e04b88016828fe9e4e7ba553b0ff5/spsklfl/gia_dinh.360p.stream/playlist.m3u8
+#EXTINF:-1,HTV Ca nhạc
+http://live.vn-hd.com/018e04b88016828fe9e4e7ba553b0ff5/spsklfl/htvc_music.360p.stream/playlist.m3u8
 #EXTINF:-1,FBNC
-http://hlscache.fptplay.net.vn/lives/fbnchd_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2NDU4MiwgInRva2VuIjogImQyYTI5ZmRhM2EyYjU3ODc2MTE5ZGRkZDEyNTU3ZDQ3IiwgInNlcnZlcl90aW1lIjogMTQ2NjY3ODE4MiwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImZibmNoZF9obHMifQ==
+http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
+#EXTINF:-1,VITV
+http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
+
 #EXTINF:-1 group-title="Kênh VTc ", [COLOR red][B]Kênh VTc[/B][/COLOR]
 #EXTINF:-1, VTC1 SD
-http://hlscache.fptplay.net.vn/liver/vtc1_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2NDYxMSwgInRva2VuIjogIjgwNWJmNzEyZGU1OTQ2MTdkZmJmNWI0YjliMGU4MTZjIiwgInNlcnZlcl90aW1lIjogMTQ2NjY3ODIxMSwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0YzFfaGxzIn0=
+http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
+#EXTINF:-1, VTC2 SD
+http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
 #EXTINF:-1, VTC3 HD
-http://hlscache.fptplay.net.vn/liver/vtc3hd_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2NDYzMywgInRva2VuIjogIjE1NTM0ZmI2YTU5OTk3M2M4MTRiZjVmOTM2YjZiNTM3IiwgInNlcnZlcl90aW1lIjogMTQ2NjY3ODIzMywgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0YzNoZF9obHMifQ==
+http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
 #EXTINF:-1, VTC4 SD
-http://hlscache.fptplay.net.vn/livek/vtc4_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2NDcwMiwgInRva2VuIjogImYxN2M3N2YzMjM2N2Q3YjYxY2QxYTNkZWM5NjkzZmUxIiwgInNlcnZlcl90aW1lIjogMTQ2NjY3ODMwMiwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0YzRfaGxzIn0=
+http://m.anluong.info/m3u8/vtc4.m3u8
 #EXTINF:-1, VTC5 SD
-http://hlscache.fptplay.net.vn/liver/vtc5_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2NDcyOCwgInRva2VuIjogIjVhMTAxY2M2ZGMyYzY5YjJjMDUxYjZlMGIwNzU4OGNlIiwgInNlcnZlcl90aW1lIjogMTQ2NjY3ODMyOCwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0YzVfaGxzIn0=
+http://m.anluong.info/m3u8/vtc5.m3u8
 #EXTINF:-1, VTC6 SD
-http://hlscache.fptplay.net.vn/liver/vtc6_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2NDc1MCwgInRva2VuIjogImVkMzAzMmU5YzAwNmY4MmU1NDU2ZWZhNjQxYzQ1MzQzIiwgInNlcnZlcl90aW1lIjogMTQ2NjY3ODM1MCwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0YzZfaGxzIn0=
+http://m.anluong.info/m3u8/vtc6.m3u8
 #EXTINF:-1, VTC7 Today
-http://hlscache.fptplay.net.vn/xskt/todaytv_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2NDc4NSwgInRva2VuIjogImU5YjE2MzY0MTBkMjQyMjQ0MDczZjg3YjZlZjExM2ZlIiwgInNlcnZlcl90aW1lIjogMTQ2NjY3ODM4NSwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInRvZGF5dHZfaGxzIn0=
+http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
 #EXTINF:-1, VTC8 
-http://hlscache.fptplay.net.vn/livek/vtc8_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2NDgwOSwgInRva2VuIjogIjRlYThlZDM1ZTY2OTMyY2NkZDFjY2U3MzMyZjUwZjM3IiwgInNlcnZlcl90aW1lIjogMTQ2NjY3ODQwOSwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0YzhfaGxzIn0=
+http://m.anluong.info/m3u8/vtc8.m3u8
 #EXTINF:-1, VTC9 Let'Việt
-http://hlscache.fptplay.net.vn/xskt/letsviet_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2NDg0MSwgInRva2VuIjogIjZiZmIwMmI1ZmRkZjdkNzZhNjRlYTEzNmFmN2FlZTg3IiwgInNlcnZlcl90aW1lIjogMTQ2NjY3ODQ0MSwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImxldHN2aWV0X2hscyJ9
+http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
 #EXTINF:-1, VTC10 NetViet
-http://hlscache.fptplay.net.vn/liver/vtc10_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2NDkwNiwgInRva2VuIjogIjQ2ODBhYTFmMmEyYTM1NmY2NjkzNDc1N2U1ODc5YjEwIiwgInNlcnZlcl90aW1lIjogMTQ2NjY3ODUwNiwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0YzEwX2hscyJ9
+http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
+#EXTINF:-1, VTC11 KIDS TV
+http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
 #EXTINF:-1, VTC12
-http://hlscache.fptplay.net.vn/livek/vtc12_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2NDk1MiwgInRva2VuIjogIjQ0NWQ3NTQ1ZWIxZmJhZjUzYWU3MTQ1MGU1NjhmZDE5IiwgInNlcnZlcl90aW1lIjogMTQ2NjY3ODU1MiwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0YzEyX2hscyJ9
+http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
 #EXTINF:-1, VTC13 HD (ITV)
-http://hlscache.fptplay.net.vn/liver/itvhd_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2NDk3NiwgInRva2VuIjogImJlOTg4MDk3MWYyMTZkOWMzNDgzZDY4YTVlODY4YWQwIiwgInNlcnZlcl90aW1lIjogMTQ2NjY3ODU3NiwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogIml0dmhkX2hscyJ9
+http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
 #EXTINF:-1, VTC14 HD
-http://hlscache.fptplay.net.vn/liver/vtc14_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2NTA4NiwgInRva2VuIjogIjIzYmE1OTkxMjJlZDQ5MjFjMjM5ZmYxZGMxNjBiZTQ5IiwgInNlcnZlcl90aW1lIjogMTQ2NjY3ODY4NiwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0YzE0X2hscyJ9
+http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
 #EXTINF:-1, VTC16 SD
-http://hlscache.fptplay.net.vn/liver/vtc16_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2NTEyNywgInRva2VuIjogImVhNTJiMTBlMDg4OGQwMTg0MjA3ODdkYmJiM2ZmNjk0IiwgInNlcnZlcl90aW1lIjogMTQ2NjY3ODcyNywgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0YzE2X2hscyJ9
+http://m.anluong.info/m3u8/vtc16.m3u8
 #EXTINF:-1, Phim Hay HD
 http://hlscache.fptplay.net.vn/lives/phimhay_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2NTE2MCwgInRva2VuIjogImFjOGI2NDEwYjNkNzE3NTdlNmM0ODI4ZWJkMzY0ZGI1IiwgInNlcnZlcl90aW1lIjogMTQ2NjY3ODc2MCwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInBoaW1oYXlfaGxzIn0=
 #EXTINF:-1,SAM
