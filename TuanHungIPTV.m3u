@@ -5,11 +5,11 @@ http://11e6.vp9.tv/chn/vtv1/v.m3u8
 #EXTINF:-1, VTV2 SD 
 http://vnn.anluong.info/hls/vtv2.m3u8
 #EXTINF:-1, VTV3 HD
-http://vnn.anluong.info/hls/vtv2.m3u8
+http://11e6.vp9.tv/chn/vtv3/v.m3u8
 #EXTINF:-1, VTV4
-http://vnn.anluong.info/hls/vtv2.m3u8
+http://11e6.vp9.tv/chn/vtv3/v.m3u8
 #EXTINF:-1, VTV5
-http://vnn.anluong.info/hls/vtv5.m3u8
+http://data.xemtiviso.com/fpt-vtv5.m3u8
 #EXTINF:-1, VTV6 HD
 http://m.anluong.info/m3u8/vtv6.m3u8
 #EXTINF:-1, VTV7 HD
