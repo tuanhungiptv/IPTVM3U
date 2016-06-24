@@ -78,37 +78,27 @@ http://m.anluong.info/m3u8/vtc5.m3u8
 #EXTINF:-1, VTC6 SD
 http://m.anluong.info/m3u8/vtc6.m3u8
 #EXTINF:-1, VTC7 Today
-http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
+http://m.anluong.info/m3u8/vtc7.m3u8
 #EXTINF:-1, VTC8 
 http://m.anluong.info/m3u8/vtc8.m3u8
 #EXTINF:-1, VTC9 Let'Việt
-http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
+http://14.161.5.88:1935/live/myStream/playlist.m3u8
 #EXTINF:-1, VTC10 NetViet
-http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
-#EXTINF:-1, VTC11 KIDS TV
-http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
-
-#EXTINF:-1, VTC12
-http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
+http://sv.tivi24h.com/vtc10.m3u8
 #EXTINF:-1, VTC13 HD (ITV)
-http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
+http://censoft.mobi:1935/tvviet/vtc12.stream/chunklist_w1168893918.m3u8
 
-#EXTINF:-1, VTC14 HD
-http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
+#EXTINF:-1, VTC14 HD Dang cap nhat
 #EXTINF:-1, VTC16 SD
 http://m.anluong.info/m3u8/vtc16.m3u8
 #EXTINF:-1, Phim Hay HD
-http://hlscache.fptplay.net.vn/lives/phimhay_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2NTE2MCwgInRva2VuIjogImFjOGI2NDEwYjNkNzE3NTdlNmM0ODI4ZWJkMzY0ZGI1IiwgInNlcnZlcl90aW1lIjogMTQ2NjY3ODc2MCwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInBoaW1oYXlfaGxzIn0=
-#EXTINF:-1,SAM
-http://hlscache.fptplay.net.vn/lives/sam_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2OTMyOCwgInRva2VuIjogIjAxMGNhM2ZjNWMwYTYwNDk1MjQ4MjJkOTk3NmNkMDk3IiwgInNlcnZlcl90aW1lIjogMTQ2NjY4MjkyOCwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInNhbV9obHMifQ==
-#EXTINF:-1,Bi Bi
-http://newcdn.vtvplay.vn:8081/livechannel/vtvca8-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDE2IDExOjU0OjAzIEFNJmhhc2hfdmFsdWU9SGZ5VU1ScjJnOUkwTHVjeGFDTVZSZz09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1, Kids TV
-http://hlscache.fptplay.net.vn/liver/vtc11_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2OTkzMiwgInRva2VuIjogImVmMDVmN2M4YjI3YTNmMTI1NDg3YTZjZjVkYjdmZjMyIiwgInNlcnZlcl90aW1lIjogMTQ2NjY4MzUzMiwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0YzExX2hscyJ9
+http://m.anluong.info/m3u8/phimhay.m3u8
+#EXTINF:-1,SAM Dang cap nhat
+#EXTINF:-1,Bi Bi Dang cap nhat
 #EXTINF:-1,ViệtTEEN
-http://hlscache.fptplay.net.vn/lives/vietteen_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2OTk3MiwgInRva2VuIjogIjIzOWU1ZTU4ZTViZDFiZmFmOGY5NGY2Njg0MGE5MDZhIiwgInNlcnZlcl90aW1lIjogMTQ2NjY4MzU3MiwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZpZXR0ZWVuX2hscyJ9
+http://m.anluong.info/m3u8/vietteen.m3u8
 #EXTINF:-1,VIETNAMNET
-http://hlscache.fptplay.net.vn/lives/vietnamnet_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc3MDAwMCwgInRva2VuIjogIjNmZDFmNTNmZTM5ZDk2ZjJjY2E3NjE5ODFmMjBjZTY4IiwgInNlcnZlcl90aW1lIjogMTQ2NjY4MzYwMCwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZpZXRuYW1uZXRfaGxzIn0=
+http://htvlive.1c656bad.cdnviet.com/5418652cb45e459146fa32a093cc26d21466842752/vnn.360p.stream/chunklist.m3u8
 #EXTINF:-1,VEVO 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:-1,VEVO 2
@@ -116,13 +106,12 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:-1,VEVO 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:-1,Bình Dương 1 (BTV1)
-http://hlscache.fptplay.net.vn/livek/btv1_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjM5MDczOSwgInRva2VuIjogIjM5MmY3N2FkNjU0MTk0MjIzMGE2MmU4OTRlZDk2NDg0IiwgInNlcnZlcl90aW1lIjogMTQ2NjMwNDMzOSwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImJ0djFfaGxzIn0=
+http://m.anluong.info/m3u8/binhduong1.m3u8
 #EXTINF:-1,Bình Dương 2 (BTV2)
-http://hlscache.fptplay.net.vn/livek/btv2_hls.smil/chunklist_b2500000.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjM0MTc0NywgInRva2VuIjogImJhOTk3OWQwNDlhMGJhYWM3ZGM2ZDNjNmFmMmI1YzZmIiwgInNlcnZlcl90aW1lIjogMTQ2NjI1NTM0NywgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImJ0djJfaGxzIn0=
+http://m.anluong.info/m3u8/binhduong2.m3u8
 #EXTINF:-1,Bình Dương 4 (BTV4)
-http://hlscache.fptplay.net.vn/lives/btv4hd_hls.smil/chunklist_b2500000.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjM0NTg5NiwgInRva2VuIjogIjJiZmU3NzgwNzYxNGI3NDc5MmQwYWJkMzg2NDhjZTM4IiwgInNlcnZlcl90aW1lIjogMTQ2NjI1OTQ5NiwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImJ0djRoZF9obHMifQ==
-#EXTINF:-1,Bình Dương 10(NCM)
-http://hlscache.fptplay.net.vn/liver/ncm_hls.smil/chunklist_b1200000.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjM5NDMwMiwgInRva2VuIjogIjQ2NTEyNThjMWQ1ZWNhZDdiMDZlNzBiNTczMmNhYjc5IiwgInNlcnZlcl90aW1lIjogMTQ2NjMwNzkwMiwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogIm5jbV9obHMifQ==
+http://m.anluong.info/m3u8/binhduong4.m3u8
+#EXTINF:-1,Bình Dương 10(NCM) Dang cap nhat
 #EXTINF:-1,Vinhlong 1 THVL1
 http://thvllive.bb87e240.cdnviet.com/thvl1/chunklist.m3u8
 #EXTINF:-1,Vinhlong 2 THVL2
