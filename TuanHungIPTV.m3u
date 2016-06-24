@@ -1,7 +1,7 @@
 ﻿#EXTM3U TuanHungTVbox
 #EXTINF:-1 group-title="Kênh VTV ", [COLOR red][B]Kênh VTV[/B][/COLOR]
 #EXTINF:-1, VTV1 HD 
-http://hlscache.fptplay.net.vn/livek/vtv1hd_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2MzEzMCwgInRva2VuIjogImNmMjZlOWViZDg0OWY1ZWU0NzhhMGI0NjVhNmYyOGM0IiwgInNlcnZlcl90aW1lIjogMTQ2NjY3NjczMCwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0djFoZF9obHMifQ==
+http://11e6.vp9.tv/chn/vtv1/v.m3u8
 #EXTINF:-1, VTV2 SD 
 http://live.vtn.cdn.fptplay.net/liver/vtv2_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njc2MzIxOSwgInRva2VuIjogImZiNGQ5YTkzNjBiYzllMDM5MWI4NjU4YzdiZGM0Y2VkIiwgInNlcnZlcl90aW1lIjogMTQ2NjY3NjgxOSwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInZ0djJfaGxzIn0=
 #EXTINF:-1, VTV3 HD
