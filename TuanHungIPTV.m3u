@@ -17,21 +17,20 @@ http://htvlive.1c656bad.cdnviet.com/0e271e03174f315fb0c9f1f2c3908af41466923990/v
 #EXTINF:-1, VTV3 HD
 http://11e6.vp9.tv/chn/vtv3/v.m3u8
 #EXTINF:-1, VTV4
-http://s3.vtvplus.vn/live/_definst_/vtv4.m3u8?t=225a58c0e9ad817a320cb95f3c491876&e=1466888967
+http://2co1.vp9.tv/chn/vtv4/v.m3u8
 #EXTINF:-1 group-title="VTV",VTV5
-
 #EXTINF:-1, VTV6 HD
-http://vtvgoobj.04477775.sabai.vn/d08e3aafa0340be44edb11e9560d58b51466860220/live/_definst_/vtv6-mid.m3u8
+http://live.vn-hd.com/018e04b88016828fe9e4e7ba553b0ff5/spsklfl/vtv6.360p.stream/chunklist.m3u8
 #EXTINF:-1, VTV8 HD 
-http://vtvgoobj.04477775.sabai.vn/83692337089741e4a3b79974b1581cba1466803458/live/_definst_/vtv8-mid.m3u8
+http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist_w1312792424.m3u8
 #EXTINF:-1, VOVTV
 http://210.245.60.242:1935/vovtv/vovtv/playlist.m3u8
 #EXTINF:-1, ANTV
 http://xmiolive.e14538a7.viettel-cdn.vn/antv.smil/chunklist_b1500000.m3u8
 #EXTINF:-1,QUỐC PHÒNG VIỆT NAM
-http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
+http://hlscache.fptplay.net.vn/liver/quocphongvnhd_hls.smil/chunklist_b2500000.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njk3MDc1MSwgInRva2VuIjogImYyN2E4NGRjNGZhNGVlY2ZhMDRmOTI2ZDNmOGU4ZDk0IiwgInNlcnZlcl90aW1lIjogMTQ2Njg4NDM1MSwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInF1b2NwaG9uZ3ZuaGRfaGxzIn0=
 #EXTINF:-1,TTXVN
-http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
+http://hlscache.fptplay.net.vn/liver/ttxvn_hls.smil/chunklist_b2500000.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2Njk3MDk4NSwgInRva2VuIjogImE0YjEyYTk3YzBhNGYxY2JlYzc1ZmQxOGUwN2I0MDI0IiwgInNlcnZlcl90aW1lIjogMTQ2Njg4NDU4NSwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInR0eHZuX2hscyJ9
 #EXTINF:-1,QUỐC Hội
 http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
 #EXTINF:-1 group-title="Kênh HTV ", [COLOR red][B]Kênh HTV[/B][/COLOR]
