@@ -1,4 +1,8 @@
 ﻿#EXTM3U TuanHungTVbox
+#EXTINF:-1,Trực Tiếp Thụy Sỹ vs Ba Lan server 1
+http://103.237.146.14:3515/3464f9ac-080b-4710-9b3c-02f532e084e9/channel1/chunklist_w2088141857_tkd3Rva2VuZW5kdGltZT0xNDY2ODczODE5Jnd0b2tlbnN0YXJ0dGltZT0xNDY2ODU5NDE5Jnd0b2tlbmhhc2g9cDZKM2VQcGJSNkE0eHZvZXF6OXhac3hoVEEzQ3Y3OVRXZ0twX2xXNG4yVT0=.m3u8
+#EXTINF:-1,Trực Tiếp Thụy Sỹ vs Ba Lan server 2
+
 #EXTINF:-1 group-title="Kênh VTV ", [COLOR red][B]Kênh VTV[/B][/COLOR]
 #EXTINF:-1, VTV1 HD 
 http://11e6.vp9.tv/chn/vtv1/v.m3u8
@@ -10,16 +14,10 @@ http://11e6.vp9.tv/chn/vtv3/v.m3u8
 http://xmiolive.e14538a7.viettel-cdn.vn/vtv4.smil/chunklist_b1500000.m3u8
 #EXTINF:-1, VTV6 HD
 http://vtvgoobj.04477775.sabai.vn/d08e3aafa0340be44edb11e9560d58b51466860220/live/_definst_/vtv6-mid.m3u8
-#EXTINF:-1, VTV7 HD
-http://vtvgoobj.04477775.sabai.vn/e59a4471af7dc77090d7ec962e7013cb1466803376/live/_definst_/vtv7.m3u8
 #EXTINF:-1, VTV8 HD 
 http://vtvgoobj.04477775.sabai.vn/83692337089741e4a3b79974b1581cba1466803458/live/_definst_/vtv8-mid.m3u8
-#EXTINF:-1, VTV9
-http://vtvgoobj.04477775.sabai.vn/c142b6ae5cffc9100b292bfd990441121466803498/live/_definst_/vtv9-mid.m3u8
 #EXTINF:-1, VOVTV
-http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
-#EXTINF:-1, Giao Thông
-http://live.csmtalk.vcdn.vn/hls/21b9771bde33ef6db753e70b978cbf2f/15583addb05/thegioionline/index.m3u8
+http://210.245.60.242:1935/vovtv/vovtv/playlist.m3u8
 #EXTINF:-1, ANTV
 http://xmiolive.e14538a7.viettel-cdn.vn/antv.smil/chunklist_b1500000.m3u8
 #EXTINF:-1,QUỐC PHÒNG VIỆT NAM
