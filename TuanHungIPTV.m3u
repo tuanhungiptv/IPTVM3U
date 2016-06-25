@@ -1,14 +1,14 @@
-﻿#EXTM3U TuanHungTVbox
-﻿#EXTINF:-1,Trực Tiếp Euro 2016 server (Tốt)
-http://htvlive.1c656bad.cdnviet.com/aec3bf020f75f9d365fa33b53bba92021466924291/vtv3.720p.stream/playlist.m3u8
+#EXTM3U TuanHungTVbox
 #EXTINF:-1,Trực Tiếp Euro 2016 server 1
 http://vnn.anluong.info/hls/vtv3.m3u8
 #EXTINF:-1,TTrực Tiếp Euro 2016 server 2
 http://live.csmtalk.vcdn.vn/hls/88946af2d912ef429a0950ab9392371d/15587b8358b/tivinet/index.m3u8
 #EXTINF:-1,Trực Tiếp Euro 2016 server 3
 http://live.csmtalk.vcdn.vn/hls/e180dc412a9e336b6ffa7259755f9bbe/15587baead6/gametv.vn/index.m3u8
-#EXTINF:-1,TTrực Tiếp Euro 2016 server 4
+#EXTINF:-1,Trực Tiếp Euro 2016 server 4
 http://live.csmtalk.vcdn.vn/hls/0be0fd5d0c54acffd3ac47a36ea04ce1/15587cde01c/golden.clip/index.m3u8
+#EXTINF:-1,Trực Tiếp Euro 2016 server 5
+http://htvlive.1c656bad.cdnviet.com/aec3bf020f75f9d365fa33b53bba92021466924291/vtv3.720p.stream/playlist.m3u8
 #EXTINF:-1 group-title="Kênh VTV ", [COLOR red][B]Kênh VTV[/B][/COLOR]
 #EXTINF:-1, VTV1 HD 
 http://11e6.vp9.tv/chn/vtv1/v.m3u8
