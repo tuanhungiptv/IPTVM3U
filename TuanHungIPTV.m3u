@@ -77,22 +77,15 @@ http://htvlive.1c656bad.cdnviet.com/3cce37b8be4111087a4ba8f0c8dbafd41466930008/v
 http://htvlive.1c656bad.cdnviet.com/d13dcbec949cb9cba99bda6aec74f1c21466930322/vtc9.360p.stream/chunklist.m3u8
 #EXTINF:-1, VTC10 NetViet
 http://htvlive.1c656bad.cdnviet.com/4eccf13b90fbfc003b96e97ea3ea1bb61466930373/vtc10.360p.stream/chunklist.m3u8
-#EXTINF:-1, VTC11 NetViet
-hhttp://htvlive.1c656bad.cdnviet.com/4eccf13b90fbfc003b96e97ea3ea1bb61466930373/vtc10.360p.stream/chunklist.m3u8
 #EXTINF:-1, VTC13 HD (ITV)
-http://censoft.mobi:1935/tvviet/vtc12.stream/chunklist_w645283068.m3u8
+http://xmiolive.e14538a7.viettel-cdn.vn/itvhd.smil/chunklist_b1500000.m3u8
 #EXTINF:-1, VTC14 HD Dang cap nhat
 #EXTINF:-1, VTC16
 http://m.anluong.info/m3u8/vtc16.m3u8
-#EXTINF:-1, Phim Hay HD  Dang cap nhat
-http://m.anluong.info/m3u8/phimhay.m3u8
 #EXTINF:-1,You
 http://htvlive.1c656bad.cdnviet.com/f5fa20bca2998f133da040f465db20721466932241/youtv.360p.stream/chunklist.m3u8
 #EXTINF:-1,Bi Bi Dang cap nhat
 http://newcdn.vtvplay.vn:8081/livechannel/vtvca8-abr/playlist.m3u8
-
-#EXTINF:-1,ViệtTEEN
-http://m.anluong.info/m3u8/vietteen.m3u8
 #EXTINF:-1,VIETNAMNET
 http://htvlive.1c656bad.cdnviet.com/5418652cb45e459146fa32a093cc26d21466842752/vnn.360p.stream/chunklist.m3u8
 #EXTINF:-1,VEVO 1
@@ -104,34 +97,28 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:-1,02TV
 http://02e4.vp9.tv/chn/o2tv/v.m3u8
 #EXTINF:-1,Bình Dương 1 (BTV1)
-http://m.anluong.info/m3u8/binhduong1.m3u8
+http://htvlive.1c656bad.cdnviet.com/ee581de0c0cc3e3ef2d50ba3d1e237031466934894/btv1.360p.stream/chunklist.m3u8
 #EXTINF:-1,Bình Dương 2 (BTV2)
-http://m.anluong.info/m3u8/binhduong2.m3u8
-#EXTINF:-1,Bình Dương 4 (BTV4)
-http://m.anluong.info/m3u8/binhduong4.m3u8
-#EXTINF:-1,Bình Dương 10(NCM) Dang cap nhat
+http://htvlive.1c656bad.cdnviet.com/74bde313a5f537f04d02952405e5c6fc1466934961/btv2.480p.stream/chunklist.m3u8
 #EXTINF:-1,Vinhlong 1 THVL1
 http://thvllive.bb87e240.cdnviet.com/thvl1/chunklist.m3u8
 #EXTINF:-1,Vinhlong 2 THVL2
 http://thvllive.bb87e240.cdnviet.com/thvl2/playlist.m3u8
 #EXTINF:-1,Bình Phước 1 BPTV1
-http://hlscache.fptplay.net.vn/lives/binhphuoc1_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjYwMTM4MywgInRva2VuIjogIjE5YThmMGEyNjEwNzkwNzlhZTc3YTQ3OGYzNzkyZjQ2IiwgInNlcnZlcl90aW1lIjogMTQ2NjUxNDk4MywgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImJpbmhwaHVvYzFfaGxzIn0=
+http://htvlive.1c656bad.cdnviet.com/f93b84d8156f0a3e9871b2ea231352fe1466935861/binhphuoc.360p.stream/chunklist.m3u8
 #EXTINF:-1,Bình Phước 2 BPTV2
-http://hlscache.fptplay.net.vn/liver/binhphuoc2_hls.smil/chunklist_b300000.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjYwMTI4OSwgInRva2VuIjogIjc2ZGE0ODlhZWE1MjRmNWEwMmNhY2I5ZDUzZjg4ZWIxIiwgInNlcnZlcl90aW1lIjogMTQ2NjUxNDg4OSwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImJpbmhwaHVvYzJfaGxzIn0=
-#EXTINF:-1,Tiền Giang THTG
-http://hlscache.fptplay.net.vn/liver/tiengiang_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjM5NzEzMCwgInRva2VuIjogImQ0NTExNzg0MGFkMzJjNTU5NGQ5NzE3NmJiNDg3MDJjIiwgInNlcnZlcl90aW1lIjogMTQ2NjMxMDczMCwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInRpZW5naWFuZ19obHMifQ==
-#EXTINF:-1,Miền Tay THDT2
-http://hlscache.fptplay.net.vn/lives/mientay_hls.smil/chunklist_b2500000.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjM0NjMzNCwgInRva2VuIjogIjAxMDk2NTkzYWQ1MDQyMWFhNzlkYzJlZDFhZmVjMTYyIiwgInNlcnZlcl90aW1lIjogMTQ2NjI1OTkzNCwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogIm1pZW50YXlfaGxzIn0=
+http://htvlive.1c656bad.cdnviet.com/74bde313a5f537f04d02952405e5c6fc1466934961/btv2.480p.stream/chunklist.m3u8
+#EXTINF:-1,Miền Tay Đồng Tháp 1
+http://live.vn-hd.com/018e04b88016828fe9e4e7ba553b0ff5/spsklfl/dongthap.360p.stream/chunklist.m3u8
+#EXTINF:-1,Miền Tay Đồng Tháp 2
+http://anluong.info/mientay.m3u8
 #EXTINF:-1,Đồng Nai 1 THDN1
-http://hlscache.fptplay.net.vn/livek/dongnai1_hls.smil/chunklist_b2500000.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjM0NTc4OSwgInRva2VuIjogImFhOGRjMWZmNmY5OTkxOThkMGY1NWVhMWJhNjdiNDQ5IiwgInNlcnZlcl90aW1lIjogMTQ2NjI1OTM4OSwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImRvbmduYWkxX2hscyJ9
-#EXTINF:-1,Đồng Nai 2 THDN2
-http://hlscache.fptplay.net.vn/livek/dongnai2_hls.smil/chunklist_b2500000.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjM0Njg1MCwgInRva2VuIjogImIwZTBiNjA5NjFkY2YyNmQxNThmMjhkZTQzNjMxODEwIiwgInNlcnZlcl90aW1lIjogMTQ2NjI2MDQ1MCwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImRvbmduYWkyX2hscyJ9
-#EXTINF:-1,Cần Thơ THTPCT
-http://hlscache.fptplay.net.vn/livek/cantho_hls.smil/chunklist_b2500000.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjM0NjY4NiwgInRva2VuIjogIjI1MWQ0Y2U2Y2IxZDBhMDc4NzVjMTRlNTAxNzY5NDg2IiwgInNlcnZlcl90aW1lIjogMTQ2NjI2MDI4NiwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImNhbnRob19obHMifQ==
+http://htvlive.1c656bad.cdnviet.com/51a39a52037a0ba69f8f6f790f912e941466937659/dongnai1.480p.stream/chunklist.m3u8
 #EXTINF:-1,Long An LA34
-http://hlscache.fptplay.net.vn/liver/longan_hls.smil/chunklist_b2500000.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjM0NjkwNSwgInRva2VuIjogIjkwNTE3YzdjZmM3ZmJhNDQ1ZmVjZTUyNDk0ZDJiMjUzIiwgInNlcnZlcl90aW1lIjogMTQ2NjI2MDUwNSwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImxvbmdhbl9obHMifQ==
+http://live.vn-hd.com/018e04b88016828fe9e4e7ba553b0ff5/spsklfl/longan.360p.stream/chunklist.m3u8
 #EXTINF:-1,QUẢNG NGÃI (PTQ)
-http://hlscache.fptplay.net.vn/livex/quangngai_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjQzOTM0NywgInRva2VuIjogImM1ZWI0OTg3Njc1OTE2ZDQ0ZDY0MjI5NmE3ZGU0ZDhhIiwgInNlcnZlcl90aW1lIjogMTQ2NjM1Mjk0NywgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInF1YW5nbmdhaV9obHMifQ==
+http://113.160.244.44/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
+
 #EXTINF:-1,BTV - BẠC LIÊU
 http://hlscache.fptplay.net.vn/livex/baclieu_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NjQzOTQ5OCwgInRva2VuIjogIjk1YmY5MGNhYTAyOGFiNzIxYWUxMTY3ZTUyZDExOTM5IiwgInNlcnZlcl90aW1lIjogMTQ2NjM1MzA5OCwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImJhY2xpZXVfaGxzIn0=
 #EXTINF:-1,HTTV - HÀ TĨNH Tivi
