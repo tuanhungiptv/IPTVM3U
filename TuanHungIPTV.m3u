@@ -56,6 +56,8 @@ http://live.vn-hd.com/018e04b88016828fe9e4e7ba553b0ff5/spsklfl/phu_nu.360p.strea
 http://live.vn-hd.com/018e04b88016828fe9e4e7ba553b0ff5/spsklfl/gia_dinh.360p.stream/playlist.m3u8
 #EXTINF:-1,HTV Ca nhạc
 http://live.vn-hd.com/018e04b88016828fe9e4e7ba553b0ff5/spsklfl/htvc_music.360p.stream/playlist.m3u8
+#EXTINF:-1,FBNC
+http://htvlive.1c656bad.cdnviet.com/b957b23f47725f78d832a0fb78967c611466932079/fbnc.720p.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh VTc ", [COLOR red][B]Kênh VTc[/B][/COLOR]
 #EXTINF:-1, VTC1 SD
 http://11e6.vp9.tv/chn/vtc1/v.m3u8
@@ -65,31 +67,29 @@ http://11e6.vp9.tv/chn/vtc2/v.m3u8
 http://htvlive.1c656bad.cdnviet.com/be5d83e0214a42395437ee25934499131466929681/vtc3.720p.stream/playlist.m3u8
 #EXTINF:-1, VTC4 SD
 http://htvlive.1c656bad.cdnviet.com/25b37dae51c9fbd6dd7994e4b13ccf191466929738/vtc4.360p.stream/chunklist.m3u8
-#EXTINF:-1, VTC5 SD
-http://m.anluong.info/m3u8/vtc5.m3u8
 #EXTINF:-1, VTC6 SD
-http://m.anluong.info/m3u8/vtc6.m3u8
+http://live.vn-hd.com/018e04b88016828fe9e4e7ba553b0ff5/spsklfl/vtv6.360p.stream/chunklist.m3u8
 #EXTINF:-1, VTC7 Today
-http://m.anluong.info/m3u8/vtc7.m3u8
+http://live.vn-hd.com/018e04b88016828fe9e4e7ba553b0ff5/spsklfl/vtc7.360p.stream/chunklist.m3u8
 #EXTINF:-1, VTC8 
-http://m.anluong.info/m3u8/vtc8.m3u8
+http://htvlive.1c656bad.cdnviet.com/3cce37b8be4111087a4ba8f0c8dbafd41466930008/vtc8.360p.stream/chunklist.m3u8
 #EXTINF:-1, VTC9 Let'Việt
-http://14.161.5.88:1935/live/myStream/playlist.m3u8
+http://htvlive.1c656bad.cdnviet.com/d13dcbec949cb9cba99bda6aec74f1c21466930322/vtc9.360p.stream/chunklist.m3u8
 #EXTINF:-1, VTC10 NetViet
-http://sv.tivi24h.com/vtc10.m3u8
+http://htvlive.1c656bad.cdnviet.com/4eccf13b90fbfc003b96e97ea3ea1bb61466930373/vtc10.360p.stream/chunklist.m3u8
 #EXTINF:-1, VTC11 NetViet
-http://02e4.vp9.tv/chn/kids/v.m3u8
-
+hhttp://htvlive.1c656bad.cdnviet.com/4eccf13b90fbfc003b96e97ea3ea1bb61466930373/vtc10.360p.stream/chunklist.m3u8
 #EXTINF:-1, VTC13 HD (ITV)
-http://censoft.mobi:1935/tvviet/vtc12.stream/chunklist_w1168893918.m3u8
-
+http://censoft.mobi:1935/tvviet/vtc12.stream/chunklist_w645283068.m3u8
 #EXTINF:-1, VTC14 HD Dang cap nhat
-#EXTINF:-1, VTC16 SD
+#EXTINF:-1, VTC16
 http://m.anluong.info/m3u8/vtc16.m3u8
-#EXTINF:-1, Phim Hay HD
+#EXTINF:-1, Phim Hay HD  Dang cap nhat
 http://m.anluong.info/m3u8/phimhay.m3u8
-#EXTINF:-1,SAM Dang cap nhat
+#EXTINF:-1,You
+http://htvlive.1c656bad.cdnviet.com/f5fa20bca2998f133da040f465db20721466932241/youtv.360p.stream/chunklist.m3u8
 #EXTINF:-1,Bi Bi Dang cap nhat
+http://live.kenhtivihd.net/kenhtivihd/fpt-bibi.m3u8
 #EXTINF:-1,ViệtTEEN
 http://m.anluong.info/m3u8/vietteen.m3u8
 #EXTINF:-1,VIETNAMNET
