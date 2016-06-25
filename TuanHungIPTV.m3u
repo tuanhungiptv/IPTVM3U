@@ -89,7 +89,8 @@ http://m.anluong.info/m3u8/phimhay.m3u8
 #EXTINF:-1,You
 http://htvlive.1c656bad.cdnviet.com/f5fa20bca2998f133da040f465db20721466932241/youtv.360p.stream/chunklist.m3u8
 #EXTINF:-1,Bi Bi Dang cap nhat
-http://live2.tvmienphi.biz/stream-tvmienphi-biz-moi-1412-fpt/bibitv/playlist.m3u8
+http://newcdn.vtvplay.vn:8081/livechannel/vtvca8-abr/playlist.m3u8
+
 #EXTINF:-1,ViệtTEEN
 http://m.anluong.info/m3u8/vietteen.m3u8
 #EXTINF:-1,VIETNAMNET
