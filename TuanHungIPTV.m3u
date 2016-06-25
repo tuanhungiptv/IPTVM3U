@@ -17,7 +17,9 @@ http://htvlive.1c656bad.cdnviet.com/0e271e03174f315fb0c9f1f2c3908af41466923990/v
 #EXTINF:-1, VTV3 HD
 http://11e6.vp9.tv/chn/vtv3/v.m3u8
 #EXTINF:-1, VTV4
-http://s3.vtvplus.vn/live/_definst_/vtv4.m3u8
+http://s3.vtvplus.vn/live/_definst_/vtv4.m3u8?t=225a58c0e9ad817a320cb95f3c491876&e=1466888967
+#EXTINF:-1 group-title="VTV",VTV5
+http://stream.anluong.info/xemlivetv/vtv5_xmio.php
 #EXTINF:-1, VTV6 HD
 http://vtvgoobj.04477775.sabai.vn/d08e3aafa0340be44edb11e9560d58b51466860220/live/_definst_/vtv6-mid.m3u8
 #EXTINF:-1, VTV8 HD 
