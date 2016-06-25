@@ -3,6 +3,9 @@
 http://103.237.146.14:3515/3464f9ac-080b-4710-9b3c-02f532e084e9/channel1/chunklist_w2088141857_tkd3Rva2VuZW5kdGltZT0xNDY2ODczODE5Jnd0b2tlbnN0YXJ0dGltZT0xNDY2ODU5NDE5Jnd0b2tlbmhhc2g9cDZKM2VQcGJSNkE0eHZvZXF6OXhac3hoVEEzQ3Y3OVRXZ0twX2xXNG4yVT0=.m3u8
 #EXTINF:-1,Trực Tiếp Thụy Sỹ vs Ba Lan server 2
 http://live.csmtalk.vcdn.vn/hls/88946af2d912ef429a0950ab9392371d/15587b8358b/tivinet/index.m3u8
+#EXTINF:-1,Trực Tiếp Thụy Sỹ vs Ba Lan server 3
+http://live.csmtalk.vcdn.vn/hls/e180dc412a9e336b6ffa7259755f9bbe/15587baead6/gametv.vn/index.m3u8
+
 #EXTINF:-1 group-title="Kênh VTV ", [COLOR red][B]Kênh VTV[/B][/COLOR]
 #EXTINF:-1, VTV1 HD 
 http://11e6.vp9.tv/chn/vtv1/v.m3u8
