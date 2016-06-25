@@ -1,9 +1,4 @@
 ﻿#EXTM3U TuanHungTVbox
-#EXTINF:-1,Thu nghiem
-http://hlscache.fptplay.net.vn/livek/vtv1hd_hls.smil/#EXT-X-STREAM-INF:BANDWIDTH=300000,CODECS="avc1.66.30,mp4a.40.2",RESOLUTION=320x180/chunklist_b300000.m3u8
-
-
-
 #EXTINF:-1,Trực Tiếp Thụy Sỹ vs Ba Lan server 1
 http://103.237.146.14:3515/3464f9ac-080b-4710-9b3c-02f532e084e9/channel1/chunklist_w2088141857_tkd3Rva2VuZW5kdGltZT0xNDY2ODczODE5Jnd0b2tlbnN0YXJ0dGltZT0xNDY2ODU5NDE5Jnd0b2tlbmhhc2g9cDZKM2VQcGJSNkE0eHZvZXF6OXhac3hoVEEzQ3Y3OVRXZ0twX2xXNG4yVT0=.m3u8
 #EXTINF:-1,Trực Tiếp Thụy Sỹ vs Ba Lan server 2
@@ -16,7 +11,7 @@ http://live.csmtalk.vcdn.vn/hls/0be0fd5d0c54acffd3ac47a36ea04ce1/15587cde01c/gol
 #EXTINF:-1, VTV1 HD 
 http://11e6.vp9.tv/chn/vtv1/v.m3u8
 #EXTINF:-1, VTV2 SD 
-http://vtvgoobj.04477775.sabai.vn/d55f095f2bee600ac5d4f5855962e83a1466856417/live/_definst_/vtv2-high.m3u8
+http://htvlive.1c656bad.cdnviet.com/0e271e03174f315fb0c9f1f2c3908af41466923990/vtv2.360p.stream/playlist.m3u8
 #EXTINF:-1, VTV3 HD
 http://11e6.vp9.tv/chn/vtv3/v.m3u8
 #EXTINF:-1, VTV4
