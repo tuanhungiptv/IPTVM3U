@@ -8,10 +8,8 @@ http://vtvgoobj.04477775.sabai.vn/d55f095f2bee600ac5d4f5855962e83a1466856417/liv
 http://11e6.vp9.tv/chn/vtv3/v.m3u8
 #EXTINF:-1, VTV4
 http://xmiolive.e14538a7.viettel-cdn.vn/vtv4.smil/chunklist_b1500000.m3u8
-#EXTINF:-1, VTV5
-http://data.xemtiviso.com/fpt-vtv5.m3u8
 #EXTINF:-1, VTV6 HD
-http://m.anluong.info/m3u8/vtv6.m3u8
+http://vtvgoobj.04477775.sabai.vn/d08e3aafa0340be44edb11e9560d58b51466860220/live/_definst_/vtv6-mid.m3u8
 #EXTINF:-1, VTV7 HD
 http://vtvgoobj.04477775.sabai.vn/e59a4471af7dc77090d7ec962e7013cb1466803376/live/_definst_/vtv7.m3u8
 #EXTINF:-1, VTV8 HD 
