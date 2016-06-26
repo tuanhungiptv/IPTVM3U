@@ -1,4 +1,4 @@
-EXTM3U TuanHungTVbox
+#EXTM3U TuanHungTVbox
 #EXTINF:-1, VTV1
 http://htvlive.1c656bad.cdnviet.com/104b1979b610870d78d942ce51b9a79d1466945427/vtv1.360p.stream/playlist.m3u8
 #EXTINF:-1, VTV2
@@ -6,4 +6,5 @@ http://htvlive.1c656bad.cdnviet.com/d4f23329ce1c241393f6f625beedd42c1466945687/v
 #EXTINF:-1, VTV3
 http://htvlive.1c656bad.cdnviet.com/7c7787c52f61bd0309d9d7cd22eacfce1466945724/vtv3.720p.stream/playlist.m3u8
 #EXTINF:-1, VTV4
-http://htvlive.1c656bad.cdnviet.com/7c7787c52f61bd0309d9d7cd22eacfce1466945724/vtv3.720p.stream/playlist.m3u8
+http://sv.tivi24h.com/vtv4.m3u8
+
