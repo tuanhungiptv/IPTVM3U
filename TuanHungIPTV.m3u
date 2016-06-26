@@ -1,9 +1,10 @@
 #EXTM3U TuanHungTVbox
-#EXTINF:-1, VTV1
+#EXTINF:-1, Starmovies
 http://live.vn-hd.com/018e04b88016828fe9e4e7ba553b0ff5/spsklfl/starmovies.720p.stream/playlist.m3u8
-
+#EXTINF:-1, VTV1
+http://xmiolive.e14538a7.viettel-cdn.vn/vtv1.smil/chunklist_b1500000.m3u8
 #EXTINF:-1, VTV2
-http://htvlive.1c656bad.cdnviet.com/d4f23329ce1c241393f6f625beedd42c1466945687/vtv2.360p.stream/playlist.m3u8
+http://xmiolive.e14538a7.viettel-cdn.vn/vtv2.smil/chunklist_b1500000.m3u8
 #EXTINF:-1, VTV3
 http://htvlive.1c656bad.cdnviet.com/7c7787c52f61bd0309d9d7cd22eacfce1466945724/vtv3.720p.stream/playlist.m3u8
 #EXTINF:-1, VTV4
