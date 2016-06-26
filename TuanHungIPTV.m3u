@@ -48,25 +48,20 @@ http://htvlive.1c656bad.cdnviet.com/4a76cf1f9afe714ae55eef3e4e2b5b561466948459/f
 http://htvlive.1c656bad.cdnviet.com/86f1f2490b876d0dcc2fcaebc045a5391466948490/htvc_plus.360p.stream/playlist.m3u8
 #EXTINF:-1 group-title="Kênh VTc ", [COLOR red][B]Kênh VTc[/B][/COLOR]
 #EXTINF:-1, VTC1 SD
-http://11e6.vp9.tv/chn/vtc1/v.m3u8
+http://sv.tivi24h.com/vtc1.m3u8
 #EXTINF:-1, VTC2 SD
 http://11e6.vp9.tv/chn/vtc2/v.m3u8
 #EXTINF:-1, VTC3 HD
-http://htvlive.1c656bad.cdnviet.com/be5d83e0214a42395437ee25934499131466929681/vtc3.720p.stream/playlist.m3u8
+http://htvlive.1c656bad.cdnviet.com/1b9c473be83dc8ead013658c71da25301466951824/vtc3.720p.stream/playlist.m3u8
 #EXTINF:-1, VTC4 SD
-http://htvlive.1c656bad.cdnviet.com/25b37dae51c9fbd6dd7994e4b13ccf191466929738/vtc4.360p.stream/chunklist.m3u8
-#EXTINF:-1, VTC6 SD
-http://live.vn-hd.com/018e04b88016828fe9e4e7ba553b0ff5/spsklfl/vtv6.360p.stream/chunklist.m3u8
+http://htvlive.1c656bad.cdnviet.com/3114060aea667c3bc98b90457c2e1dd71466951875/vtc4.360p.stream/playlist.m3u8
 #EXTINF:-1, VTC7 Today
-http://live.vn-hd.com/018e04b88016828fe9e4e7ba553b0ff5/spsklfl/vtc7.360p.stream/chunklist.m3u8
+http://live.vn-hd.com/6bc8782e2c8baff8fe23a98ea5045ac7/spsklfl/vtc7.360p.stream/playlist.m3u8
 #EXTINF:-1, VTC8 
 http://htvlive.1c656bad.cdnviet.com/3cce37b8be4111087a4ba8f0c8dbafd41466930008/vtc8.360p.stream/chunklist.m3u8
 #EXTINF:-1, VTC9 Let'Vi?t
-http://htvlive.1c656bad.cdnviet.com/d13dcbec949cb9cba99bda6aec74f1c21466930322/vtc9.360p.stream/chunklist.m3u8
+http://14.161.5.88:1935/live/myStream/playlist.m3u8
 #EXTINF:-1, VTC10 NetViet
-http://htvlive.1c656bad.cdnviet.com/4eccf13b90fbfc003b96e97ea3ea1bb61466930373/vtc10.360p.stream/chunklist.m3u8
+http://htvlive.1c656bad.cdnviet.com/8e1eb1d09dea5bb1ad1760ee0aeb07fc1466951904/vtc10.360p.stream/playlist.m3u8
 #EXTINF:-1, VTC13 HD (ITV)
-http://xmiolive.e14538a7.viettel-cdn.vn/itvhd.smil/chunklist_b1500000.m3u8
-#EXTINF:-1, VTC14 HD Dang cap nhat
-#EXTINF:-1, [COLOR yellow]VTC16[/COLOR] 
-http://m.anluong.info/m3u8/vtc16.m3u8
+http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8
