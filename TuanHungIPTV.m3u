@@ -1,6 +1,8 @@
 #EXTM3U TuanHungTVbox
 #EXTINF:-1, VTV1
 http://htvlive.1c656bad.cdnviet.com/104b1979b610870d78d942ce51b9a79d1466945427/vtv1.360p.stream/playlist.m3u8
+http://htvlive.1c656bad.cdnviet.com/983642422ef4bc34bd363c9e1ac48a631466984178/vtv1.360p.stream/playlist.m3u8
+http://htvlive.1c656bad.cdnviet.com/983642422ef4bc34bd363c9e1ac48a631466984178/vtv1.360p.stream/chunklist.m3u8
 #EXTINF:-1, VTV2
 http://htvlive.1c656bad.cdnviet.com/d4f23329ce1c241393f6f625beedd42c1466945687/vtv2.360p.stream/playlist.m3u8
 #EXTINF:-1, VTV3
@@ -15,7 +17,7 @@ http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist_w1312792424.m
 http://210.245.60.242:1935/vovtv/vovtv/playlist.m3u8
 #EXTINF:-1, ANTV
 http://xmiolive.e14538a7.viettel-cdn.vn/antv.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="KÍnh HTV "
+#EXTINF:-1 group-title="Kƒônh HTV "
 #EXTINF:-1, HTV1
 http://htvlive.1c656bad.cdnviet.com/a3fa55d76df3db4cc0766f5949bec15e1466947784/htv1.360p.stream/playlist.m3u8
 #EXTINF:-1, HTV2
@@ -34,11 +36,11 @@ http://htvlive.1c656bad.cdnviet.com/d34f8887d7118b97a9e9ddfe392e5f171466947990/h
 http://htvlive.1c656bad.cdnviet.com/a6f7c531192d44e3effa42b003574e341466948052/htvc_phim.360p.stream/playlist.m3u8
 #EXTINF:-1, HTVC Thu?n vi?t
 http://htvlive.1c656bad.cdnviet.com/0f02dcd92053202d95e3390d767a4f651466948089/thuan_viet.360p.stream/playlist.m3u8
-#EXTINF:-1, HTVC Du l?ch v‡ cu?c s?ng
+#EXTINF:-1, HTVC Du l?ch v≈ï cu?c s?ng
 http://htvlive.1c656bad.cdnviet.com/398ea551076eefee4905fdb9b366142f1466948273/du_lich.360p.stream/playlist.m3u8
 #EXTINF:-1,HTVC Ph? n?
 http://htvlive.1c656bad.cdnviet.com/c0ab5239f0a5d320292a1e979e75ef821466948337/phu_nu.360p.stream/playlist.m3u8
-#EXTINF:-1,HTVC Gia –Ïnh
+#EXTINF:-1,HTVC Gia ƒêƒõnh
 http://htvlive.1c656bad.cdnviet.com/12a048ea0866f1afc2548fe4715985991466948383/gia_dinh.360p.stream/playlist.m3u8
 #EXTINF:-1,HTV Ca nh?c
 http://htvlive.1c656bad.cdnviet.com/d615f231e99c8a830e5293ae5bb7eb2a1466948423/htvc_music.360p.stream/playlist.m3u8
@@ -46,7 +48,7 @@ http://htvlive.1c656bad.cdnviet.com/d615f231e99c8a830e5293ae5bb7eb2a1466948423/h
 http://htvlive.1c656bad.cdnviet.com/4a76cf1f9afe714ae55eef3e4e2b5b561466948459/fbnc.720p.stream/playlist.m3u8
 #EXTINF:-1,HTVCplus
 http://htvlive.1c656bad.cdnviet.com/86f1f2490b876d0dcc2fcaebc045a5391466948490/htvc_plus.360p.stream/playlist.m3u8
-#EXTINF:-1 group-title="KÍnh VTc ", [COLOR red][B]KÍnh VTc[/B][/COLOR]
+#EXTINF:-1 group-title="Kƒônh VTc ", [COLOR red][B]Kƒônh VTc[/B][/COLOR]
 #EXTINF:-1, VTC1 SD
 http://sv.tivi24h.com/vtc1.m3u8
 #EXTINF:-1, VTC2 SD
