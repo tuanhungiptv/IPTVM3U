@@ -57,42 +57,6 @@ http://xmiolive.e14538a7.viettel-cdn.vn/htv7.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="HTV",HTV THUẦN VIỆT
 http://tv1.tivi8k.net/stream-tivi8k-net/htvc-thuanviet/playlist.m3u8
 
-
-
-#EXTINF:-1 group-title="HTV",HTV PHỤ NỮ
-http://live.vn-hd.com/f5c0593f9f11ed8ac4946b5ab03cf639/spsklfl/phu_nu.360p.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="VTC",TTXVN
-rtmp://live.vnanet.vn:1935/Live/DRC
-
-#EXTINF:-1 group-title="Thể Thao",HTV THE THAO
-http://tv1.tivi8k.net/stream-tivi8k-net/htv-thethao/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="Phim Truyện",STAR MOVIES
-http://live.vn-hd.com/be3996433e2841f9c021d461525b74b9/spsklfl/starmovies.720p.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="Phim Truyện",STAR MOVIES tieng trung
-http://199.167.138.10:5000/nn_live/nn_x64/aWQ9WFdEWVlIRCZuZ3M9NTc2OWUyZjAwMDA1NDVmZGJhNGU2NDM0NTQ4OTc3ZTUmbm5fdXNlcl9pZD11MDgwMDI3Y2FlZTU5Jm5kaT0wOC0wMC0yNy1DQS1FRS01OSZuYWw9MDFmMGUyNjk1NzA2MDczOTUzOTYyZGRkMzI0MjMzYjQyNDEyZWUxZDgyZWEwMg,,/XWDYYHD.m3u8
-
-
-#EXTINF:-1 group-title="Phim Truyện",CINEMAX ( THUYẾT MINH)
-http://tv1.tivi8k.net/stream-tivi8k-net/cinemax/playlist.m3u8
-
-#EXTINF:-1 group-title="Phim Truyện",AXN HD
-http://anluong.info/axn.m3u8
-
-
-#EXTINF:-1 group-title="Phim Truyện",HBO HD
-http://anluong.info/hbo.m3u8
-
-#EXTINF:-1 group-title="Phim Truyện",HBO HD tiếng trung
-http://199.167.138.15:5000/nn_live/nn_x64/aWQ9SEJPSEQmbmdzPTU3NjlkZjZkMDAwYjdkNzJjMGZlNjhkYWI4OTQ3Zjk4Jm5uX3VzZXJfaWQ9dTA4MDAyN2NhZWU1OSZuZGk9MDgtMDAtMjctQ0EtRUUtNTkmbmFsPTAxNmRkZjY5NTcwNjA3NzVmZjY5Nzc4MjY2NzdiMWY0ZGFmMWFjMWI4MGUyZWY,/HBOHD.m3u8
-
-#EXTINF:-1 group-title="Phim Truyện",CINEMAX 1
-http://orbit-iptv.com:2500/live/nisar/nisar/1945.ts
-
 #EXTINF:-1 group-title="Phim Truyện",CINEMAX 2
 http://orbit-iptv.com:2500/live/nisar/nisar/1946.ts
 
@@ -102,48 +66,12 @@ http://orbit-iptv.com:2500/live/nisar/nisar/1948.ts
 #EXTINF:-1 group-title="Phim Truyện",CINE STAR 
 http://orbit-iptv.com:2500/live/nisar/nisar/1949.ts
 
-#EXTINF:-1 group-title="Phim Truyện",FOX MOVIE HD tiếng trung
-http://199.167.138.10:5000/nn_live/nn_x64/aWQ9Rk9YRFpEWSZuZ3M9NTc2OWQ2ODQwMDBjNzlkMjBkZGE3OTM5Y2M5ZWQ3M2Ymbm5fdXNlcl9pZD11MDgwMDI3Y2FlZTU5Jm5kaT0wOC0wMC0yNy1DQS1FRS01OSZuYWw9MDE4NGQ2Njk1NzA2MDc1MzYxMGY5YjUwYTZkZDVmMzBmMWNlZmJiZjVkOTY3Mg,,/FOXDZDY.m3u8
-#EXTINF:-1 group-title="Phim Truyện",Disney chanel tieng trung
-http://199.167.138.10:5000/nn_live/nn_x64/aWQ9RFNOS1QmbmdzPTU3NjlmOTM4MDAwNGNiNTcxNDkwOTMyNjgwNTFkMjAwJm5uX3VzZXJfaWQ9dTA4MDAyN2NhZWU1OSZuZGk9MDgtMDAtMjctQ0EtRUUtNTkmbmFsPTAxMzhmOTY5NTcwNjA3YzFhNDBhNzk4NmIzNWYxYTBlZTA0ZjgxYjNkZTRhYzA,/DSNKT.m3u8
 
-#EXTINF:-1 group-title="Phim Truyện",Phim hành động 1 tiếng trung
-http://live2.icntv.xyz/sunsuper/CHCAM.m3u8?str=dXNlcl84bTlKUDlweWlILDE0NjY1NzIzNjM=&key=c14e133258c4ed606c1ffa218f9d3374
-#EXTINF:-1 group-title="Phim Truyện",Phim hành động 2 tiếng trung
-http://107.155.41.48/m3u8/lb_dzdy_720p/desc.m3u8?stream_id=lb_dzdy_720p&path=107.155.49.82,107.155.49.101&mltag=202&platid=10&splatid=1005&qos=4&fcheck=0&uid=1806354791.rp&keyitem=dpoOd-l3AnupIUuBI8VtFwmKzWltcfnZpngeV5Yo3I1Oleh6yGrbVeKRoRQ.&ntm=1466497200&nkey2=1c8c3bd81fa90e427c3c135b454d24cf&nkey=faab919bb89d858c35f8517d32f39841&tag=live&video_type=m3u8&useloc=0&mslice=3&ver=live_3&uidx=0&errc=0&gn=291&lrtmcd=100&buss=202&cips=113.175.60.170&geo=US-64-0-100&tmn=1466486216&pnl=291,291,1214,291&rson=1&ext=m3u8&termid=2&pay=0&ostype=macos&hwtype=ipad&sign=live_phone&playid=1&tm=1466486216&key=dde17bcbfc3dd84340b30b9224d195d8&_r=0
-#EXTINF:-1 group-title="Phim Truyện",Phim hài tiếng trung
-http://103.13.119.89/m3u8/lb_comedy_720p/desc.m3u8?stream_id=lb_comedy_720p&path=107.155.46.100&mltag=202&platid=10&splatid=1005&qos=4&fcheck=0&uid=1806354791.rp&keyitem=dpoOd-l3AnupIUuBI8VtFwmKzWltcfnZpngeV5Yo3I1Oleh6yGrbVeKRoRQ.&ntm=1466506200&nkey2=9370cc39db1e49b4616db31544028922&nkey=72ce7bb170cf224658164257505ee404&tag=live&video_type=m3u8&useloc=0&mslice=3&ver=live_3&uidx=0&errc=0&gn=291&lrtmcd=100&buss=202&cips=113.175.60.170&geo=US-64-0-100&tmn=1466495025&pnl=291,291,1214,291&rson=1&ext=m3u8&termid=2&pay=0&ostype=macos&hwtype=ipad&sign=live_phone&playid=1&tm=1466495024&key=a65e840b2e41b0a106b62aaae577a6f8&_r=0
 #EXTINF:-1 group-title="Phim Truyện",PHIM HỒNG KONG
 http://107.155.41.48/m3u8/lb_lsgcp_3000/desc.m3u8?stream_id=lb_lsgcp_3000&path=107.155.49.82,107.155.49.101&mltag=202&platid=10&splatid=1005&qos=4&fcheck=0&uid=1806354791.rp&keyitem=dpoOd-l3AnupIUuBI8VtFwmKzWltcfnZpngeV5Yo3I1Oleh6yGrbVeKRoRQ.&ntm=1466506200&nkey2=1a13be5738c2be8c77e104ba273a0008&nkey=1037e1fe8fd0d79f0fef02c90561f825&tag=live&video_type=m3u8&useloc=0&mslice=3&ver=live_3&uidx=0&errc=0&gn=291&lrtmcd=100&buss=202&geo=US-64-0-100&tmn=1466495145&pnl=291,291,1214,291&rson=1&ext=m3u8&termid=2&pay=0&ostype=macos&hwtype=ipad&sign=live_phone&playid=1&tm=1466495145&key=499dac28c7b2d10071d1323928d277df&_r=0
 #EXTINF:-1 group-title="Phim Truyện",PHIM THÀNH LONG
 http://185.25.244.48/m3u8/lb_cl_720p/desc.m3u8?stream_id=lb_cl_720p&path=185.25.244.100&mltag=202&platid=10&splatid=1005&qos=4&fcheck=0&uid=1806354791.rp&keyitem=dpoOd-l3AnupIUuBI8VtFwmKzWltcfnZpngeV5Yo3I1Oleh6yGrbVeKRoRQ.&ntm=1466501400&nkey2=f7af73365cf3f15bb6e8136b0f9dec58&nkey=908b0b0e9573d9df92e995147b7cea75&tag=live&video_type=m3u8&useloc=0&mslice=3&ver=live_3&uidx=0&errc=0&gn=291&lrtmcd=100&buss=202&cips=113.175.60.170&geo=US-64-0-100&tmn=1466490489&pnl=291,291,1214,291&rson=1&ext=m3u8&termid=2&pay=0&ostype=macos&hwtype=ipad&sign=live_phone&playid=1&tm=1466490489&key=80997dae2490347dd980b6dde526b503&_r=0
 #EXTINF:-1 group-title="Phim Truyện",PHIM 1
-http://live.csmtalk.vcdn.vn/hls/663ab5fe4dd8add28bb01b71ff21586d/15575ef88da/thegioionline/index.m3u8
-
-
-#EXTINF:-1 group-title="Phim Truyện",PHIM 2
-http://live.csmtalk.vcdn.vn/hls/e5ec082d718f9351c1dea1b0b5fe9b1b/15575ec2b41/thev/index.m3u8
-
-#EXTINF:-1 group-title="Phim Truyện",PHIM 3
-http://live.csmtalk.vcdn.vn/hls/a215f32484c3bbd75340b81a056028cd/15575ef8ac6/meowdoraemon/index.m3u8
-
-
-
-#EXTINF:-1 group-title="Phim Truyện",Chinese Series
-rtmp://103.40.138.89:1935/live/ac1
-#EXTINF:-1 group-title="Phim Truyện",Korea Film
-rtmp://103.40.138.89:1935/live/ac3
-#EXTINF:-1 group-title="Phim Truyện",Thai India Movie
-rtmp://103.40.138.89:1935/live/ac2
-#EXTINF:-1 group-title="Phim Truyện",Hollywood Film
-rtmp://103.40.138.89:1935/live/ac4
-#EXTINF:-1 group-title="Phim Truyện",FOX FIML HD
-http://iliketot.dyndns.tv/tot/web/63cbfb466fe644dda11a8e109611a5cd.m3u8
-#EXTINF:-1 group-title="Phim Truyện",FOX FIML 
-http://iliketot.dyndns.tv/tot/web/5028f7ff1d1b4d5f8189690233364737.m3u8
-#EXTINF:-1 group-title="Phim Truyện",China Movie
-http://icntv.xyz/mktv/ch51.m3u8
-
 
 #EXTINF:-1 group-title="VTC",VTC1
 http://11e6.vp9.tv/chn/vtc1/v.m3u8
@@ -179,23 +107,13 @@ http://tv3.tivi12h.net/stream-tivi12h-net/vtc16/playlist.m3u8
 
 #EXTINF:-1 group-title="VTC",SCTV HÀI
 http://112.197.2.135:1935/colive/C011_HD_2/playlist.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",HÀ NỘI 1
-http://123.29.68.44/live.m3u8?c=vstv011&q=medium&type=tv&token=GKbfacQlkZPssvwjw5BeWg&time=1465709479&gcId=1532&userId=8004899&deviceId=&deviceType=&location=NA&requestTime=1465623079504&pkg=pkg4
-
-
-#EXTINF:-1 group-title="VTV-VTVcab",HÀ NỘI 2
-http://123.29.68.44/live.m3u8?c=vstv012&q=medium&type=tv&token=NTQUJuaQysxO6LDMmSndfQ&time=1465709511&gcId=1532&userId=8004899&deviceId=&deviceType=&location=NA&requestTime=1465623111501&pkg=pkg4
 #EXTINF:-1 group-title="VTV-VTVcab",THVL1
 http://thvllive.bb87e240.cdnviet.com/thvl1/chunklist.m3u8
 
 #EXTINF:-1 group-title="VTV-VTVcab",THVL2
 http://thvllive.bb87e240.cdnviet.com/thvl2/playlist.m3u8
 
-#EXTINF:-1 group-title="VTV-VTVcab",NINH BÌNH
-http://hlscache.fptplay.net.vn/event/vtv6hd_hls.smil/chunklist_b300000.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjg3ODZjZTczZjViYzRlMzFiZWViMzI5ZjQxYzMyYjhiIiwgInNlcnZlcl90aW1lIjogMTQ2NjQ3NjM2OSwgImNoYW5uZWxfaWQiOiAidnR2Ni1oZCIsICJ2YWxpZF9taW51dGVzIjogMTQ0MH0
 
-#EXTINF:-1 group-title="VTV-VTVcab",LÂM ĐỒNG
-http://123.29.68.44/live.m3u8?c=vstv238&q=medium&type=tv&token=Xy2_hCFAE-vBX74iN20OSg&time=1466564293&gcId=1532&userId=&deviceId=1256&deviceType=1&location=NA&requestTime=1466477893860&pkg=pkg2
 #EXTINF:-1 group-title="VTV-VTVcab",DA NANG1
 http://tv1.tivi8k.net/stream-tivi8k-net/danang1/playlist.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab",DA NANG2
