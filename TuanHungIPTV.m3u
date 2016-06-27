@@ -1,4 +1,6 @@
 #EXTM3U TuanHungTVbox
+#EXTINF:-1, thu
+http://hlscache.fptplay.net.vn/livek/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1, Starmovies
 http://live.vn-hd.com/018e04b88016828fe9e4e7ba553b0ff5/spsklfl/starmovies.720p.stream/playlist.m3u8
 #EXTINF:-1, VTV1
@@ -27,7 +29,7 @@ http://htvlive.1c656bad.cdnviet.com/01411b23633df82ab9572d4f5e79d1a11466947878/h
 #EXTINF:-1, HTV4
 http://live.vn-hd.com/018e04b88016828fe9e4e7ba553b0ff5/spsklfl/htv4.360p.stream/playlist.m3u8
 #EXTINF:-1, HTV7 HD
-http://htvlive.1c656bad.cdnviet.com/9cb15d152dcb2977f6b00a5ac68262dc1466947948/htv7.720p.stream/playlist.m3u8
+http://htvlive.1c656bad.cdnviet.com/ccc4e53c24bb05f44ab737106fee5dc91467064734/htv7.720p.stream/playlist.m3u8
 #EXTINF:-1, HTV9 HD
 http://htvlive.1c656bad.cdnviet.com/d34f8887d7118b97a9e9ddfe392e5f171466947990/htv9.720p.stream/playlist.m3u8
 #EXTINF:-1, HTV The Thao
