@@ -19,23 +19,37 @@ http://11e6.vp9.tv/chn/vtv6/v.m3u8
 http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist_w1600645438.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/SzgBroS.jpg" tvg-name="VOV"  group-title="VTV",VOV
-rtmp://210.245.60.242:1935/vovtv/vovtv
+http://210.245.60.242:1935/vovtv/vovtv/playlist.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/AiaMWrz.png" tvg-name="AN NINH TIVI"  group-title="VTV",AN NINH TIVI
 http://xmiolive.e14538a7.viettel-cdn.vn/antv.smil/chunklist_b1500000.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/7lRJkYI.png" tvg-name="Quốc Phòng Việt Nam"  group-title="VTV",Quốc Phòng Việt Nam
-http://hlscache.fptplay.net.vn/liver/quocphongvnhd_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NzE1OTY1OSwgInRva2VuIjogImU1ZWUzNWMwYWE4YTJmYzA5M2U4YTYwMDEwZjg0YWFkIiwgInNlcnZlcl90aW1lIjogMTQ2NzA3MzI1OSwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInF1b2NwaG9uZ3ZuaGRfaGxzIn0=
+http://sv.tivi24h.com/qpvnhd.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/gm61zmZ.png" tvg-name="THông tấn xã việt Nam"  group-title="VTV",THông tấn xã việt Nam
-http://hlscache.fptplay.net.vn/liver/ttxvn_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NzE1OTg0NiwgInRva2VuIjogIjQ3ZTI4N2JjM2VmZjFkZTkwNmQ2Y2M2MWIwNzliYmI3IiwgInNlcnZlcl90aW1lIjogMTQ2NzA3MzQ0NiwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInR0eHZuX2hscyJ9
+http://sv.tivi24h.com/ttxvn.m3u8
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/yldKUYv.jpg" tvg-name="FBNC"  group-title="New Group",FBNC
-http://hlscache.fptplay.net.vn/lives/fbnchd_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NzE2MDA0MywgInRva2VuIjogImUzMjNjNDU1MDJlYzFlOGRlNzczOTM0ZjI2ODU0ZmJlIiwgInNlcnZlcl90aW1lIjogMTQ2NzA3MzY0MywgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImZibmNoZF9obHMifQ==
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/mtNSji1.png" tvg-name="HTV1"  group-title="HTV",HTV1
+http://xmiolive.e14538a7.viettel-cdn.vn/htv1.smil/chunklist_b1500000.m3u8
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://s28.postimg.org/uod4egh21/56907bb064dab.png" tvg-name="Quốc Hội"  group-title="New Group",Quốc Hội
-http://hlscache.fptplay.net.vn/livek/quochoivn_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NzE2MDIwMiwgInRva2VuIjogImQyMzUyMmIyY2I2NWY3MTM5ODM3MmViODkwNDU0Y2M3IiwgInNlcnZlcl90aW1lIjogMTQ2NzA3MzgwMiwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInF1b2Nob2l2bl9obHMifQ==
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/WYdWm3k.png" tvg-name="HTV2"  group-title="HTV",HTV2
+http://htvlive.1c656bad.cdnviet.com/b9930b765e5ce9b6d477b2615b20bc0a1467153022/htv2.360p.stream/playlist.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/H8hDiuE.png" tvg-name="HTV3"  group-title="HTV",HTV3
+http://htvlive.1c656bad.cdnviet.com/d822db8d3dd6af141d10df40143677331467153778/htv3.360p.stream/playlist.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/RKUKL7P.png" tvg-name="HTV7"  group-title="HTV",HTV7
+http://xmiolive.e14538a7.viettel-cdn.vn/htv7.smil/chunklist_b1500000.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/LQJA3CJ.png" tvg-name="HTV9"  group-title="HTV",HTV9
+http://htvlive.1c656bad.cdnviet.com/4cbb78d170dab49d21be5563be0326b21467154071/htv9.720p.stream/playlist.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/00eoUiD.png" tvg-name="HTV Phim"  group-title="HTV",HTVPhim
+http://htvlive.1c656bad.cdnviet.com/0f5f152ec451c61ca95e15c6b308a4321467154305/htvc_phim.360p.stream/playlist.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/ReHLVzx.png" tvg-name="HTV Thuần Việt"  group-title="HTV",HTVThuần Việt
+http://htvlive.1c656bad.cdnviet.com/0f5f152ec451c61ca95e15c6b308a4321467154305/htvc_phim.360p.stream/playlist.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sau 12 giờ sẽ cập nhật tiếp các kênh Kodi M3U IPTV Editor"  group-title="New Group",Sau 12 giờ sẽ cập nhật tiếp các kênh
 http://123.456.789
-
