@@ -54,6 +54,8 @@ http://htvlive.1c656bad.cdnviet.com/cc0cc1be64cc8e1898dbd1e03a9ef4c91467154921/t
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/Ot4qmYf.jpg" tvg-name="HTV Thể Thao"  group-title="HTV",HTV Thể Thao
 http://htvlive.1c656bad.cdnviet.com/90542bef4f19cc9e6c8f4e8d923e47b31467155019/htvthethao.720p.stream/playlist.m3u8
 
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/VVf0FQw.png" tvg-name="HTV Du lịch"  group-title="HTV",HTV Du Lịch
+http://htvlive.1c656bad.cdnviet.com/83df3ea585e61285cfbca6578ef79cba1467159592/du_lich.360p.stream/playlist.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sau 12 giờ sẽ cập nhật tiếp các kênh Kodi M3U IPTV Editor"  group-title="New Group",Sau 12 giờ sẽ cập nhật tiếp các kênh
 http://123.456.789
