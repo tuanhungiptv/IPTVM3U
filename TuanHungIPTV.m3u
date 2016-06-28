@@ -54,6 +54,15 @@ http://htvlive.1c656bad.cdnviet.com/83df3ea585e61285cfbca6578ef79cba1467159592/d
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/J00WF8k.jpg?1" tvg-name="ITV"  group-title="KHÁC",ITV
 http://xmiolive.e14538a7.viettel-cdn.vn/itvhd.smil/chunklist_b1500000.m3u8
 
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://125.212.227.246/image/livetv_v2/channel_logo/stb/vtc1.png" tvg-name="VTC1"  group-title="VTC",VTC1
+http://123.30.185.126/hls/vtc1.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://125.212.227.246/image/livetv_v2/channel_logo/stb/vtc2.png" tvg-name="VTC2"  group-title="VTC",VTC2
+http://11e6.vp9.tv/chn/vtc2/v.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://125.212.227.246/image/livetv_v2/channel_logo/stb/1400886710231VTC3_HD.png" tvg-name="VTC3"  group-title="VTC",VTC3
+http://123.30.185.126/hls/vtc3.m3u8
+
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/YDtH0Ud.png?1" tvg-name="KeengTV"  group-title="KHÁC",KeengTV
 http://125.235.29.16/livetv/keeng.m3u8
 
@@ -62,6 +71,10 @@ http://203.162.121.230:1935/live/9_music/index.m3u8?securetoken=
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/zxViCYt.jpg?1" tvg-name="MTV"  group-title="KHÁC",MTV
 http://iliketot.dyndns.tv/tot/web/8d45473ff4ca44d79e1abc4516c2fee0.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/pC5hmXf.png" tvg-name="Vivo1"  group-title="KHÁC",Vivo1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sau 12 giờ sẽ cập nhật tiếp các kênh Kodi M3U IPTV Editor"  group-title="New Group",Sau 12 giờ sẽ cập nhật tiếp các kênh
 http://123.456.789
