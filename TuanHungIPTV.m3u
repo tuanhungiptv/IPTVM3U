@@ -78,9 +78,6 @@ http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/YDtH0Ud.png?1" tvg-name="KeengTV"  group-title="KHÁC",KeengTV
 http://125.235.29.16/livetv/keeng.m3u8
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://farm8.staticflickr.com/7572/26398966973_8aeeef7ca3_o.jpg" tvg-name="SAM"  group-title="KHÁC",SAM
-http://anluong.info/sam.m3u8
-
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://lifetv.vn/upload/channel/k9.jpg" tvg-name="Kênh 9 âm nhạc"  group-title="KHÁC",Kênh 9 âm nhạc
 http://203.162.121.230:1935/live/9_music/index.m3u8?securetoken=
 
