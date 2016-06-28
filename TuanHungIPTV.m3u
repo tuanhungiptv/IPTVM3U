@@ -78,6 +78,9 @@ http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/YDtH0Ud.png?1" tvg-name="KeengTV"  group-title="KHÁC",KeengTV
 http://125.235.29.16/livetv/keeng.m3u8
 
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://farm8.staticflickr.com/7572/26398966973_8aeeef7ca3_o.jpg" tvg-name="SAM"  group-title="KHÁC",SAM
+http://anluong.info/sam.m3u8
+
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://lifetv.vn/upload/channel/k9.jpg" tvg-name="Kênh 9 âm nhạc"  group-title="KHÁC",Kênh 9 âm nhạc
 http://203.162.121.230:1935/live/9_music/index.m3u8?securetoken=
 
@@ -86,6 +89,9 @@ http://iliketot.dyndns.tv/tot/web/8d45473ff4ca44d79e1abc4516c2fee0.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/pC5hmXf.png" tvg-name="Vivo1"  group-title="KHÁC",Vivo1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/QRqqKHn.png" tvg-name="Mov-Ha nội cab"  group-title="KHÁC",Mov-Ha nội cab
+http://xmiolive.e14538a7.viettel-cdn.vn/mov.smil/chunklist_b1500000.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/pC5hmXf.png" tvg-name="TheV kênh Phim "  group-title="KHÁC",TheV kênh Phim 
 http://live.csmtalk.vcdn.vn/hls/0638e402fa0d0310879dd7c8c3cdbe27/15597390eaa/thev/index.m3u8
