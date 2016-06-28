@@ -16,19 +16,13 @@ http://xmiolive.e14538a7.viettel-cdn.vn/vtv4.smil/chunklist_b1500000.m3u8
 http://11e6.vp9.tv/chn/vtv6/v.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/tz5IbFM.png" tvg-name="VTV8"  group-title="VTV",VTV8
-http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist_w1600645438.m3u8
+http://11e6.vp9.tv/chn/vtv8/v.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/SzgBroS.jpg" tvg-name="VOV"  group-title="VTV",VOV
 http://210.245.60.242:1935/vovtv/vovtv/playlist.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/AiaMWrz.png" tvg-name="AN NINH TIVI"  group-title="VTV",AN NINH TIVI
 http://xmiolive.e14538a7.viettel-cdn.vn/antv.smil/chunklist_b1500000.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/7lRJkYI.png" tvg-name="Quốc Phòng Việt Nam"  group-title="VTV",Quốc Phòng Việt Nam
-http://sv.tivi24h.com/qpvnhd.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/gm61zmZ.png" tvg-name="THông tấn xã việt Nam"  group-title="VTV",THông tấn xã việt Nam
-http://sv.tivi24h.com/ttxvn.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/mtNSji1.png" tvg-name="HTV1"  group-title="HTV",HTV1
 http://xmiolive.e14538a7.viettel-cdn.vn/htv1.smil/chunklist_b1500000.m3u8
@@ -56,6 +50,18 @@ http://htvlive.1c656bad.cdnviet.com/90542bef4f19cc9e6c8f4e8d923e47b31467155019/h
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/VVf0FQw.png" tvg-name="HTV Du lịch"  group-title="HTV",HTV Du Lịch
 http://htvlive.1c656bad.cdnviet.com/83df3ea585e61285cfbca6578ef79cba1467159592/du_lich.360p.stream/playlist.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/J00WF8k.jpg?1" tvg-name="ITV"  group-title="KHÁC",ITV
+http://xmiolive.e14538a7.viettel-cdn.vn/itvhd.smil/chunklist_b1500000.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/YDtH0Ud.png?1" tvg-name="KeengTV"  group-title="KHÁC",KeengTV
+http://125.235.29.16/livetv/keeng.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://lifetv.vn/upload/channel/k9.jpg" tvg-name="Kênh 9 âm nhạc"  group-title="KHÁC",Kênh 9 âm nhạc
+http://203.162.121.230:1935/live/9_music/index.m3u8?securetoken=
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/zxViCYt.jpg?1" tvg-name="MTV"  group-title="KHÁC",MTV
+http://iliketot.dyndns.tv/tot/web/8d45473ff4ca44d79e1abc4516c2fee0.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sau 12 giờ sẽ cập nhật tiếp các kênh Kodi M3U IPTV Editor"  group-title="New Group",Sau 12 giờ sẽ cập nhật tiếp các kênh
 http://123.456.789
