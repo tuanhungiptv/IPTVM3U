@@ -36,6 +36,6 @@ http://hlscache.fptplay.net.vn/lives/fbnchd_hls.smil/playlist.m3u8?token=eyJ2YWx
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://s28.postimg.org/uod4egh21/56907bb064dab.png" tvg-name="Quốc Hội"  group-title="New Group",Quốc Hội
 http://hlscache.fptplay.net.vn/livek/quochoivn_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NzE2MDIwMiwgInRva2VuIjogImQyMzUyMmIyY2I2NWY3MTM5ODM3MmViODkwNDU0Y2M3IiwgInNlcnZlcl90aW1lIjogMTQ2NzA3MzgwMiwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInF1b2Nob2l2bl9obHMifQ==
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sau 12 giờ sẽ cập nhật tiếp các kênh"  group-title="New Group",Sau 12 giờ sẽ cập nhật tiếp các kênh
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sau 12 giờ sẽ cập nhật tiếp các kênh Kodi M3U IPTV Editor"  group-title="New Group",Sau 12 giờ sẽ cập nhật tiếp các kênh
 http://123.456.789
 
