@@ -1,269 +1,41 @@
-#EXTM3U thanhduong
-#EXTINF:-1 group-title="VTV-VTVcab",VTV1 HD
+#EXTM3U TuanHungIPTV
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://farm8.staticflickr.com/7265/26398984283_8a2861da3d_o.png" tvg-name="VTV1"  group-title="VTV",VTV1
 http://xmiolive.e14538a7.viettel-cdn.vn/vtv1.smil/chunklist_b1500000.m3u8
 
-#EXTINF:-1 group-title="VTV-VTVcab",VTV2
-http://123.30.185.126/hls/vtv2.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",VTV3 HD
-http://123.30.185.126/hls/vtv3.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/xMyv0zA.png" tvg-name="VTV2"  group-title="VTV",VTV2
+http://xmiolive.e14538a7.viettel-cdn.vn/vtv2.smil/chunklist_b1500000.m3u8
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/4CNsFQ6.png" tvg-name="VTV3"  group-title="VTC",VTV3
+http://27.67.50.68:18080/155_3.m3u8?AdaptiveType=HLS
 
-#EXTINF:-1 group-title="VTV-VTVcab",Euro Tiếng Việt 1 VTV3 HD
-http://123.30.185.126/hls/vtv3.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",Euro Tiếng Việt 2 VTV2 HD
-http://123.30.185.126/hls/vtv2.m3u8
-#EXTINF:-1 group-title="Thể Thao",EURO Tiếng trung
-http://107.155.41.48/m3u8/btv6_1800/desc.m3u8?stream_id=btv6_1800&path=107.155.49.79,107.155.49.106&mltag=202&platid=10&splatid=1005&qos=4&fcheck=0&uid=1805330768.rp&keyitem=dpoOd-l3AnupIUuBI8VtFwmKzWltcfnZpngeV5Yo3I1Oleh6yGrbVeKRoRQ.&ntm=1465894200&nkey2=78eef57f87740a41569d8c48509e90c7&nkey=632aa88f102de19597d4852f08cf8c8f&tag=live&video_type=m3u8&useloc=0&mslice=3&uidx=0&errc=0&gn=900&lrtmcd=100&buss=202&cips=113.175.61.70&geo=US-64-0-100&tmn=1465883131&pnl=900,900,997,266&rson=1&ext=m3u8&termid=2&pay=0&ostype=macos&hwtype=ipad&sign=live_phone&playid=1&tm=1465883131&key=0dbc66b0a78f63666c0e895da0d52970&_r=0
-#EXTINF:-1 group-title="Thể Thao",EURO Tiếng anh
-http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",VTV6 HD 
-http://11e6.vp9.tv/chn/vtv6/v.m3u8
-
-
-#EXTINF:-1 group-title="VTV-VTVcab",VTV4
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/2hMf954.png" tvg-name="VTV4"  group-title="VTV",VTV4
 http://xmiolive.e14538a7.viettel-cdn.vn/vtv4.smil/chunklist_b1500000.m3u8
 
-#EXTINF:-1 group-title="VTV-VTVcab",VTV8 HD
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/RwUrBkO.png" tvg-name="VTV6"  group-title="VTV",VTV6
+http://11e6.vp9.tv/chn/vtv6/v.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/tz5IbFM.png" tvg-name="VTV8"  group-title="VTV",VTV8
 http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist_w1600645438.m3u8
-#EXTINF:-1 group-title="Thể Thao",BONGDA TV HD
-http://11e6.vp9.tv/chn/bdtv/v.m3u8
 
-#EXTINF:-1 group-title="Thể Thao",THETHAO TV 
-http://11e6.vp9.tv/chn/tttv/v.m3u8
-#EXTINF:-1 group-title="VTC",ITVHD
-http://xmiolive.e14538a7.viettel-cdn.vn/itvhd.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="Thể Thao",VTC3
-http://123.30.185.126/hls/vtc3.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",ANTV
-http://xmiolive.e14538a7.viettel-cdn.vn/antv.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab", VOV  
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/SzgBroS.jpg" tvg-name="VOV"  group-title="VTV",VOV
 rtmp://210.245.60.242:1935/vovtv/vovtv
-#EXTINF:-1 group-title="VTV-VTVcab",MOV
-http://xmiolive.e14538a7.viettel-cdn.vn/mov.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="Phim Truyện",BTV4 HD
-http://tv1.tivi8k.net/stream-tivi8k-net/btv4/playlist.m3u8
-#EXTINF:-1 group-title="Phim Truyện",MOV HD
-http://xmiolive.e14538a7.viettel-cdn.vn/mov_p3.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="HTV",HTV1
-http://xmiolive.e14538a7.viettel-cdn.vn/htv1.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="HTV",HTV2
-http://live.tvmienphi.biz/stream-tvmienphi-biz-moi-1412-fpt/htv2/playlist.m3u8
-#EXTINF:-1 group-title="HTV",HTV3
-http://xmiolive.e14538a7.viettel-cdn.vn/htv3.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="HTV",HTV7
-http://xmiolive.e14538a7.viettel-cdn.vn/htv7.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="HTV",HTV9 Dang cap
-#EXTINF:-1 group-title="HTV",HTV THUẦN VIỆT
-http://tv1.tivi8k.net/stream-tivi8k-net/htvc-thuanviet/playlist.m3u8
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/AiaMWrz.png" tvg-name="AN NINH TIVI"  group-title="VTV",AN NINH TIVI
+http://xmiolive.e14538a7.viettel-cdn.vn/antv.smil/chunklist_b1500000.m3u8
 
-#EXTINF:-1 group-title="Phim Truyện",CINEMAX 2
-http://orbit-iptv.com:2500/live/nisar/nisar/1946.ts
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/7lRJkYI.png" tvg-name="Quốc Phòng Việt Nam"  group-title="VTV",Quốc Phòng Việt Nam
+http://hlscache.fptplay.net.vn/liver/quocphongvnhd_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NzE1OTY1OSwgInRva2VuIjogImU1ZWUzNWMwYWE4YTJmYzA5M2U4YTYwMDEwZjg0YWFkIiwgInNlcnZlcl90aW1lIjogMTQ2NzA3MzI1OSwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInF1b2NwaG9uZ3ZuaGRfaGxzIn0=
 
-#EXTINF:-1 group-title="Phim Truyện",CINE STAR 1
-http://orbit-iptv.com:2500/live/nisar/nisar/1948.ts
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/gm61zmZ.png" tvg-name="THông tấn xã việt Nam"  group-title="VTV",THông tấn xã việt Nam
+http://hlscache.fptplay.net.vn/liver/ttxvn_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NzE1OTg0NiwgInRva2VuIjogIjQ3ZTI4N2JjM2VmZjFkZTkwNmQ2Y2M2MWIwNzliYmI3IiwgInNlcnZlcl90aW1lIjogMTQ2NzA3MzQ0NiwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInR0eHZuX2hscyJ9
 
-#EXTINF:-1 group-title="Phim Truyện",CINE STAR 
-http://orbit-iptv.com:2500/live/nisar/nisar/1949.ts
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/yldKUYv.jpg" tvg-name="FBNC"  group-title="New Group",FBNC
+http://hlscache.fptplay.net.vn/lives/fbnchd_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NzE2MDA0MywgInRva2VuIjogImUzMjNjNDU1MDJlYzFlOGRlNzczOTM0ZjI2ODU0ZmJlIiwgInNlcnZlcl90aW1lIjogMTQ2NzA3MzY0MywgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogImZibmNoZF9obHMifQ==
 
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://s28.postimg.org/uod4egh21/56907bb064dab.png" tvg-name="Quốc Hội"  group-title="New Group",Quốc Hội
+http://hlscache.fptplay.net.vn/livek/quochoivn_hls.smil/playlist.m3u8?token=eyJ2YWxpZF9taW51dGVzIjogMTQ2NzE2MDIwMiwgInRva2VuIjogImQyMzUyMmIyY2I2NWY3MTM5ODM3MmViODkwNDU0Y2M3IiwgInNlcnZlcl90aW1lIjogMTQ2NzA3MzgwMiwgInBhcnRuZXJfaWQiOiAiNTc0NmNmOTUzODQ5YWU3ZWU2ZWVkYzBmIiwgInJlc291cmNlX2lkIjogInF1b2Nob2l2bl9obHMifQ==
 
-#EXTINF:-1 group-title="Phim Truyện",PHIM HỒNG KONG
-http://107.155.41.48/m3u8/lb_lsgcp_3000/desc.m3u8?stream_id=lb_lsgcp_3000&path=107.155.49.82,107.155.49.101&mltag=202&platid=10&splatid=1005&qos=4&fcheck=0&uid=1806354791.rp&keyitem=dpoOd-l3AnupIUuBI8VtFwmKzWltcfnZpngeV5Yo3I1Oleh6yGrbVeKRoRQ.&ntm=1466506200&nkey2=1a13be5738c2be8c77e104ba273a0008&nkey=1037e1fe8fd0d79f0fef02c90561f825&tag=live&video_type=m3u8&useloc=0&mslice=3&ver=live_3&uidx=0&errc=0&gn=291&lrtmcd=100&buss=202&geo=US-64-0-100&tmn=1466495145&pnl=291,291,1214,291&rson=1&ext=m3u8&termid=2&pay=0&ostype=macos&hwtype=ipad&sign=live_phone&playid=1&tm=1466495145&key=499dac28c7b2d10071d1323928d277df&_r=0
-#EXTINF:-1 group-title="Phim Truyện",PHIM THÀNH LONG
-http://185.25.244.48/m3u8/lb_cl_720p/desc.m3u8?stream_id=lb_cl_720p&path=185.25.244.100&mltag=202&platid=10&splatid=1005&qos=4&fcheck=0&uid=1806354791.rp&keyitem=dpoOd-l3AnupIUuBI8VtFwmKzWltcfnZpngeV5Yo3I1Oleh6yGrbVeKRoRQ.&ntm=1466501400&nkey2=f7af73365cf3f15bb6e8136b0f9dec58&nkey=908b0b0e9573d9df92e995147b7cea75&tag=live&video_type=m3u8&useloc=0&mslice=3&ver=live_3&uidx=0&errc=0&gn=291&lrtmcd=100&buss=202&cips=113.175.60.170&geo=US-64-0-100&tmn=1466490489&pnl=291,291,1214,291&rson=1&ext=m3u8&termid=2&pay=0&ostype=macos&hwtype=ipad&sign=live_phone&playid=1&tm=1466490489&key=80997dae2490347dd980b6dde526b503&_r=0
-#EXTINF:-1 group-title="Phim Truyện",PHIM 1
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sau 12 giờ sẽ cập nhật tiếp các kênh"  group-title="New Group",Sau 12 giờ sẽ cập nhật tiếp các kênh
+http://123.456.789
 
-#EXTINF:-1 group-title="VTC",VTC1
-http://11e6.vp9.tv/chn/vtc1/v.m3u8
-
-#EXTINF:-1 group-title="VTC",VTC2
-http://11e6.vp9.tv/chn/vtc2/v.m3u8
-#EXTINF:-1 group-title="VTC",VTC3 HD
-http://123.30.185.126/hls/vtc3.m3u8
-
-#EXTINF:-1 group-title="VTC",VTC4
-http://anluong.info/vtc4.m3u8
-
-#EXTINF:-1 group-title="VTC",VTC5
-http://anluong.info/vtc5.m3u8
-#EXTINF:-1 group-title="VTC",VTC6
-http://anluong.info/vtc6.m3u8
-#EXTINF:-1 group-title="VTC",VTC7
-http://11e6.vp9.tv/chn/tdayt/v.m3u8
-#EXTINF:-1 group-title="VTC",VTC8
-http://anluong.info/vtc8.m3u8
-#EXTINF:-1 group-title="VTC",VTC9 
-http://14.161.5.88:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="VTC",VTC10
-http://118.107.71.15:1935/live/_definst_/VTC10/VTC10_640x360_800kbps.stream/playlist.m3u8
-
-
-#EXTINF:-1 group-title="VTC",VTC11
-rtmp://118.107.84.3/live//vtc11_public
-#EXTINF:-1 group-title="VTC",VTC14
-http://censoft.mobi:1935/tvviet/vtc14.stream/playlist.m3u8
-#EXTINF:-1 group-title="VTC",VTC16
-http://tv3.tivi12h.net/stream-tivi12h-net/vtc16/playlist.m3u8
-
-#EXTINF:-1 group-title="VTC",SCTV HÀI
-http://112.197.2.135:1935/colive/C011_HD_2/playlist.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",THVL1
-http://thvllive.bb87e240.cdnviet.com/thvl1/chunklist.m3u8
-
-#EXTINF:-1 group-title="VTV-VTVcab",THVL2
-http://thvllive.bb87e240.cdnviet.com/thvl2/playlist.m3u8
-
-
-#EXTINF:-1 group-title="VTV-VTVcab",DA NANG1
-http://tv1.tivi8k.net/stream-tivi8k-net/danang1/playlist.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",DA NANG2
-http://tv1.tivi8k.net/stream-tivi8k-net/danang2/playlist.m3u8
-
-#EXTINF:-1 group-title="Ca Nhạc",ITV SD
-http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Ca Nhạc",KEENG TV
-http://125.235.29.16/livetv/keeng.m3u8
-#EXTINF:-1 group-title="Ca Nhạc",Kênh 9 mussic
-http://203.162.121.230:1935/live/9_music/index.m3u8?securetoken=#ed%h0#w@1
-
-#EXTINF:-1 group-title="Thể Thao",TyC Sport
-http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/35/chunklist.m3u8
-#EXTINF:-1 group-title="Thể Thao",CTH1stadium
-http://stream2.goalclub.tv:1935/goalclub/arena1.stream_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Thể Thao",CTH2stadium
-http://stream2.goalclub.tv:1935/goalclub/arena2.stream_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Thể Thao",CTH3stadium
-http://stream2.goalclub.tv:1935/goalclub/arena3.stream_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Thể Thao",CTH4stadium
-http://stream2.goalclub.tv:1935/goalclub/arena4.stream_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Thể Thao",CTH5stadium
-http://stream2.goalclub.tv:1935/goalclub/arena5.stream_480p/chunklist.m3u8
-
-#EXTINF:-1 group-title="Thể Thao",TRUESPORT 2
-http://tinyurl.com/truesportdocs4you
-#EXTINF:-1 group-title="Thể Thao",TRUESPORT 1
-http://103.7.56.37:8081/atom_web/tsp1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Thể Thao",TRUESPORT 2 SD
-http://103.7.56.37:8081/atom_web/tsp2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Thể Thao",TRUESPORT 3
-http://103.7.56.37:8081/atom_web/tsphd3.stream/playlist.m3u8
-#EXTINF:-1 group-title="Thể Thao",TRUESPORT 4
-http://103.7.56.37:8081/atom_web/tsphd4.stream/playlist.m3u8
-#EXTINF:-1 group-title="Thể Thao",TRUESPORT 5
-http://103.7.56.37:8081/atom_web/tsp5.stream/playlist.m3u8
-#EXTINF:-1 group-title="Thể Thao",SPORT 24
-http://203.162.235.30/hls/SP24/playlist.m3u8
-#EXTINF:-1 group-title="Thể Thao",EUROSPORT
-http://203.162.235.30/hls/SKY_SPORT_N/playlist.m3u8
-
-#EXTINF:-1 group-title="Thể Thao",supersport 2
-http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:-1 group-title="Thể Thao",supersport 3
-http://81.7.13.162/hls/ss3/index.m3u8
-#EXTINF:-1 group-title="Thể Thao",Sport Turkey 1
-http://stream.yayindayiz.biz/Bursaspor/bursaspor/chunklist.m3u8
-#EXTINF:-1 group-title="Thể Thao",Sport Turkey 2
-http://si.trtcdn.com/tv/trtspor/mp4:trtspor_3/chunklist_w1168135071.m3u8
-
-#EXTINF:-1 group-title="Thể Thao",Sport Kuwait
-http://stream03.fasttelco.net:1935/live/_definst_/ktv3_720.stream/playlist.m3u8
-#EXTINF:-1 group-title="Thể Thao",EDGE
-http://203.162.235.30/hls/EDGE/playlist.m3u8
-#EXTINF:-1 group-title="Thể Thao",SIAM SPORT
-http://103.40.138.89:1935/live/esan/playlist.m3u8
-#EXTINF:-1 group-title="Thể Thao",SPORT UKRAINE
-http://win.cdn.bonus-tv.ru/TVB8/football/playlist.m3u8
-
-#EXTINF:-1 group-title="Thể Thao",SIX HD SPORT
-http://203.162.235.30/hls/SP24/playlist.m3u8
-#EXTINF:-1 group-title="Thể Thao",DUBAI SPORT
-http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b750000.m3u8
-
-#EXTINF:-1 group-title="Thể Thao",TyC SPORT
-http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/35/chunklist.m3u8
-#EXTINF:-1 group-title="Thể Thao",JSPORT1
-http://203.162.235.45:17930
-#EXTINF:-1 group-title="Thể Thao",JSPORT2
-http://203.162.235.45:17931
-
-#EXTINF:-1 group-title="Thể Thao",JSPORT3
-http://203.162.235.45:17932
-
-#EXTINF:-1 group-title="Thể Thao",JSPORT4
-http://203.162.235.45:17933
-
-#EXTINF:-1 group-title="Thể Thao", BELARUS SPORT
-http://178.124.183.11/hls/CH_BELARUS5/variant.m3u8
-#EXTINF:-1 group-title="Thể Thao",STAR SPORTCHINA
-http://live2.icntv.xyz/sunsuper/SHSportHD.m3u8?str=dXNlcl84bTlKUDlweWlILDE0NjY1NzIzNjM=&key=c14e133258c4ed606c1ffa218f9d3374
-
-#EXTINF:-1 group-title="Thể Thao",BTV6 SPORTCHINA
-http://107.155.41.48/m3u8/btv6_1800/desc.m3u8?stream_id=btv6_1800&path=107.155.49.79,107.155.49.106&mltag=202&platid=10&splatid=1005&qos=4&fcheck=0&uid=1805330768.rp&keyitem=dpoOd-l3AnupIUuBI8VtFwmKzWltcfnZpngeV5Yo3I1Oleh6yGrbVeKRoRQ.&ntm=1465894200&nkey2=78eef57f87740a41569d8c48509e90c7&nkey=632aa88f102de19597d4852f08cf8c8f&tag=live&video_type=m3u8&useloc=0&mslice=3&uidx=0&errc=0&gn=900&lrtmcd=100&buss=202&cips=113.175.61.70&geo=US-64-0-100&tmn=1465883131&pnl=900,900,997,266&rson=1&ext=m3u8&termid=2&pay=0&ostype=macos&hwtype=ipad&sign=live_phone&playid=1&tm=1465883131&key=0dbc66b0a78f63666c0e895da0d52970&_r=0
-#EXTINF:-1 group-title="Thể Thao",QUẢNG ĐÔNG SPORT
-http://live2.icntv.xyz/tvmtv/GDSport.m3u8?str=dXNlcl84bTlKUDlweWlILDE0NjY1NzIzNjM=&key=c14e133258c4ed606c1ffa218f9d3374
-
-#EXTINF:-1 group-title="Thể Thao",QUẢNG CHÂU SPORT
-http://live2.icntv.xyz/tvmtv/GZJingSai.m3u8?str=dXNlcl84bTlKUDlweWlILDE0NjY1NzIzNjM=&key=c14e133258c4ed606c1ffa218f9d3374
-
-#EXTINF:-1 group-title="Thể Thao",THƯỢNG HẢI SPORT
-http://live2.icntv.xyz/sunsuper/SHSportHD.m3u8?str=dXNlcl84bTlKUDlweWlILDE0NjY1NzIzNjM=&key=c14e133258c4ed606c1ffa218f9d3374
-#EXTINF:-1 group-title="Thể Thao",CCTV5 HD SPORT
-http://65.255.32.169/m3u8/cctv5_1800/desc.m3u8?stream_id=cctv5_1800&path=103.247.231.34,103.247.231.98&mltag=202&platid=10&splatid=1005&qos=4&fcheck=0&uid=1805330768.rp&keyitem=dpoOd-l3AnupIUuBI8VtFwmKzWltcfnZpngeV5Yo3I1Oleh6yGrbVeKRoRQ.&ntm=1465890600&nkey2=5c47d0376d36b38552224d62bf52c7f9&nkey=0e65667e0785921df8194c2ad12bcc16&tag=live&video_type=m3u8&useloc=0&mslice=3&uidx=0&errc=0&gn=900&lrtmcd=100&buss=202&geo=US-64-0-100&tmn=1465879206&pnl=900,900,911,426&rson=1&ext=m3u8&termid=2&pay=0&ostype=macos&hwtype=ipad&sign=live_phone&playid=1&tm=1465879206&key=d3395b1020b621036ca45cbd5642ff4f&_r=0
-
-#EXTINF:-1 group-title="Thể Thao",CCTV5+HD SPORT
-http://185.25.244.48/m3u8/cctv5jiaHD_1800/desc.m3u8?stream_id=cctv5jiaHD_1800&path=185.25.244.107&mltag=202&platid=10&splatid=1005&qos=4&fcheck=0&uid=1805330768.rp&keyitem=dpoOd-l3AnupIUuBI8VtFwmKzWltcfnZpngeV5Yo3I1Oleh6yGrbVeKRoRQ.&ntm=1465894800&nkey2=2aaf627c5f7479dbcb65d1aa6d4242fc&nkey=61f1ed3258171aeda12ef37dda42fa97&tag=live&video_type=m3u8&useloc=0&mslice=3&uidx=0&errc=0&gn=900&lrtmcd=100&buss=202&geo=US-64-0-100&tmn=1465883449&pnl=900,900,997,266&rson=1&ext=m3u8&termid=2&pay=0&ostype=macos&hwtype=ipad&sign=live_phone&playid=1&tm=1465883449&key=85be93a6c0d987f693944743f9d5a84e&_r=0
-
-
-#EXTINF:-1 group-title="Phim Truyện",universal
-http://iliketot.dyndns.tv/tot/web/a7105ed1bb0a44bba1f4f71f2352b892.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",thriller
-http://iliketot.dyndns.tv/tot/web/c316ed9333e54442b25077f0bb3cc269.m3u8
-#EXTINF:-1 group-title="Ca Nhạc",b4u music
-http://iliketot.dyndns.tv/tot/web/81ff107849124ff389814b0b8816b1ba.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",ci
-http://iliketot.dyndns.tv/tot/web/9961a963920f45f4bc0d81c3e478b334.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",comedy central
-http://iliketot.dyndns.tv/tot/web/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",fox news
-http://iliketot.dyndns.tv/tot/web/1e2041858ca543fa90ec95d28197e907.m3u8
-#EXTINF:-1 group-title="Ca Nhạc",mtv live hd
-http://iliketot.dyndns.tv/tot/web/8d45473ff4ca44d79e1abc4516c2fee0.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",nat geo wild
-http://iliketot.dyndns.tv/tot/web/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8
-#EXTINF:-1 group-title="VTV-VTVcab",sky news hd
-http://iliketot.dyndns.tv/tot/web/31b003ab7e7749a798fe00424e3dd9ff.m3u8
-#EXTINF:-1 group-title="Nước Ngoài",FOX HD
-http://iliketot.dyndns.tv/tot/web/63cbfb466fe644dda11a8e109611a5cd.m3u8
-#EXTINF:-1 group-title="Nước Ngoài",FOX CRIME HD
-http://iliketot.dyndns.tv/tot/web/5028f7ff1d1b4d5f8189690233364737.m3u8
-#EXTINF:-1 group-title="Nước Ngoài",Star World HD
-http://iliketot.dyndns.tv/tot/web/65f7358b813048a0898f5677e1793cf9.m3u8
-#EXTINF:-1 group-title="Nước Ngoài",KIX HD
-http://iliketot.dyndns.tv/tot/web/e584e0adae6440eab366f5fe3a824f91.m3u8
-
-#EXTINF:-1 group-title="Nước Ngoài",SYFI HD
-http://iliketot.dyndns.tv/tot/web/71f197de056e499a85265c03b44bdab1.m3u8
-#EXTINF:-1 group-title="Nước Ngoài",FX HD
-http://iliketot.dyndns.tv/tot/web/2e0e4b05aa6e428593f3b45b710045b7.m3u8
-#EXTINF:-1 group-title="Nước Ngoài",ITV CHOIXE HD
-http://iliketot.dyndns.tv/tot/web/e36b99bcd26648af9db2261785c77b7a.m3u8
-#EXTINF:-1 group-title="Nước Ngoài",MTV CHINA
-http://iliketot.dyndns.tv/tot/web/69ebf00065494dc39a3911c7d1eb9d71.m3u8
-#EXTINF:-1 group-title="Nước Ngoài",SIMI HD
-http://203.151.87.82:9000/udp/239.101.1.2:1234
-#EXTINF:-1 group-title="Nước Ngoài",South News
-http://203.151.87.82:9000/udp/239.102.1.3:1234
-#EXTINF:-1 group-title="Nước Ngoài",MUSSIC FOR YOU
-http://203.151.87.82:9000/udp/239.101.1.4:1234
-#EXTINF:-1 group-title="Nước Ngoài",IZAA HD
-http://203.151.87.82:9000/udp/239.101.1.5:1234
-#EXTINF:-1 group-title="Nước Ngoài",HI SPORT
-http://203.151.87.82:9000/udp/239.101.1.6:1234
-#EXTINF:-1 group-title="Nước Ngoài",VEVO 1 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:-1 group-title="Nước Ngoài",VEVO 2 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:-1 group-title="Nước Ngoài",VEVO 3 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
