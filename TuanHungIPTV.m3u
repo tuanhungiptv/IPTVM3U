@@ -31,7 +31,7 @@ http://xmiolive.e14538a7.viettel-cdn.vn/antv.smil/chunklist_b1500000.m3u8
 http://xmiolive.e14538a7.viettel-cdn.vn/htv1.smil/chunklist_b1500000.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/WYdWm3k.png" tvg-name="HTV2"  group-title="HTV",HTV2
-http://xmiolive.e14538a7.viettel-cdn.vn/htv2.smil/chunklist_b1500000.m3u8
+http://htvlive.1c656bad.cdnviet.com/7014e4c0fa91359b5b88503ec023f1971467206652/htv2.360p.stream/playlist.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/H8hDiuE.png" tvg-name="HTV3"  group-title="HTV",HTV3
 http://xmiolive.e14538a7.viettel-cdn.vn/htv3.smil/chunklist_b1500000.m3u8
@@ -40,16 +40,16 @@ http://xmiolive.e14538a7.viettel-cdn.vn/htv3.smil/chunklist_b1500000.m3u8
 http://xmiolive.e14538a7.viettel-cdn.vn/htv7.smil/chunklist_b1500000.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/LQJA3CJ.png" tvg-name="HTV9"  group-title="HTV",HTV9
-http://htvlive.1c656bad.cdnviet.com/4cbb78d170dab49d21be5563be0326b21467154071/htv9.720p.stream/playlist.m3u8
+http://htvlive.1c656bad.cdnviet.com/4ed5c04042d5d99c2bf79643ad82b8081467206750/htv9.720p.stream/playlist.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/00eoUiD.png" tvg-name="HTV Phim"  group-title="HTV",HTVPhim
-http://htvlive.1c656bad.cdnviet.com/0f5f152ec451c61ca95e15c6b308a4321467154305/htvc_phim.360p.stream/playlist.m3u8
+http://htvlive.1c656bad.cdnviet.com/7f2e67b9515d64a2fba1158184eeec7c1467206821/htvc_phim.360p.stream/playlist.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/ReHLVzx.png" tvg-name="HTV Thuần Việt"  group-title="HTV",HTV Thuần Việt
 http://htvlive.1c656bad.cdnviet.com/cc0cc1be64cc8e1898dbd1e03a9ef4c91467154921/thuan_viet.360p.stream/playlist.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/Ot4qmYf.jpg" tvg-name="HTV Thể Thao"  group-title="HTV",HTV Thể Thao
-http://htvlive.1c656bad.cdnviet.com/90542bef4f19cc9e6c8f4e8d923e47b31467155019/htvthethao.720p.stream/playlist.m3u8
+http://htvlive.1c656bad.cdnviet.com/1b6160327e364a3e04c930551e0dc1351467206875/htvthethao.720p.stream/playlist.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/VVf0FQw.png" tvg-name="HTV Du lịch"  group-title="HTV",HTV Du Lịch
 http://htvlive.1c656bad.cdnviet.com/83df3ea585e61285cfbca6578ef79cba1467159592/du_lich.360p.stream/playlist.m3u8
@@ -102,20 +102,7 @@ http://thvllive.bb87e240.cdnviet.com/thvl1/chunklist.m3u8
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/asnYGw2.png" tvg-name="Vĩnh Long 2"  group-title="Địa Phương", Vĩnh Long 2 
 http://thvllive.bb87e240.cdnviet.com/thvl2/playlist.m3u8
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/x1QATXR.png" tvg-name="Hà Nội 1"  group-title="Địa Phương", Hà Nội 1 
-http://vnn.anluong.info/hls/hanoi1.m3u8
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/8gV6MN9.png" tvg-name="Hà Nội 2"  group-title="Địa Phương", Hà Nội 2
-http://vnn.anluong.info/hls/hanoi2.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/UzhW71U.png" tvg-name="Bình Dương 1"  group-title="Địa Phương", Bình Dương 1
-http://anluong.info/binhduong1.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/341AzId.png" tvg-name="Bình Dương 2"  group-title="Địa Phương", Bình Dương 2
-http://anluong.info/binhduong2.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/bsbzKS4.png" tvg-name="Bình Dương 4"  group-title="Địa Phương", Bình Dương 4
-http://anluong.info/binhduong4.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sau 12 giờ sẽ cập nhật tiếp các kênh Kodi M3U IPTV Editor"  group-title="New Group",Sau 12 giờ sẽ cập nhật tiếp các kênh
 http://123.456.789
