@@ -91,11 +91,10 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 http://xmiolive.e14538a7.viettel-cdn.vn/mov.smil/chunklist_b1500000.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/pC5hmXf.png" tvg-name="TheV kênh Phim "  group-title="KHÁC",TheV kênh Phim 
-http://live.csmtalk.vcdn.vn/hls/0638e402fa0d0310879dd7c8c3cdbe27/15597390eaa/thev/index.m3u8
+http://live.csmtalk.vcdn.vn/hls/bc1ee6af7a4f3fb02ed6b6224ca0dd6e/155998dbb95/thev/index.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/OzCmFR6.png" tvg-name=" kênh Phim "  group-title="KHÁC", kênh Phim 
-http://live.csmtalk.vcdn.vn/hls/b07a965e023994d3e5d8d8afc4ed82c4/1559738b399/thegioionline/index.m3u8
-
+http://live.csmtalk.vcdn.vn/hls/01d191e04dfdbaf9fedb2e050ea9eecc/1559990c4d5/thegioionline/index.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sau 12 giờ sẽ cập nhật tiếp các kênh Kodi M3U IPTV Editor"  group-title="New Group",Sau 12 giờ sẽ cập nhật tiếp các kênh
 http://123.456.789
