@@ -96,5 +96,25 @@ http://live.csmtalk.vcdn.vn/hls/bc1ee6af7a4f3fb02ed6b6224ca0dd6e/155998dbb95/the
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/OzCmFR6.png" tvg-name=" kênh Phim "  group-title="KHÁC", kênh Phim 
 http://live.csmtalk.vcdn.vn/hls/01d191e04dfdbaf9fedb2e050ea9eecc/1559990c4d5/thegioionline/index.m3u8
 
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/b0CpC4q.png" tvg-name="Vĩnh Long 1"  group-title="Địa Phương", Vĩnh Long 1 
+http://thvllive.bb87e240.cdnviet.com/thvl1/chunklist.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/asnYGw2.png" tvg-name="Vĩnh Long 2"  group-title="Địa Phương", Vĩnh Long 2 
+http://thvllive.bb87e240.cdnviet.com/thvl2/playlist.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/x1QATXR.png" tvg-name="Hà Nội 1"  group-title="Địa Phương", Hà Nội 1 
+http://vnn.anluong.info/hls/hanoi1.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/8gV6MN9.png" tvg-name="Hà Nội 2"  group-title="Địa Phương", Hà Nội 2
+http://vnn.anluong.info/hls/hanoi2.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/UzhW71U.png" tvg-name="Bình Dương 1"  group-title="Địa Phương", Bình Dương 1
+http://anluong.info/binhduong1.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/341AzId.png" tvg-name="Bình Dương 2"  group-title="Địa Phương", Bình Dương 2
+http://anluong.info/binhduong2.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/bsbzKS4.png" tvg-name="Bình Dương 4"  group-title="Địa Phương", Bình Dương 4
+
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sau 12 giờ sẽ cập nhật tiếp các kênh Kodi M3U IPTV Editor"  group-title="New Group",Sau 12 giờ sẽ cập nhật tiếp các kênh
 http://123.456.789
