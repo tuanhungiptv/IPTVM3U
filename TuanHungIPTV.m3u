@@ -115,6 +115,7 @@ http://anluong.info/binhduong1.m3u8
 http://anluong.info/binhduong2.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/bsbzKS4.png" tvg-name="Bình Dương 4"  group-title="Địa Phương", Bình Dương 4
+http://anluong.info/binhduong4.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sau 12 giờ sẽ cập nhật tiếp các kênh Kodi M3U IPTV Editor"  group-title="New Group",Sau 12 giờ sẽ cập nhật tiếp các kênh
 http://123.456.789
