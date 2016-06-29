@@ -94,7 +94,8 @@ http://xmiolive.e14538a7.viettel-cdn.vn/mov.smil/chunklist_b1500000.m3u8
 http://live.csmtalk.vcdn.vn/hls/bc1ee6af7a4f3fb02ed6b6224ca0dd6e/155998dbb95/thev/index.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/OzCmFR6.png" tvg-name=" kênh Phim "  group-title="KHÁC", kênh Phim 
-http://live.csmtalk.vcdn.vn/hls/01d191e04dfdbaf9fedb2e050ea9eecc/1559990c4d5/thegioionline/index.m3u8
+http://live.csmtalk.vcdn.vn/hls/e0f27b98be6331514c6f3c12faadb57b/15599e82e41/superlady/index.m3u8
+
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/b0CpC4q.png" tvg-name="Vĩnh Long 1"  group-title="Địa Phương", Vĩnh Long 1 
 http://thvllive.bb87e240.cdnviet.com/thvl1/chunklist.m3u8
