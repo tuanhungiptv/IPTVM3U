@@ -31,10 +31,10 @@ http://xmiolive.e14538a7.viettel-cdn.vn/antv.smil/chunklist_b1500000.m3u8
 http://xmiolive.e14538a7.viettel-cdn.vn/htv1.smil/chunklist_b1500000.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/WYdWm3k.png" tvg-name="HTV2"  group-title="HTV",HTV2
-http://htvlive.1c656bad.cdnviet.com/b9930b765e5ce9b6d477b2615b20bc0a1467153022/htv2.360p.stream/playlist.m3u8
+http://xmiolive.e14538a7.viettel-cdn.vn/htv2.smil/chunklist_b1500000.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/H8hDiuE.png" tvg-name="HTV3"  group-title="HTV",HTV3
-http://htvlive.1c656bad.cdnviet.com/d822db8d3dd6af141d10df40143677331467153778/htv3.360p.stream/playlist.m3u8
+http://xmiolive.e14538a7.viettel-cdn.vn/htv3.smil/chunklist_b1500000.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/RKUKL7P.png" tvg-name="HTV7"  group-title="HTV",HTV7
 http://xmiolive.e14538a7.viettel-cdn.vn/htv7.smil/chunklist_b1500000.m3u8
