@@ -106,7 +106,15 @@ http://thvllive.bb87e240.cdnviet.com/thvl1/chunklist.m3u8
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/asnYGw2.png" tvg-name="Vĩnh Long 2"  group-title="Địa Phương", Vĩnh Long 2 
 http://thvllive.bb87e240.cdnviet.com/thvl2/playlist.m3u8
 
+"Địa Phương"
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/TfS8wOA.png" tvg-name="THTP Cần Thơ"  group-title="Địa Phương",THTP Cần Thơ
+http://htvlive.1c656bad.cdnviet.com/4fef2b77fbb5fea1100b1e4993f992771467326079/can_tho.360p.stream/playlist.m3u8
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/0VC4F5f.png" tvg-name="Long An"  group-title="Địa Phương",Long An
+http://htvlive.1c656bad.cdnviet.com/bc92bafea3a00d9899c3e2fedc0ea4451467326654/longan.360p.stream/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/roq8O6I.png" tvg-name="Hậu Giang"  group-title="Địa Phương",Hậu Giang
+http://htvlive.1c656bad.cdnviet.com/1d9f58630bd8ddcac738fcb9252b38981467326749/hau_giang.360p.stream/playlist.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sau 12 giờ sẽ cập nhật tiếp các kênh Kodi M3U IPTV Editor"  group-title="New Group",Sau 12 giờ sẽ cập nhật tiếp các kênh
 http://123.456.789
