@@ -31,7 +31,7 @@ http://xmiolive.e14538a7.viettel-cdn.vn/antv.smil/chunklist_b1500000.m3u8
 http://xmiolive.e14538a7.viettel-cdn.vn/htv1.smil/chunklist_b1500000.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/WYdWm3k.png" tvg-name="HTV2"  group-title="HTV",HTV2
-http://htvlive.1c656bad.cdnviet.com/7014e4c0fa91359b5b88503ec023f1971467206652/htv2.360p.stream/playlist.m3u8
+http://htvlive.1c656bad.cdnviet.com/c208460844c766c3478ae74738c1b3d71467325005/htv2.360p.stream/playlist.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/H8hDiuE.png" tvg-name="HTV3"  group-title="HTV",HTV3
 http://xmiolive.e14538a7.viettel-cdn.vn/htv3.smil/chunklist_b1500000.m3u8
@@ -40,19 +40,19 @@ http://xmiolive.e14538a7.viettel-cdn.vn/htv3.smil/chunklist_b1500000.m3u8
 http://xmiolive.e14538a7.viettel-cdn.vn/htv7.smil/chunklist_b1500000.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/LQJA3CJ.png" tvg-name="HTV9"  group-title="HTV",HTV9
-http://htvlive.1c656bad.cdnviet.com/4ed5c04042d5d99c2bf79643ad82b8081467206750/htv9.720p.stream/playlist.m3u8
+http://htvlive.1c656bad.cdnviet.com/84fcbd6c29cfb572f005b2aff2de85371467325171/htv9.360p.stream/playlist.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/00eoUiD.png" tvg-name="HTV Phim"  group-title="HTV",HTVPhim
 http://htvlive.1c656bad.cdnviet.com/7f2e67b9515d64a2fba1158184eeec7c1467206821/htvc_phim.360p.stream/playlist.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/ReHLVzx.png" tvg-name="HTV Thuần Việt"  group-title="HTV",HTV Thuần Việt
-http://htvlive.1c656bad.cdnviet.com/cc0cc1be64cc8e1898dbd1e03a9ef4c91467154921/thuan_viet.360p.stream/playlist.m3u8
+http://htvlive.1c656bad.cdnviet.com/e37dbe9f1f805eb3176aa5bb88db6fe61467325233/thuan_viet.360p.stream/playlist.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/Ot4qmYf.jpg" tvg-name="HTV Thể Thao"  group-title="HTV",HTV Thể Thao
-http://htvlive.1c656bad.cdnviet.com/1b6160327e364a3e04c930551e0dc1351467206875/htvthethao.720p.stream/playlist.m3u8
+http://htvlive.1c656bad.cdnviet.com/d49d184a0530c377a81270947e5d739e1467325297/htvthethao.720p.stream/playlist.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/VVf0FQw.png" tvg-name="HTV Du lịch"  group-title="HTV",HTV Du Lịch
-http://htvlive.1c656bad.cdnviet.com/83df3ea585e61285cfbca6578ef79cba1467159592/du_lich.360p.stream/playlist.m3u8
+http://htvlive.1c656bad.cdnviet.com/dc1bdec809ce6ce18f5aa789a3783e501467325306/du_lich.360p.stream/playlist.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/J00WF8k.jpg?1" tvg-name="ITV"  group-title="KHÁC",ITV
 http://xmiolive.e14538a7.viettel-cdn.vn/itvhd.smil/chunklist_b1500000.m3u8
@@ -74,6 +74,9 @@ http://14.161.5.88:1935/live/myStream/playlist.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/J00WF8k.jpg?1" tvg-name="VTC13-ITV"  group-title="VTC",VTC13-ITV
 http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/3B2ePRa.gif" tvg-name="Thể Thao"  group-title="VTC",Thể Thao
+http://11e6.vp9.tv/chn/tttv/v.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/YDtH0Ud.png?1" tvg-name="KeengTV"  group-title="KHÁC",KeengTV
 http://125.235.29.16/livetv/keeng.m3u8
