@@ -1,5 +1,18 @@
 #EXTM3U TuanHungIPTV
-
+#EXTINF:0,Sever1
+http://vtvgoobj.04477775.sabai.vn/c67b708e574e9de3da67d7096dd4bef01467303003/live/_definst_/vtv3-low.m3u8
+#EXTINF:0,Sever2
+http://live.csmtalk.vcdn.vn/hls/4742d402f01db19cde530dfce6e138e8/155a1712fbd/meowdoraemon/index.m3u8
+#EXTINF:0,Sever3
+http://vtvgoobj.04477775.sabai.vn/022e48e466bd6361a052f35123be4f2f1467303322/live/_definst_/vtv3-high.m3u8
+#EXTINF:0,Sever4
+http://vtvgoobj.04477775.sabai.vn/022e48e466bd6361a052f35123be4f2f1467303322/live/_definst_/vtv3-mid.m3u8
+#EXTINF:0,Sever5
+http://vtvgoobj.04477775.sabai.vn/022e48e466bd6361a052f35123be4f2f1467303322/live/_definst_/vtv3-low.m3u8
+#EXTINF:0,Sever6
+http://live.vn-hd.com/6bc8782e2c8baff8fe23a98ea5045ac7/spsklfl/vtv3.360p.stream/playlist.m3u8
+#EXTINF:0,Sever7
+sop://broker.sopcast.com:3912/135333
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://farm8.staticflickr.com/7265/26398984283_8a2861da3d_o.png" tvg-name="VTV1"  group-title="VTV",VTV1
 http://xmiolive.e14538a7.viettel-cdn.vn/vtv1.smil/chunklist_b1500000.m3u8
 
