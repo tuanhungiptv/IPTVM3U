@@ -110,14 +110,23 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/QRqqKHn.png" tvg-name="Mov-Ha nội cab"  group-title="KHÁC",Mov-Ha nội cab
 http://xmiolive.e14538a7.viettel-cdn.vn/mov.smil/chunklist_b1500000.m3u8
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="https://static.wixstatic.com/media/ce834c_bc9e7bc3f3b14d32b404527d5e0d0022~mv2.png/v1/fill/w_140,h_137,al_c,usm_0.66_1.00_0.01/ce834c_bc9e7bc3f3b14d32b404527d5e0d0022~mv2.png" tvg-name="2channel"  group-title="KHÁC",2channel
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://lifetv.vn/images/front_end/2chanel_(Copy).png" tvg-name="2channel"  group-title="KHÁC",2channel
 http://203.162.121.230:1935/live//2channel/index.m3u8?securetoken=#ed%h0#w@1 
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://lifetv.vn/style/img/logo.png" tvg-name="lifetv "  group-title="KHÁC",lifetv 
 http://203.162.121.230:1935/live/live_lifetv/chunklist_w458239304.m3u8?securetoken=
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="https://userscontent2.emaze.com/images/90e04c19-c147-496f-9660-65015a8f2aac/e7e47323-65b4-465c-a434-3d988b803fa3image6.png" tvg-name="fitness_360 "  group-title="KHÁC",fitness_360
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://lifetv.vn/images/front_end/1421894101_logo_di_san_4_(Copy).jpg" tvg-name="Di Sản Việt"  group-title="KHÁC",Di Sản Việt
+http://203.162.121.230:1935/live/disanviet/index.m3u8?securetoken=#ed%h0#w@1 
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://lifetv.vn/images/front_end/1390183812_1_Fitness_360_anh_11.jpg" tvg-name="fitness_360 "  group-title="KHÁC",fitness_360
 http://203.162.121.230:1935/live/fitness_360/index.m3u8?securetoken=#ed%h0#w@1 
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/YKaG7xo.png" tvg-name="Model channel "  group-title="KHÁC",Model channel
+http://203.162.121.230:1935/live/model_channel/index.m3u8?securetoken=#ed%h0#w@1 
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://lifetv.vn/images/front_end/1421914003_logo_truy%E1%BB%81n_th%C3%B4ng_vi%E1%BB%87t.jpg" tvg-name="Truyền Thông Việt "  group-title="KHÁC",Truyền Thông Việt
+http://203.162.121.230:1935/live//ttv/index.m3u8?securetoken=#ed%h0#w@1 
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/pC5hmXf.png" tvg-name="TheV kênh Phim "  group-title="KHÁC",TheV kênh Phim 
 http://live.csmtalk2.vcdn.vn/hls/e11241fb00b111677aabbd3318da5750/155a10ebc32/thev/index.m3u8
