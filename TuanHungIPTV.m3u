@@ -12,6 +12,9 @@ http://vtvgoobj.04477775.sabai.vn/022e48e466bd6361a052f35123be4f2f1467303322/liv
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOlvKWioH9Jgj-ty0h5AjfLwdR01PjhgIB00oioKTTXH-0esI-" tvg-name="eurro 2016 Sever6"  group-title="ER",eurro 2016 Sever6
 http://live.vn-hd.com/6bc8782e2c8baff8fe23a98ea5045ac7/spsklfl/vtv3.360p.stream/playlist.m3u8
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://farm9.staticflickr.com/8108/8471393768_fb880a772e_n.jpg" tvg-name="Discovery Channel"  group-title="Thiếu Nhi",Discovery Channel
+http://premium.exabytetv.info/total2/844hfoed/491/exabytetv.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://farm8.staticflickr.com/7265/26398984283_8a2861da3d_o.png" tvg-name="VTV1"  group-title="VTV",VTV1
 http://xmiolive.e14538a7.viettel-cdn.vn/vtv1.smil/chunklist_b1500000.m3u8
 
@@ -125,6 +128,9 @@ http://203.162.121.230:1935/live/fitness_360/index.m3u8?securetoken=#ed%h0#w@1
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/YKaG7xo.png" tvg-name="Model channel "  group-title="KHÁC",Model channel
 http://203.162.121.230:1935/live/model_channel/index.m3u8?securetoken=#ed%h0#w@1 
 
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/YKaG7xo.png" tvg-name="Fashion TV "  group-title="KHÁC",Fashion TV
+http://premium.exabytetv.info/tokener/844hfoed/530/exabytetv.m3u8
+
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://lifetv.vn/images/front_end/1421914003_logo_truy%E1%BB%81n_th%C3%B4ng_vi%E1%BB%87t.jpg" tvg-name="Truyền Thông Việt "  group-title="KHÁC",Truyền Thông Việt
 http://203.162.121.230:1935/live//ttv/index.m3u8?securetoken=#ed%h0#w@1 
 
@@ -156,6 +162,12 @@ http://htvlive.1c656bad.cdnviet.com/801757052029be0f13a018eff56230761467327660/b
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/roq8O6I.png" tvg-name="Hậu Giang"  group-title="Địa Phương",Hậu Giang
 http://htvlive.1c656bad.cdnviet.com/1d9f58630bd8ddcac738fcb9252b38981467326749/hau_giang.360p.stream/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://farm4.staticflickr.com/3715/9547999542_305a13688d_n.jpg" tvg-name="An Giang"  group-title="Địa Phương",An Giang
+rtmp://113.161.212.25/live//atv1
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://farm4.staticflickr.com/3715/9547999542_305a13688d_n.jpg" tvg-name="Bình Thuận"  group-title="Địa Phương",Bình Thuận
+mms://123.30.108.114/BTVTruyenhinh
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sau 12 giờ sẽ cập nhật tiếp các kênh Kodi M3U IPTV Editor"  group-title="New Group",Sau 12 giờ sẽ cập nhật tiếp các kênh
 http://123.456.789
