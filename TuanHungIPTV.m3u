@@ -199,4 +199,6 @@ rtmp://113.163.216.24/live/livestream playpath=ggd49g0sfyhu6mj swfUrl=http://www
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sau 12 giờ sẽ cập nhật tiếp các kênh Kodi M3U IPTV Editor"  group-title="New Group",Sau 12 giờ sẽ cập nhật tiếp các kênh
 rtmp://115.78.160.29/live//thvp
+#EXTINF:0,thu nghiem socast
+sop://broker.sopcast.com:3912/137154
 
