@@ -42,6 +42,9 @@ http://210.245.60.242:1935/vovtv/vovtv/playlist.m3u8
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/AiaMWrz.png" tvg-name="AN NINH TIVI"  group-title="VTV",AN NINH TIVI
 http://xmiolive.e14538a7.viettel-cdn.vn/antv.smil/chunklist_b1500000.m3u8
 
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://farm9.staticflickr.com/8089/8576970546_03413e0a5b_n.jpg" tvg-name="Thông Tấn Xã Việt Nam"  group-title="VTV",Thông Tấn Xã Việt Nam
+rtmp://live.vnanet.vn/Live//DRC
+
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/mtNSji1.png" tvg-name="HTV1"  group-title="HTV",HTV1
 http://xmiolive.e14538a7.viettel-cdn.vn/htv1.smil/chunklist_b1500000.m3u8
 
@@ -174,4 +177,4 @@ http://hatinhtv.vn/liveevent.m3u8
 mms://123.30.108.114/BTVTruyenhinh
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sau 12 giờ sẽ cập nhật tiếp các kênh Kodi M3U IPTV Editor"  group-title="New Group",Sau 12 giờ sẽ cập nhật tiếp các kênh
-http://123.456.789
+rtmp://117.103.224.31/live//livestream?token=nothing&time=null
