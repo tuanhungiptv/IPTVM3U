@@ -158,7 +158,7 @@ http://thvllive.bb87e240.cdnviet.com/thvl1/chunklist.m3u8
 http://thvllive.bb87e240.cdnviet.com/thvl2/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/TfS8wOA.png" tvg-name="THTP Cần Thơ"  group-title="Địa Phương",THTP Cần Thơ
-http://htvlive.1c656bad.cdnviet.com/4fef2b77fbb5fea1100b1e4993f992771467326079/can_tho.360p.stream/playlist.m3u8
+rtmp://118.69.205.223/livepkgr/livestream1
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/0VC4F5f.png" tvg-name="Long An"  group-title="Địa Phương",Long An
 http://htvlive.1c656bad.cdnviet.com/bc92bafea3a00d9899c3e2fedc0ea4451467326654/longan.360p.stream/playlist.m3u8
@@ -178,6 +178,19 @@ http://hatinhtv.vn/liveevent.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://farm1.staticflickr.com/343/19495624804_77bba8be49_o.jpg" tvg-name="Bình Thuận"  group-title="Địa Phương",Bình Thuận
 mms://123.30.108.114/BTVTruyenhinh
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://lh6.googleusercontent.com/-YSHXQX0lT2E/U2C4dHTR8HI/AAAAAAAAAcA/yYp3AlblziI/s304/vnptmang30042014.png" tvg-name="Khánh Hòa"  group-title="Địa Phương",Khánh Hòa
+rtmp://118.69.198.109/live//video
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/Ctl68EK.png" tvg-name="Thừa Thiên Huế"  group-title="Địa Phương",Thừa Thiên Huế
+rtmp://118.69.176.149/live//trt
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/OCikkaC.png" tvg-name="Quảng Trị"  group-title="Địa Phương",Quảng Trị
+rtmp://123.25.117.9:80/live/qtv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/CudiZMr.png" tvg-name="Lạng Sơn"  group-title="Địa Phương",Lạng Sơn
+rtmp://123.18.206.40/live//livestream
+
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sau 12 giờ sẽ cập nhật tiếp các kênh Kodi M3U IPTV Editor"  group-title="New Group",Sau 12 giờ sẽ cập nhật tiếp các kênh
 rtmp://113.161.212.25/live//atv1
