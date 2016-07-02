@@ -193,4 +193,4 @@ rtmp://123.18.206.40/live//livestream
 
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sau 12 giờ sẽ cập nhật tiếp các kênh Kodi M3U IPTV Editor"  group-title="New Group",Sau 12 giờ sẽ cập nhật tiếp các kênh
-rtmp://113.161.212.25/live//atv1
+http://censoft.mobi:1935/tvviet/vtc12.stream/chunklist_w994504692.m3u8
