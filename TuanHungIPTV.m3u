@@ -52,7 +52,7 @@ http://xmiolive.e14538a7.viettel-cdn.vn/htv3.smil/chunklist_b1500000.m3u8
 http://xmiolive.e14538a7.viettel-cdn.vn/htv7.smil/chunklist_b1500000.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/LQJA3CJ.png" tvg-name="HTV9"  group-title="HTV",HTV9
-http://htvlive.1c656bad.cdnviet.com/84fcbd6c29cfb572f005b2aff2de85371467325171/htv9.360p.stream/playlist.m3u8
+http://live.vn-hd.com/6bc8782e2c8baff8fe23a98ea5045ac7/spsklfl/htv9.720p.stream/playlist.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/00eoUiD.png" tvg-name="HTV Phim"  group-title="HTV",HTVPhim
 http://htvlive.1c656bad.cdnviet.com/7f2e67b9515d64a2fba1158184eeec7c1467206821/htvc_phim.360p.stream/playlist.m3u8
@@ -78,8 +78,10 @@ http://11e6.vp9.tv/chn/vtc2/v.m3u8
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://125.212.227.246/image/livetv_v2/channel_logo/stb/1400886710231VTC3_HD.png" tvg-name="VTC3"  group-title="VTC",VTC3
 http://123.30.185.126/hls/vtc3.m3u8
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://125.212.227.246/image/livetv_v2/channel_logo/stb/39_VTC_7_Logo_H_1395390689092.png" tvg-name="VTC7-ToDay"  group-title="VTC",VTC7-Today
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://125.212.227.246/image/livetv_v2/channel_logo/stb/39_VTC_7_Logo_H_1395390689092.png" tvg-name="VTC7-ToDay"  group-title="VTC",VTC7-Today (server 1)
 http://11e6.vp9.tv/chn/tdayt/v.m3u8
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://125.212.227.246/image/livetv_v2/channel_logo/stb/39_VTC_7_Logo_H_1395390689092.png" tvg-name="VTC7-ToDay"  group-title="VTC",VTC7-Today ( server 2)
+http://live.vn-hd.com/6bc8782e2c8baff8fe23a98ea5045ac7/spsklfl/vtc7.360p.stream/playlist.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/2QYxxlh.png" tvg-name="VTC9"  group-title="VTC",VTC9
 http://14.161.5.88:1935/live/myStream/playlist.m3u8
@@ -95,6 +97,9 @@ http://125.235.29.16/livetv/keeng.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://lifetv.vn/upload/channel/k9.jpg" tvg-name="Kênh 9 âm nhạc"  group-title="KHÁC",Kênh 9 âm nhạc
 http://203.162.121.230:1935/live/9_music/index.m3u8?securetoken=
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://lifetv.vn/upload/channel/k9.jpg" tvg-name="Kênh 17"  group-title="KHÁC",Kênh 17
+http://censoft.mobi:1935/tvviet/vtc12.stream/chunklist_w787747451.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/zxViCYt.jpg?1" tvg-name="MTV"  group-title="KHÁC",MTV
 http://iliketot.dyndns.tv/tot/web/8d45473ff4ca44d79e1abc4516c2fee0.m3u8
