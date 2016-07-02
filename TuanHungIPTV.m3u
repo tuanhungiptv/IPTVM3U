@@ -114,7 +114,7 @@ http://xmiolive.e14538a7.viettel-cdn.vn/mov.smil/chunklist_b1500000.m3u8
 http://203.162.121.230:1935/live//2channel/index.m3u8?securetoken=#ed%h0#w@1 
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://lifetv.vn/style/img/logo.png" tvg-name="lifetv "  group-title="KHÁC",lifetv 
-http://203.162.121.230:1935/live/live_lifetv/index.m3u8?securetoken=#ed%h0#w@1
+http://203.162.121.230:1935/live/live_lifetv/chunklist_w458239304.m3u8?securetoken=
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="https://userscontent2.emaze.com/images/90e04c19-c147-496f-9660-65015a8f2aac/e7e47323-65b4-465c-a434-3d988b803fa3image6.png" tvg-name="fitness_360 "  group-title="KHÁC",fitness_360
 http://203.162.121.230:1935/live/fitness_360/index.m3u8?securetoken=#ed%h0#w@1 
