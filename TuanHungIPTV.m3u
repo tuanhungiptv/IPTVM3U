@@ -192,7 +192,8 @@ rtmp://123.25.117.9:80/live/qtv
 rtmp://123.18.206.40/live/livestream
 
 #EXTINF:0,tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/CudiZMr.png" tvg-name="Bà Rịa (Thử Ngiệm)"  group-title="Địa Phương",Bà Rịa(Thử Ngiệm)
-rtmp://113.163.216.24/live/livestream
+rtmp://113.163.216.24:1935/live/livestream
+
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sau 12 giờ sẽ cập nhật tiếp các kênh Kodi M3U IPTV Editor"  group-title="New Group",Sau 12 giờ sẽ cập nhật tiếp các kênh
 rtmp://117.6.162.63:1935/live/<playpath>thvp <swfUrl> <pageUrl> <objectEncoding>
