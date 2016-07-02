@@ -104,6 +104,9 @@ http://203.162.121.230:1935/live/9_music/index.m3u8?securetoken=
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://lifetv.vn/upload/channel/k9.jpg" tvg-name="Kênh 17"  group-title="KHÁC",Kênh 17
 http://censoft.mobi:1935/tvviet/vtc12.stream/chunklist_w787747451.m3u8
 
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/jFDiUWi.png" tvg-name="NTC"  group-title="KHÁC",NTC
+rtmp://123.30.134.108/live/nctlive
+
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/zxViCYt.jpg?1" tvg-name="MTV"  group-title="KHÁC",MTV
 http://iliketot.dyndns.tv/tot/web/8d45473ff4ca44d79e1abc4516c2fee0.m3u8
 
@@ -161,13 +164,13 @@ http://11e6.vp9.tv/chn/btv1/v.m3u8
 http://htvlive.1c656bad.cdnviet.com/801757052029be0f13a018eff56230761467327660/btv2.480p.stream/chunklist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/roq8O6I.png" tvg-name="Hậu Giang"  group-title="Địa Phương",Hậu Giang
-http://htvlive.1c656bad.cdnviet.com/1d9f58630bd8ddcac738fcb9252b38981467326749/hau_giang.360p.stream/playlist.m3u8
+rtmp://115.78.160.29/live//thhg
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://farm4.staticflickr.com/3715/9547999542_305a13688d_n.jpg" tvg-name="An Giang"  group-title="Địa Phương",An Giang
-rtmp://113.161.212.25:1935/live/<playpath>atv1 <swfUrl> <pageUrl> <objectEncoding>
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="" tvg-name="Truyền hình Hà Tĩnh"  group-title="Địa Phương",Truyền hình Hà Tĩnh
+http://hatinhtv.vn/liveevent.m3u8
 
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://farm4.staticflickr.com/3715/9547999542_305a13688d_n.jpg" tvg-name="Bình Thuận"  group-title="Địa Phương",Bình Thuận
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://farm1.staticflickr.com/343/19495624804_77bba8be49_o.jpg" tvg-name="Bình Thuận"  group-title="Địa Phương",Bình Thuận
 mms://123.30.108.114/BTVTruyenhinh
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sau 12 giờ sẽ cập nhật tiếp các kênh Kodi M3U IPTV Editor"  group-title="New Group",Sau 12 giờ sẽ cập nhật tiếp các kênh
