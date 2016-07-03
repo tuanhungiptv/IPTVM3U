@@ -196,9 +196,6 @@ http://vnn.anluong.info/hls/travinh.m3u8
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/asWKbFw.png" tvg-name="TH Tiền Giang"  group-title="Địa Phương",TH Tiền Giang
 rtmp://123.30.141.4/live//thtg
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/eVKetgh.png" tvg-name="TH Tuyên quang"  group-title="Địa Phương",TH Tuyên Quang
-rtmp://123.30.191.207/ttv//live?e=1467554403&st=1zhzq8mGNBivKfnQrODCOg
-
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/HJCqqyF.png" tvg-name="Yên Bái"  group-title="Địa Phương",Yên Bái
 rtmp://123.30.186.141/oflaDemo//livestream
 
