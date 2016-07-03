@@ -1,4 +1,4 @@
-#EXTM3U TuanHungIPTV
+#EXTM3U  $ExtFilter="RTMP" ,TuanHungIPTV
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOlvKWioH9Jgj-ty0h5AjfLwdR01PjhgIB00oioKTTXH-0esI-" tvg-name="eurro 2016 Sever1"  group-title="ER",eurro 2016 Sever1
 http://vtvgoobj.04477775.sabai.vn/c67b708e574e9de3da67d7096dd4bef01467303003/live/_definst_/vtv3-low.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOlvKWioH9Jgj-ty0h5AjfLwdR01PjhgIB00oioKTTXH-0esI-" tvg-name="eurro 2016 Sever2"  group-title="ER",eurro 2016 Sever2
@@ -208,6 +208,6 @@ rtmp://113.163.216.24/live/livestream playpath=ggd49g0sfyhu6mj swfUrl=http://www
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sau 12 giờ sẽ cập nhật tiếp các kênh Kodi M3U IPTV Editor"  group-title="New Group",Sau 12 giờ sẽ cập nhật tiếp các kênh
 rtmp://115.78.160.29/live//thvp
 #EXTINF:0,thu nghiem socast
-rtmp://204.77.214.18/mogulus-stream-edge//vtvcab17
+rtmp://$OPT:rtmp-raw=rtmp://204.77.214.18/mogulus-stream-edge/vtvcab17 playpath=rtmp://212-72.livestream.com/affiliateStream/vtvcab17/6c69766572657065617465723a72746d703a2f2f3231322d37322e6c69766573747265616d2e636f6d2f6d6f67756c75732f76747663616231372f76696574666c69787476383838383030303032303136303730322d32323139È5362d6d656469756d5f363738 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?jsEnabled=false&time=&autoplay=true live=1 pageUrl=http://cdn.livestream.com/embed/vtvcab17?layout=4&autoplay=true <objectEncoding>
 
 
