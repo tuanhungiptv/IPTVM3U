@@ -26,8 +26,8 @@ http://xmiolive.e14538a7.viettel-cdn.vn/vtv1.smil/chunklist_b1500000.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/xMyv0zA.png" tvg-name="VTV2"  group-title="VTV",VTV2
 http://xmiolive.e14538a7.viettel-cdn.vn/vtv2.smil/chunklist_b1500000.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/4CNsFQ6.png" tvg-name="VTV3"  group-title="VTV",VTV3
-http://27.67.50.68:18080/155_3.m3u8?AdaptiveType=HLS
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/4CNsFQ6.png" tvg-name="VTV3"  group-title="VTV",VTV3 Mở hơi chậm
+http://11e6.vp9.tv/chn/vtv3/v.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/2hMf954.png" tvg-name="VTV4"  group-title="VTV",VTV4
 http://xmiolive.e14538a7.viettel-cdn.vn/vtv4.smil/chunklist_b1500000.m3u8
@@ -35,11 +35,14 @@ http://xmiolive.e14538a7.viettel-cdn.vn/vtv4.smil/chunklist_b1500000.m3u8
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/VeNVg8O.png" tvg-name="VTV5"  group-title="VTV",VTV5
 http://mobi.vtvplus.vn:1935/live/vtv5.m3u8
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/RwUrBkO.png" tvg-name="VTV6"  group-title="VTV",VTV6
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/RwUrBkO.png" tvg-name="VTV6"  group-title="VTV",VTV6 mở hơi chậm
 http://11e6.vp9.tv/chn/vtv6/v.m3u8
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/tz5IbFM.png" tvg-name="VTV8"  group-title="VTV",VTV8
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/tz5IbFM.png" tvg-name="VTV8"  group-title="VTV",VTV8 mở hơi chậm
 http://11e6.vp9.tv/chn/vtv8/v.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://farm9.staticflickr.com/8505/8472906933_efd21a7f1f_n.jpg" tvg-name="VTV9"  group-title="VTV",VTV9 mở hơi chậm
+http://11e6.vp9.tv/chn/vtv9/v.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/SzgBroS.jpg" tvg-name="VOV"  group-title="VTV",VOV
 http://210.245.60.242:1935/vovtv/vovtv/playlist.m3u8
@@ -48,7 +51,7 @@ http://210.245.60.242:1935/vovtv/vovtv/playlist.m3u8
 http://xmiolive.e14538a7.viettel-cdn.vn/antv.smil/chunklist_b1500000.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="https://farm9.staticflickr.com/8089/8576970546_03413e0a5b_n.jpg" tvg-name="Thông Tấn Xã Việt Nam"  group-title="VTV",Thông Tấn Xã Việt Nam
-rtmp://live.vnanet.vn/Live//DRC
+rtmp://live.vnanet.vn:1935/Live/DRC
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/mtNSji1.png" tvg-name="HTV1"  group-title="HTV",HTV1
 http://xmiolive.e14538a7.viettel-cdn.vn/htv1.smil/chunklist_b1500000.m3u8
@@ -97,10 +100,16 @@ http://live.vn-hd.com/6bc8782e2c8baff8fe23a98ea5045ac7/spsklfl/vtc7.360p.stream/
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/2QYxxlh.png" tvg-name="VTC9"  group-title="VTC",VTC9
 http://14.161.5.88:1935/live/myStream/playlist.m3u8
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="https://farm3.staticflickr.com/2910/14744105811_d21a74136a_o.jpg" tvg-name="VTC14"  group-title="VTC",VTC14
-http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://farm6.staticflickr.com/5562/14560843917_eef789f09e_o.jpg" tvg-name="VTC10"  group-title="VTC",VTC10
+http://118.107.71.15:1935/live/_definst_/VTC10/VTC10_640x360_800kbps.stream/playlist.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://farm4.staticflickr.com/3911/14560626810_c9f3b1db59_o.jpg" tvg-name="VTC11"  group-title="VTC",VTC11
+rtmp://118.107.84.3/live//vtc11_public
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/J00WF8k.jpg?1" tvg-name="VTC13-ITV"  group-title="VTC",VTC13-ITV
+http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://farm3.staticflickr.com/2910/14744105811_d21a74136a_o.jpg" tvg-name="VTC14"  group-title="VTC",VTC14
 rtmp://117.103.224.31/live//livestream?token=nothing&time=null
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/3B2ePRa.gif" tvg-name="Thể Thao"  group-title="VTC",Thể Thao
