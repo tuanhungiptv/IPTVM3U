@@ -219,7 +219,7 @@ rtmp://123.30.186.141/oflaDemo//livestream
 rtmp://203.113.166.233/live//NTV_VIDEO
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/QV8OZjb.png" tvg-name="Đồng Nai 1"  group-title="Địa Phương",Đồng Nai 1
-rtmp://123.29.75.131/thdn//dn1
+rtmp://123.29.75.131/thdn/dn1
 
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/roq8O6I.png" tvg-name="Hậu Giang3"  group-title="Địa Phương",Hậu Giang3
