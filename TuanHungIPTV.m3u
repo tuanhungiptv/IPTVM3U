@@ -192,7 +192,7 @@ rtmp://118.69.198.109/live//video
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/Ctl68EK.png" tvg-name="Thừa Thiên Huế"  group-title="Địa Phương",Thừa Thiên Huế
 rtmp://118.69.176.149/live//trt
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/OCikkaC.png" tvg-name="Quảng Trị"  group-title="Địa Phương",Quảng Trị
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/GStotoE.png" tvg-name="Quảng Trị"  group-title="Địa Phương",Quảng Trị
 rtmp://123.25.117.9:80/live/qtv
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/CudiZMr.png" tvg-name="Lạng Sơn"  group-title="Địa Phương",Lạng Sơn
@@ -218,7 +218,6 @@ rtmp://113.163.216.24/live/livestream playpath=ggd49g0sfyhu6mj swfUrl=http://www
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sau 12 giờ sẽ cập nhật tiếp các kênh Kodi M3U IPTV Editor"  group-title="New Group",Sau 12 giờ sẽ cập nhật tiếp các kênh
 rtmp://115.78.160.29/live//thvp
-#EXTM3U $ExtFilter="RTMP"
 #EXTINF:0,thu nghiem socast
 
 
