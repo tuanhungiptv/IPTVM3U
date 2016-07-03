@@ -103,17 +103,11 @@ http://14.161.5.88:1935/live/myStream/playlist.m3u8
 #EXTINF:0, tvg-id="New EPG" tvg-logo="https://farm6.staticflickr.com/5562/14560843917_eef789f09e_o.jpg" tvg-name="VTC10"  group-title="VTC",VTC10
 http://118.107.71.15:1935/live/_definst_/VTC10/VTC10_640x360_800kbps.stream/playlist.m3u8
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="https://farm4.staticflickr.com/3911/14560626810_c9f3b1db59_o.jpg" tvg-name="VTC11"  group-title="VTC",VTC11
-rtmp://118.107.84.3/live//vtc11_public
-
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/J00WF8k.jpg?1" tvg-name="VTC13-ITV"  group-title="VTC",VTC13-ITV
 http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="https://farm3.staticflickr.com/2910/14744105811_d21a74136a_o.jpg" tvg-name="VTC14"  group-title="VTC",VTC14
 rtmp://117.103.224.31/live//livestream?token=nothing&time=null
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/3B2ePRa.gif" tvg-name="Thể Thao"  group-title="VTC",Thể Thao
-http://11e6.vp9.tv/chn/tttv/v.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="https://farm1.staticflickr.com/318/19581156103_fbd703e44b_o.png" tvg-name="VTVCab 7 - Drama"  group-title="VTC","VTVCab 7 - Drama
 http://02e4.vp9.tv/chn/ddra/v.m3u8
@@ -124,8 +118,6 @@ http://125.235.29.16/livetv/keeng.m3u8
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://lifetv.vn/upload/channel/k9.jpg" tvg-name="Kênh 9 âm nhạc"  group-title="KHÁC",Kênh 9 âm nhạc
 http://203.162.121.230:1935/live/9_music/index.m3u8?securetoken=
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://lifetv.vn/upload/channel/k9.jpg" tvg-name="Kênh 17"  group-title="KHÁC",Kênh 17
-http://censoft.mobi:1935/tvviet/vtc12.stream/chunklist_w787747451.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/jFDiUWi.png" tvg-name="NTC"  group-title="KHÁC",NTC
 rtmp://123.30.134.108/live/nctlive
