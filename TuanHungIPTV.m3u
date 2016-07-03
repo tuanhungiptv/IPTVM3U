@@ -47,7 +47,7 @@ rtmp://live.vnanet.vn:1935/Live/DRC
 http://xmiolive.e14538a7.viettel-cdn.vn/htv1.smil/chunklist_b1500000.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/WYdWm3k.png" tvg-name="HTV2"  group-title="HTV",HTV2
-http://htvlive.1c656bad.cdnviet.com/c208460844c766c3478ae74738c1b3d71467325005/htv2.360p.stream/playlist.m3u8
+http://htvlive.1c656bad.cdnviet.com/ae742a5d0b59c7d32fdc145a4096275e1467615497/htv2.360p.stream/chunklist.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/H8hDiuE.png" tvg-name="HTV3"  group-title="HTV",HTV3
 http://xmiolive.e14538a7.viettel-cdn.vn/htv3.smil/chunklist_b1500000.m3u8
@@ -59,16 +59,16 @@ http://xmiolive.e14538a7.viettel-cdn.vn/htv7.smil/chunklist_b1500000.m3u8
 http://live.vn-hd.com/6bc8782e2c8baff8fe23a98ea5045ac7/spsklfl/htv9.720p.stream/playlist.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/00eoUiD.png" tvg-name="HTV Phim"  group-title="HTV",HTVPhim
-http://htvlive.1c656bad.cdnviet.com/7f2e67b9515d64a2fba1158184eeec7c1467206821/htvc_phim.360p.stream/playlist.m3u8
+http://htvlive.1c656bad.cdnviet.com/20a62822f39d69c9a1ced40b98eec3081467615211/htvc_movies.720p.stream/chunklist.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/ReHLVzx.png" tvg-name="HTV Thuần Việt"  group-title="HTV",HTV Thuần Việt
-http://htvlive.1c656bad.cdnviet.com/e37dbe9f1f805eb3176aa5bb88db6fe61467325233/thuan_viet.360p.stream/playlist.m3u8
+http://htvlive.1c656bad.cdnviet.com/ee4ed436ea58dd1652923e1ee9f1b04f1467615366/thuan_viet.720p.stream/chunklist.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/Ot4qmYf.jpg" tvg-name="HTV Thể Thao"  group-title="HTV",HTV Thể Thao
-http://htvlive.1c656bad.cdnviet.com/d49d184a0530c377a81270947e5d739e1467325297/htvthethao.720p.stream/playlist.m3u8
+http://htvlive.1c656bad.cdnviet.com/a14a1dd01b0f2a26dae5773df7574e751467615276/htvc_the_thao.360p.stream/chunklist.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/VVf0FQw.png" tvg-name="HTV Du lịch"  group-title="HTV",HTV Du Lịch
-http://htvlive.1c656bad.cdnviet.com/dc1bdec809ce6ce18f5aa789a3783e501467325306/du_lich.360p.stream/playlist.m3u8
+http://htvlive.1c656bad.cdnviet.com/5d7cddd468fe5189602bac4e2a2b40051467615421/du_lich.360p.stream/chunklist.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/J00WF8k.jpg?1" tvg-name="ITV"  group-title="KHÁC",ITV
 http://xmiolive.e14538a7.viettel-cdn.vn/itvhd.smil/chunklist_b1500000.m3u8
@@ -101,6 +101,9 @@ rtmp://117.103.224.31/live//livestream?token=nothing&time=null
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="https://farm1.staticflickr.com/318/19581156103_fbd703e44b_o.png" tvg-name="VTVCab 7 - Drama"  group-title="VTC","VTVCab 7 - Drama
 http://02e4.vp9.tv/chn/ddra/v.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://tvtructuyen.net/images/vitv.gif" tvg-name="VITV"  group-title="KHÁC",VITV
+rtmp://14.160.54.166/livepkgr/livestream
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/YDtH0Ud.png?1" tvg-name="KeengTV"  group-title="KHÁC",KeengTV
 http://125.235.29.16/livetv/keeng.m3u8
