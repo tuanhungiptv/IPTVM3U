@@ -179,7 +179,7 @@ http://11e6.vp9.tv/chn/btv2/v.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/roq8O6I.png" tvg-name="Hậu Giang"  group-title="Địa Phương",Hậu Giang
 rtmp://115.78.160.29/live//thhg
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="" tvg-name="Truyền hình Hà Tĩnh"  group-title="Địa Phương",Truyền hình Hà Tĩnh
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/GitMCQP.png" tvg-name="Truyền hình Hà Tĩnh"  group-title="Địa Phương",Truyền hình Hà Tĩnh
 http://hatinhtv.vn/liveevent.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://farm1.staticflickr.com/343/19495624804_77bba8be49_o.jpg" tvg-name="Bình Thuận"  group-title="Địa Phương",Bình Thuận
@@ -217,9 +217,6 @@ rtmp://123.30.186.141/oflaDemo//livestream
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/MKq7blh.png" tvg-name="Ninh Thuận"  group-title="Địa Phương",Ninh Thuận
 rtmp://203.113.166.233/live//NTV_VIDEO
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/QV8OZjb.png" tvg-name="Đồng Nai 1"  group-title="Địa Phương",Đồng Nai 1
-rtmp://123.29.75.131/thdn//dn1.stream
 
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/roq8O6I.png" tvg-name="Hậu Giang3"  group-title="Địa Phương",Hậu Giang3
