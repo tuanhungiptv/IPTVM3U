@@ -209,6 +209,10 @@ rtmp://123.30.141.4/live//thtg
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/HJCqqyF.png" tvg-name="Yên Bái"  group-title="Địa Phương",Yên Bái
 rtmp://123.30.186.141/oflaDemo//livestream
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/OCikkaC.png" tvg-name="Thanh Hóa"  group-title="Địa Phương",Thanh Hóa
+http://vnn.anluong.info/hls/ttv.m3u8
+
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/roq8O6I.png" tvg-name="Hậu Giang3"  group-title="Địa Phương",Hậu Giang3
 rtmp://113.163.216.24/live/livestream playpath=ggd49g0sfyhu6mj swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1
 
