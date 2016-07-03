@@ -39,7 +39,7 @@ http://mobi.vtvplus.vn:1935/live/vtv5.m3u8
 http://11e6.vp9.tv/chn/vtv6/v.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/tz5IbFM.png" tvg-name="VTV8"  group-title="VTV",VTV8 *** Mở hơi chậm ***
-http://11e6.vp9.tv/chn/vtv8/v.m3u8
+http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist_w1312792424.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="https://farm9.staticflickr.com/8505/8472906933_efd21a7f1f_n.jpg" tvg-name="VTV9"  group-title="VTV",VTV9 *** Mở hơi chậm ***
 http://11e6.vp9.tv/chn/vtv9/v.m3u8
@@ -208,6 +208,5 @@ rtmp://113.163.216.24/live/livestream playpath=ggd49g0sfyhu6mj swfUrl=http://www
 rtmp://115.78.160.29/live//thvp
 #EXTM3U $ExtFilter="RTMP"
 #EXTINF:0,thu nghiem socast
-rtmp://$OPT:rtmp-raw=rtmp://204.77.214.18/mogulus-stream-edge/vtvcab17 playpath=rtmp://212-72.livestream.com/affiliateStream/vtvcab17/6c69766572657065617465723a72746d703a2f2f3231322d37322e6c69766573747265616d2e636f6d2f6d6f67756c75732f76747663616231372f76696574666c69787476383838383030303032303136303730322d32323139È5362d6d656469756d5f363738 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?jsEnabled=false&time=&autoplay=true live=1 pageUrl=http://cdn.livestream.com/embed/vtvcab17?layout=4&autoplay=true <objectEncoding>
-
+rtmp://123.30.186.141/oflaDemo//livestream
 
