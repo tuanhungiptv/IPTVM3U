@@ -26,7 +26,7 @@ http://xmiolive.e14538a7.viettel-cdn.vn/vtv1.smil/chunklist_b1500000.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/xMyv0zA.png" tvg-name="VTV2"  group-title="VTV",VTV2
 http://xmiolive.e14538a7.viettel-cdn.vn/vtv2.smil/chunklist_b1500000.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/4CNsFQ6.png" tvg-name="VTV3"  group-title="VTV",VTV3 Mở hơi chậm
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/4CNsFQ6.png" tvg-name="VTV3"  group-title="VTV",VTV3 *** Mở hơi chậm ***
 http://11e6.vp9.tv/chn/vtv3/v.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/2hMf954.png" tvg-name="VTV4"  group-title="VTV",VTV4
@@ -35,13 +35,13 @@ http://xmiolive.e14538a7.viettel-cdn.vn/vtv4.smil/chunklist_b1500000.m3u8
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/VeNVg8O.png" tvg-name="VTV5"  group-title="VTV",VTV5
 http://mobi.vtvplus.vn:1935/live/vtv5.m3u8
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/RwUrBkO.png" tvg-name="VTV6"  group-title="VTV",VTV6 mở hơi chậm
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/RwUrBkO.png" tvg-name="VTV6"  group-title="VTV",VTV6 *** Mở hơi chậm ***
 http://11e6.vp9.tv/chn/vtv6/v.m3u8
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/tz5IbFM.png" tvg-name="VTV8"  group-title="VTV",VTV8 mở hơi chậm
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/tz5IbFM.png" tvg-name="VTV8"  group-title="VTV",VTV8 *** Mở hơi chậm ***
 http://11e6.vp9.tv/chn/vtv8/v.m3u8
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="https://farm9.staticflickr.com/8505/8472906933_efd21a7f1f_n.jpg" tvg-name="VTV9"  group-title="VTV",VTV9 mở hơi chậm
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://farm9.staticflickr.com/8505/8472906933_efd21a7f1f_n.jpg" tvg-name="VTV9"  group-title="VTV",VTV9 *** Mở hơi chậm ***
 http://11e6.vp9.tv/chn/vtv9/v.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/SzgBroS.jpg" tvg-name="VOV"  group-title="VTV",VOV
