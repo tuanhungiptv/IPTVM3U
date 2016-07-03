@@ -210,7 +210,7 @@ rtmp://123.30.141.4/live//thtg
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/HJCqqyF.png" tvg-name="Yên Bái"  group-title="Địa Phương",Yên Bái
 rtmp://123.30.186.141/oflaDemo//livestream
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/OCikkaC.png" tvg-name="Thanh Hóa"  group-title="Địa Phương",... 
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/OCikkaC.png" tvg-name="...."  group-title="Địa Phương",Thanh Hóa
 
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/MKq7blh.png" tvg-name="Ninh Thuận"  group-title="Địa Phương",Ninh Thuận
