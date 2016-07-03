@@ -15,6 +15,11 @@ http://live.vn-hd.com/6bc8782e2c8baff8fe23a98ea5045ac7/spsklfl/vtv3.360p.stream/
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://farm9.staticflickr.com/8108/8471393768_fb880a772e_n.jpg" tvg-name="Discovery Channel"  group-title="Thiếu Nhi",Discovery Channel
 http://premium.exabytetv.info/total2/844hfoed/491/exabytetv.m3u8
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/-bqghK5VAO2I/AAAAAAAAAAI/AAAAAAAAAAA/HMEsmSxzbKg/s176-c-k-no/photo.jpg" tvg-name="Cartoon Network "  group-title="Thiếu Nhi",Cartoon Network 
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD28L240P/chunklist_b500000.m3u8
+
+
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://farm8.staticflickr.com/7265/26398984283_8a2861da3d_o.png" tvg-name="VTV1"  group-title="VTV",VTV1
 http://xmiolive.e14538a7.viettel-cdn.vn/vtv1.smil/chunklist_b1500000.m3u8
 
@@ -100,6 +105,9 @@ rtmp://117.103.224.31/live//livestream?token=nothing&time=null
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/3B2ePRa.gif" tvg-name="Thể Thao"  group-title="VTC",Thể Thao
 http://11e6.vp9.tv/chn/tttv/v.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://farm1.staticflickr.com/318/19581156103_fbd703e44b_o.png" tvg-name="VTVCab 7 - Drama"  group-title="VTC","VTVCab 7 - Drama
+http://02e4.vp9.tv/chn/ddra/v.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/YDtH0Ud.png?1" tvg-name="KeengTV"  group-title="KHÁC",KeengTV
 http://125.235.29.16/livetv/keeng.m3u8
@@ -200,5 +208,6 @@ rtmp://113.163.216.24/live/livestream playpath=ggd49g0sfyhu6mj swfUrl=http://www
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sau 12 giờ sẽ cập nhật tiếp các kênh Kodi M3U IPTV Editor"  group-title="New Group",Sau 12 giờ sẽ cập nhật tiếp các kênh
 rtmp://115.78.160.29/live//thvp
 #EXTINF:0,thu nghiem socast
-sop://broker.sopcast.com:3912/262163
+rtmp://204.77.214.18/mogulus-stream-edge//vtvcab17
+
 
