@@ -201,6 +201,14 @@ rtmp://123.18.206.40/live/livestream
 #EXTINF:0,tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/CudiZMr.png" tvg-name="Bà Rịa (Thử Ngiệm)"  group-title="Địa Phương",Bà Rịa(Thử Ngiệm)
 rtmp://113.163.216.24:1935/live/livestream
 
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/eqyMCgh.png" tvg-name="Trà Vinh"  group-title="Địa Phương",Trà Vinh
+http://vnn.anluong.info/hls/travinh.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/asWKbFw.png" tvg-name="TH Tiền Giang"  group-title="Địa Phương",TH Tiền Giang
+rtmp://123.30.141.4/live//thtg
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/HJCqqyF.png" tvg-name="Yên Bái"  group-title="Địa Phương",Yên Bái
+rtmp://123.30.186.141/oflaDemo//livestream
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/roq8O6I.png" tvg-name="Hậu Giang3"  group-title="Địa Phương",Hậu Giang3
 rtmp://113.163.216.24/live/livestream playpath=ggd49g0sfyhu6mj swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1
 
@@ -208,5 +216,5 @@ rtmp://113.163.216.24/live/livestream playpath=ggd49g0sfyhu6mj swfUrl=http://www
 rtmp://115.78.160.29/live//thvp
 #EXTM3U $ExtFilter="RTMP"
 #EXTINF:0,thu nghiem socast
-rtmp://123.30.186.141/oflaDemo//livestream
+
 
