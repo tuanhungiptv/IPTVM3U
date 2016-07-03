@@ -13,7 +13,7 @@ http://vtvgoobj.04477775.sabai.vn/022e48e466bd6361a052f35123be4f2f1467303322/liv
 http://live.vn-hd.com/6bc8782e2c8baff8fe23a98ea5045ac7/spsklfl/vtv3.360p.stream/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://farm9.staticflickr.com/8108/8471393768_fb880a772e_n.jpg" tvg-name="Discovery Channel"  group-title="Thiếu Nhi",Discovery Channel
-http://premium.exabytetv.info/total2/844hfoed/491/exabytetv.m3u8
+http://premium.exabytetv.info/total5/wwwwwws/432/exabytetv.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/-bqghK5VAO2I/AAAAAAAAAAI/AAAAAAAAAAA/HMEsmSxzbKg/s176-c-k-no/photo.jpg" tvg-name="Cartoon Network "  group-title="Thiếu Nhi",Cartoon Network 
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD28L240P/chunklist_b500000.m3u8
@@ -147,7 +147,7 @@ http://203.162.121.230:1935/live/fitness_360/index.m3u8?securetoken=#ed%h0#w@1
 http://203.162.121.230:1935/live/model_channel/index.m3u8?securetoken=#ed%h0#w@1 
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/YKaG7xo.png" tvg-name="Fashion TV "  group-title="KHÁC",Fashion TV
-http://premium.exabytetv.info/tokener/844hfoed/530/exabytetv.m3u8
+http://premium.exabytetv.info/tokener/wwwwwws/530/exabytetv.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://lifetv.vn/images/front_end/1421914003_logo_truy%E1%BB%81n_th%C3%B4ng_vi%E1%BB%87t.jpg" tvg-name="Truyền Thông Việt "  group-title="KHÁC",Truyền Thông Việt
 http://203.162.121.230:1935/live//ttv/index.m3u8?securetoken=#ed%h0#w@1 
