@@ -210,7 +210,8 @@ rtmp://203.113.166.233/live//NTV_VIDEO
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sau 12 giờ sẽ cập nhật tiếp các kênh Kodi M3U IPTV Editor"  group-title="New Group",Sau 12 giờ sẽ cập nhật tiếp các kênh
 rtmp://115.78.160.29/live//thvp
 
-#EXTINF:0, phat song thu nghiem kenh H+
+#EXTINF:0, Thử nghiệm kênh H+ H+ Phim 247
 http://live.csmtalk.vcdn.vn/hls/474a0eaf32dffcd7b0a9175e43a9a00c/155b62abace/tuanhungbox/index.m3u8
 
-
+#EXTINF:0, Thử nghiệm kênh H+ Hoạt Hình 247
+http://live.csmtalk.vcdn.vn/hls/be4cd40d38ee291d2f09fa6b3ec10a66/155b6f506ee/hhoathinh/index.m3u8
