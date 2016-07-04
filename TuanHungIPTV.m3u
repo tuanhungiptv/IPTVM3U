@@ -1,12 +1,5 @@
 #EXTM3U  TuanHungIPTV
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOlvKWioH9Jgj-ty0h5AjfLwdR01PjhgIB00oioKTTXH-0esI-" tvg-name="eurro 2016 Sever6"  group-title="ER",eurro 2016
-rtmp://vnn.cdn.live.xemtiviso.com/vtv3//live?e=1467568803&st=sbUl4cUlIva4sCKa1whxeQ
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://farm9.staticflickr.com/8108/8471393768_fb880a772e_n.jpg" tvg-name="Discovery Channel"  group-title="Thiếu Nhi",Discovery Channel
-http://premium.exabytetv.info/total5/wwwwwws/432/exabytetv.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/-bqghK5VAO2I/AAAAAAAAAAI/AAAAAAAAAAA/HMEsmSxzbKg/s176-c-k-no/photo.jpg" tvg-name="Cartoon Network "  group-title="Thiếu Nhi",Cartoon Network 
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD28L240P/chunklist_b500000.m3u8
 
 
 
@@ -150,6 +143,15 @@ http://live.csmtalk2.vcdn.vn/hls/663a2e7f018106d0075bb24fd709e018/155b5496819/th
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/OzCmFR6.png" tvg-name=" kênh Phim "  group-title="KHÁC", kênh Phim 
 http://live.csmtalk.vcdn.vn/hls/4ac31cf82106a1eece8d9078ffc5a1b4/155b5481ff9/thegioionline/index.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/OzCmFR6.png" tvg-name="Anime HD  (Hoạt Hình) "  group-title="Thiếu Nhi",Anime HD  (Hoạt Hình)
+http://live.csmtalk.vcdn.vn/hls/42c56921ec92d6ea48664155779b8aab/155b5511710/cungnghenhac/index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://farm9.staticflickr.com/8108/8471393768_fb880a772e_n.jpg" tvg-name="Discovery Channel"  group-title="Thiếu Nhi",Discovery Channel
+http://premium.exabytetv.info/total5/wwwwwws/432/exabytetv.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/-bqghK5VAO2I/AAAAAAAAAAI/AAAAAAAAAAA/HMEsmSxzbKg/s176-c-k-no/photo.jpg" tvg-name="Cartoon Network "  group-title="Thiếu Nhi",Cartoon Network 
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD28L240P/chunklist_b500000.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/b0CpC4q.png" tvg-name="Vĩnh Long 1"  group-title="Địa Phương", Vĩnh Long 1 
 http://thvllive.bb87e240.cdnviet.com/thvl1/chunklist.m3u8
