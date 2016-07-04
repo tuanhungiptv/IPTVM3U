@@ -145,11 +145,11 @@ http://premium.exabytetv.info/tokener/wwwwwws/530/exabytetv.m3u8
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://lifetv.vn/images/front_end/1421914003_logo_truy%E1%BB%81n_th%C3%B4ng_vi%E1%BB%87t.jpg" tvg-name="Truyền Thông Việt "  group-title="KHÁC",Truyền Thông Việt
 http://203.162.121.230:1935/live//ttv/index.m3u8?securetoken=#ed%h0#w@1 
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/pC5hmXf.png" tvg-name="TheV kênh Phim "  group-title="KHÁC",TheV kênh Phim 
-http://live.csmtalk2.vcdn.vn/hls/982edcffcc5d0bb9574c60b65fcdfd04/155b0cb3e83/thev/index.m3u8
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://avatar1.cctalk.vn/csmtalk_room/1100891416" tvg-name="TheV kênh Phim "  group-title="KHÁC",TheV kênh Phim 
+http://live.csmtalk2.vcdn.vn/hls/663a2e7f018106d0075bb24fd709e018/155b5496819/thev/index.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/OzCmFR6.png" tvg-name=" kênh Phim "  group-title="KHÁC", kênh Phim 
-http://live.csmtalk.vcdn.vn/hls/8e79fd18d7bc930eb8576f03643bfcdc/155b0ce692d/thegioionline/index.m3u8
+http://live.csmtalk.vcdn.vn/hls/4ac31cf82106a1eece8d9078ffc5a1b4/155b5481ff9/thegioionline/index.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/b0CpC4q.png" tvg-name="Vĩnh Long 1"  group-title="Địa Phương", Vĩnh Long 1 
 http://thvllive.bb87e240.cdnviet.com/thvl1/chunklist.m3u8
