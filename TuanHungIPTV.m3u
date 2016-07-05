@@ -139,13 +139,13 @@ http://premium.exabytetv.info/tokener/wwwwwws/530/exabytetv.m3u8
 http://203.162.121.230:1935/live//ttv/index.m3u8?securetoken=#ed%h0#w@1 
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://avatar1.cctalk.vn/csmtalk_room/1100891416" tvg-name="TheV kênh Phim "  group-title="KHÁC",TheV kênh Phim 
-http://live.csmtalk2.vcdn.vn/hls/663a2e7f018106d0075bb24fd709e018/155b5496819/thev/index.m3u8
+http://live.csmtalk2.vcdn.vn/hls/5dd31a4fff3c2d93f225c1bf4fcf5796/155b85de954/thev/index.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/OzCmFR6.png" tvg-name=" kênh Phim "  group-title="KHÁC", kênh Phim 
-http://live.csmtalk.vcdn.vn/hls/4ac31cf82106a1eece8d9078ffc5a1b4/155b5481ff9/thegioionline/index.m3u8
+http://live.csmtalk.vcdn.vn/hls/e80aa1638d84f59e16965e57e9982184/155b85fcb6b/thegioionline/index.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/OzCmFR6.png" tvg-name="Anime HD  (Hoạt Hình) "  group-title="Thiếu Nhi",Anime HD  (Hoạt Hình)
-http://live.csmtalk.vcdn.vn/hls/42c56921ec92d6ea48664155779b8aab/155b5511710/cungnghenhac/index.m3u8
+http://live.csmtalk.vcdn.vn/hls/99f77892c36fff40d51a3c07dd81d28c/155b860d813/cungnghenhac/index.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://farm9.staticflickr.com/8108/8471393768_fb880a772e_n.jpg" tvg-name="Discovery Channel"  group-title="Thiếu Nhi",Discovery Channel
 http://premium.exabytetv.info/total5/wwwwwws/432/exabytetv.m3u8
