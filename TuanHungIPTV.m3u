@@ -1,8 +1,4 @@
 #EXTM3U  TuanHungIPTV
-
-
-
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://farm8.staticflickr.com/7265/26398984283_8a2861da3d_o.png" tvg-name="VTV1"  group-title="VTV",VTV1
 http://xmiolive.e14538a7.viettel-cdn.vn/vtv1.smil/chunklist_b1500000.m3u8
 
@@ -211,6 +207,6 @@ rtmp://203.113.166.233/live//NTV_VIDEO
 rtmp://115.78.160.29/live//thvp
 
 #EXTINF:0, Thử nghiệm kênh H+ Phim 247
-http://live.csmtalk.vcdn.vn/hls/d36464464d1239bb9bdf52c7a80debcf/155b96e36a3/tuanhungbox/index.m3u8
+http://live.csmtalk.vcdn.vn/hls/d2d0ba847a13480cedf0b76817cb0b10/155bb9708cc/tuanhungbox/index.m3u8
 #EXTINF:0, Thử nghiệm kênh H+ Hoạt Hình 247
 http://live.csmtalk.vcdn.vn/hls/be4cd40d38ee291d2f09fa6b3ec10a66/155b6f506ee/hhoathinh/index.m3u8
