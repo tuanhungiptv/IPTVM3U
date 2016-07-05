@@ -211,6 +211,6 @@ rtmp://203.113.166.233/live//NTV_VIDEO
 rtmp://115.78.160.29/live//thvp
 
 #EXTINF:0, Thử nghiệm kênh H+ Phim 247
-http://live.csmtalk.vcdn.vn/hls/3bb2225c568edf2b992ba3b1d3dc2322/155b96a6cac/tuanhungbox/index.m3u8
+http://live.csmtalk.vcdn.vn/hls/d36464464d1239bb9bdf52c7a80debcf/155b96e36a3/tuanhungbox/index.m3u8
 #EXTINF:0, Thử nghiệm kênh H+ Hoạt Hình 247
 http://live.csmtalk.vcdn.vn/hls/be4cd40d38ee291d2f09fa6b3ec10a66/155b6f506ee/hhoathinh/index.m3u8
