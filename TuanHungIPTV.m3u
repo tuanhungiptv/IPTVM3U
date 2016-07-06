@@ -19,6 +19,9 @@ http://vtvgoobj.04477775.sabai.vn/3c9902231f50f68a552d30e56e9ae1681467801821/liv
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/RwUrBkO.png" tvg-name="VTV6"  group-title="VTV",VTV6 *** Mở hơi chậm ***
 http://11e6.vp9.tv/chn/vtv6/v.m3u8
 
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://s19.postimg.org/6mxl94z0z/vtv7.jpg" tvg-name="VTV7"  group-title="VTV",VTV7
+http://vtvgoobj.04477775.sabai.vn/80be6d82d5349852191fcb5245c7908d1467802187/live/_definst_/vtv7.m3u8
+
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/tz5IbFM.png" tvg-name="VTV8"  group-title="VTV",VTV8 *** Mở hơi chậm ***
 http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist_w1312792424.m3u8
 
