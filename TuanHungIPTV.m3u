@@ -13,7 +13,8 @@ http://vtvgoobj.04477775.sabai.vn/f976f5ac247cfbb183a39bd98b3f78e61467801359/liv
 http://xmiolive.e14538a7.viettel-cdn.vn/vtv4.smil/chunklist_b1500000.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/VeNVg8O.png" tvg-name="VTV5"  group-title="VTV",VTV5
-http://mobi.vtvplus.vn:1935/live/vtv5.m3u8
+http://vtvgoobj.04477775.sabai.vn/3c9902231f50f68a552d30e56e9ae1681467801821/live/_definst_/vtv5-mid.m3u8
+
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/RwUrBkO.png" tvg-name="VTV6"  group-title="VTV",VTV6 *** Mở hơi chậm ***
 http://11e6.vp9.tv/chn/vtv6/v.m3u8
