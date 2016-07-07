@@ -1,4 +1,7 @@
 #EXTM3U  TuanHungIPTV
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/J2Fz2ZU.png" tvg-name="starmovies hd"  group-title="Nuoc Ngoai",starmovies hd
+http://live.vn-hd.com/17a9fafab04e1da7e3296560068123fd/spsklfl/starmovies.720p.stream/chunklist.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://farm8.staticflickr.com/7265/26398984283_8a2861da3d_o.png" tvg-name="VTV1"  group-title="VTV",VTV1
 http://xmiolive.e14538a7.viettel-cdn.vn/vtv1.smil/chunklist_b1500000.m3u8
 
@@ -80,7 +83,8 @@ http://11e6.vp9.tv/chn/vtc2/v.m3u8
 http://123.30.185.126/hls/vtc3.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://125.212.227.246/image/livetv_v2/channel_logo/stb/39_VTC_7_Logo_H_1395390689092.png" tvg-name="VTC7-ToDay"  group-title="VTC",VTC7-Today (server 1)
-http://11e6.vp9.tv/chn/tdayt/v.m3u8
+htthttp://live.vn-hd.com/17a9fafab04e1da7e3296560068123fd/spsklfl/vtc7.360p.stream/chunklist.m3u8
+
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://125.212.227.246/image/livetv_v2/channel_logo/stb/39_VTC_7_Logo_H_1395390689092.png" tvg-name="VTC7-ToDay"  group-title="VTC",VTC7-Today ( server 2)
 http://live.vn-hd.com/6bc8782e2c8baff8fe23a98ea5045ac7/spsklfl/vtc7.360p.stream/playlist.m3u8
 
@@ -97,7 +101,7 @@ http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8
 rtmp://117.103.224.31/live//livestream?token=nothing&time=null
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="https://farm1.staticflickr.com/318/19581156103_fbd703e44b_o.png" tvg-name="VTVCab 7 - Drama"  group-title="VTC","VTVCab 7 - Drama
-http://02e4.vp9.tv/chn/ddra/v.m3u8
+http://live.cdn.mobifonetv.vn/motv3/ddramas_hls.smil/chunklist_b1200000.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://tvtructuyen.net/images/vitv.gif" tvg-name="VITV"  group-title="KHÁC",VITV
 rtmp://14.160.54.166/livepkgr/livestream
