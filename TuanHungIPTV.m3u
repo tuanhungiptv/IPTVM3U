@@ -4,16 +4,21 @@ http://live.vn-hd.com/17a9fafab04e1da7e3296560068123fd/spsklfl/starmovies.720p.s
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://farm8.staticflickr.com/7265/26398984283_8a2861da3d_o.png" tvg-name="VTV1"  group-title="VTV",VTV1
 http://xmiolive.e14538a7.viettel-cdn.vn/vtv1.smil/chunklist_b1500000.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://farm8.staticflickr.com/7265/26398984283_8a2861da3d_o.png" tvg-name="VTV1 HD "  group-title="VTV",VTV1 HD
+http://vtv1obj.b5695cde.cdnviet.com/a37b933707e9922e65daea932b79bc211468145355/live/_definst_/vtv1-high.m3u8
+
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/xMyv0zA.png" tvg-name="VTV2"  group-title="VTV",VTV2
 http://xmiolive.e14538a7.viettel-cdn.vn/vtv2.smil/chunklist_b1500000.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/xMyv0zA.png" tvg-name="VTV2 HD"  group-title="VTV",VTV2 HD
+http://vtvgoobj.04477775.sabai.vn/f57cfa549594120d6e06a0d3dcf860221468145493/live/_definst_/vtv2.m3u8
+
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/4CNsFQ6.png" tvg-name="VTV3 HD SV1"  group-title="VTV",VTV3 HD SV1
 http://live.vn-hd.com/17a9fafab04e1da7e3296560068123fd/spsklfl/vtv3.360p.stream/playlist.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/4CNsFQ6.png" tvg-name="VTV3 HD SV2"  group-title="VTV",VTV3 HD SV2
-http://vtvgoobj.04477775.sabai.vn/dd9d3bb7d294e48f1c1cfd9daef4eac71467914205/live/_definst_/vtv3-high.m3u8
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/4CNsFQ6.png" tvg-name="VTV3 HD SV3"  group-title="VTV",VTV3 HD SV3
-http://vtvgoobj.04477775.sabai.vn/cee3a40ff795f9468d78c236d3b9dcaf1467914501/live/_definst_/vtv3.m3u8
+http://vtvgoobj.04477775.sabai.vn/2514ec0863262e49c3a5e892d05f4fd91468145585/live/_definst_/vtv3.m3u8
+
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/2hMf954.png" tvg-name="VTV4"  group-title="VTV",VTV4
 http://xmiolive.e14538a7.viettel-cdn.vn/vtv4.smil/chunklist_b1500000.m3u8
