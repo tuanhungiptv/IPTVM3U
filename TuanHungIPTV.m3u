@@ -1,235 +1,24 @@
-#EXTM3U  TuanHungIPTV
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/J2Fz2ZU.png" tvg-name="starmovies hd"  group-title="Nuoc Ngoai",starmovies hd
-http://live.vn-hd.com/17a9fafab04e1da7e3296560068123fd/spsklfl/starmovies.720p.stream/chunklist.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://farm8.staticflickr.com/7265/26398984283_8a2861da3d_o.png" tvg-name="VTV1"  group-title="VTV",VTV1
-http://xmiolive.e14538a7.viettel-cdn.vn/vtv1.smil/chunklist_b1500000.m3u8
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://farm8.staticflickr.com/7265/26398984283_8a2861da3d_o.png" tvg-name="VTV1 HD "  group-title="VTV",VTV1 HD
-http://vtv1obj.b5695cde.cdnviet.com/a37b933707e9922e65daea932b79bc211468145355/live/_definst_/vtv1-high.m3u8
+http://live.csmtalk2.vcdn.vn/hls/534fd6bffef6c15be6b719e26c81a414/15c8d51b16e/thanhmila/chunklist.m3u8
 
+#EXTINF:-1, VTV2
+http://118.107.68.10:1935/live/_definst_/VTV1HD_12806b51bdf7ac364126 /playlist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/xMyv0zA.png" tvg-name="VTV2"  group-title="VTV",VTV2
-http://xmiolive.e14538a7.viettel-cdn.vn/vtv2.smil/chunklist_b1500000.m3u8
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/xMyv0zA.png" tvg-name="VTV2 HD"  group-title="VTV",VTV2 HD
-http://vtvgoobj.04477775.sabai.vn/f57cfa549594120d6e06a0d3dcf860221468145493/live/_definst_/vtv2.m3u8
+#EXTINF:-1, VTV3
+http://live.csmtalk.vcdn.vn/hls/f0088c3c461c9aab1920b1e23b7821b6/15c8d467ba8/thanhmia/chunklist.m3u8
 
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/4CNsFQ6.png" tvg-name="VTV3 HD SV1"  group-title="VTV",VTV3 HD SV1
-http://live.vn-hd.com/17a9fafab04e1da7e3296560068123fd/spsklfl/vtv3.360p.stream/playlist.m3u8
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/4CNsFQ6.png" tvg-name="VTV3 HD SV2"  group-title="VTV",VTV3 HD SV2
-http://vtvgoobj.04477775.sabai.vn/2514ec0863262e49c3a5e892d05f4fd91468145585/live/_definst_/vtv3.m3u8
+#EXTINF:-1, HTV7
+http://113.160.49.39/lives/origin04/htv7hd.isml/htv7hd-2096k.m3u8
 
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/2hMf954.png" tvg-name="VTV4"  group-title="VTV",VTV4
-http://xmiolive.e14538a7.viettel-cdn.vn/vtv4.smil/chunklist_b1500000.m3u8
+#EXTINF:-1, HTV9
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/VeNVg8O.png" tvg-name="VTV5"  group-title="VTV",VTV5
-http://vtvgoobj.04477775.sabai.vn/3c9902231f50f68a552d30e56e9ae1681467801821/live/_definst_/vtv5-mid.m3u8
+http://27.67.50.74:18080/158_3.m3u8?Range=2381000-2381001&SessionID=8a6cb56a-e47c-4787-926f-3b0d6b5f1990
 
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/RwUrBkO.png" tvg-name="VTV6 HD SV1"  group-title="VTV",VTV6 HD SV1
-http://vtvgoobj.04477775.sabai.vn/42fa7c0b17a1d1ca7af8f4f739bf5b691467916724/live/_definst_/vtv6-high.m3u8
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/RwUrBkO.png" tvg-name="VTV6 HD SV2"  group-title="VTV",VTV6 HD SV2
-http://vtvgoobj.04477775.sabai.vn/3bef26a658c3ec697bceea154f08913d1467916848/live/_definst_/vtv6.m3u8
+#EXTINF:-1, Vĩnh Long 1
+http://live.csmtalk.vcdn.vn/hls/5c594cf6b33fa5b494cc15bc55293ca9/15c8d874c40/maunv/chunklist.m3u8
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://s19.postimg.org/6mxl94z0z/vtv7.jpg" tvg-name="VTV7 SV1"  group-title="VTV",VTV7 SV1
-http://vtvgoobj.04477775.sabai.vn/798ebc0d53da19a0e98d87b1bb159d951467917016/live/_definst_/vtv7.m3u8
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://s19.postimg.org/6mxl94z0z/vtv7.jpg" tvg-name="VTV7 SV2"  group-title="VTV",VTV7 SV2
-http://vtvgoobj.04477775.sabai.vn/1e1c2808a01a07a6696f353185e3ddfa1467917112/live/_definst_/vtv7-mid.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/tz5IbFM.png" tvg-name="VTV8"  group-title="VTV",VTV8 *** Mở hơi chậm ***
-http://vtvgoobj.04477775.sabai.vn/42ec5338e3cf65b9a3acfdb585443a9e1467917822/live/_definst_/vtv8-mid.m3u8
-
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="https://farm9.staticflickr.com/8505/8472906933_efd21a7f1f_n.jpg" tvg-name="VTV9"  group-title="VTV",VTV9 *** Mở hơi chậm ***
-http://vtvgoobj.04477775.sabai.vn/ee14f436e3ffa20621dff7f1079449241467919736/live/_definst_/vtv9-mid.m3u8
-
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/SzgBroS.jpg" tvg-name="VOV"  group-title="VTV",VOV
-http://210.245.60.242:1935/vovtv/vovtv/playlist.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/AiaMWrz.png" tvg-name="AN NINH TIVI"  group-title="VTV",AN NINH TIVI
-http://xmiolive.e14538a7.viettel-cdn.vn/antv.smil/chunklist_b1500000.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="https://farm9.staticflickr.com/8089/8576970546_03413e0a5b_n.jpg" tvg-name="Thông Tấn Xã Việt Nam"  group-title="VTV",Thông Tấn Xã Việt Nam
-rtmp://live.vnanet.vn:1935/Live/DRC
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/mtNSji1.png" tvg-name="HTV1"  group-title="HTV",HTV1
-http://xmiolive.e14538a7.viettel-cdn.vn/htv1.smil/chunklist_b1500000.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/WYdWm3k.png" tvg-name="HTV2"  group-title="HTV",HTV2
-http://htvlive.1c656bad.cdnviet.com/ae742a5d0b59c7d32fdc145a4096275e1467615497/htv2.360p.stream/chunklist.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/H8hDiuE.png" tvg-name="HTV3"  group-title="HTV",HTV3
-http://xmiolive.e14538a7.viettel-cdn.vn/htv3.smil/chunklist_b1500000.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/RKUKL7P.png" tvg-name="HTV7"  group-title="HTV",HTV7
-http://xmiolive.e14538a7.viettel-cdn.vn/htv7.smil/chunklist_b1500000.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/LQJA3CJ.png" tvg-name="HTV9"  group-title="HTV",HTV9
-http://live.vn-hd.com/6bc8782e2c8baff8fe23a98ea5045ac7/spsklfl/htv9.720p.stream/playlist.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/00eoUiD.png" tvg-name="HTV Phim"  group-title="HTV",HTVPhim
-http://htvlive.1c656bad.cdnviet.com/20a62822f39d69c9a1ced40b98eec3081467615211/htvc_movies.720p.stream/chunklist.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/ReHLVzx.png" tvg-name="HTV Thuần Việt"  group-title="HTV",HTV Thuần Việt
-http://htvlive.1c656bad.cdnviet.com/ee4ed436ea58dd1652923e1ee9f1b04f1467615366/thuan_viet.720p.stream/chunklist.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/Ot4qmYf.jpg" tvg-name="HTV Thể Thao"  group-title="HTV",HTV Thể Thao
-http://htvlive.1c656bad.cdnviet.com/a14a1dd01b0f2a26dae5773df7574e751467615276/htvc_the_thao.360p.stream/chunklist.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/VVf0FQw.png" tvg-name="HTV Du lịch"  group-title="HTV",HTV Du Lịch
-http://htvlive.1c656bad.cdnviet.com/5d7cddd468fe5189602bac4e2a2b40051467615421/du_lich.360p.stream/chunklist.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/J00WF8k.jpg?1" tvg-name="ITV"  group-title="KHÁC",ITV
-http://xmiolive.e14538a7.viettel-cdn.vn/itvhd.smil/chunklist_b1500000.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://125.212.227.246/image/livetv_v2/channel_logo/stb/vtc1.png" tvg-name="VTC1"  group-title="VTC",VTC1
-http://123.30.185.126/hls/vtc1.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://125.212.227.246/image/livetv_v2/channel_logo/stb/vtc2.png" tvg-name="VTC2"  group-title="VTC",VTC2
-http://11e6.vp9.tv/chn/vtc2/v.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://125.212.227.246/image/livetv_v2/channel_logo/stb/1400886710231VTC3_HD.png" tvg-name="VTC3"  group-title="VTC",VTC3
-http://123.30.185.126/hls/vtc3.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://125.212.227.246/image/livetv_v2/channel_logo/stb/39_VTC_7_Logo_H_1395390689092.png" tvg-name="VTC7-ToDay"  group-title="VTC",VTC7-Today (server 1)
-htthttp://live.vn-hd.com/17a9fafab04e1da7e3296560068123fd/spsklfl/vtc7.360p.stream/chunklist.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://125.212.227.246/image/livetv_v2/channel_logo/stb/39_VTC_7_Logo_H_1395390689092.png" tvg-name="VTC7-ToDay"  group-title="VTC",VTC7-Today ( server 2)
-http://live.vn-hd.com/6bc8782e2c8baff8fe23a98ea5045ac7/spsklfl/vtc7.360p.stream/playlist.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/2QYxxlh.png" tvg-name="VTC9"  group-title="VTC",VTC9
-http://14.161.5.88:1935/live/myStream/playlist.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="https://farm6.staticflickr.com/5562/14560843917_eef789f09e_o.jpg" tvg-name="VTC10"  group-title="VTC",VTC10
-http://118.107.71.15:1935/live/_definst_/VTC10/VTC10_640x360_800kbps.stream/playlist.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/J00WF8k.jpg?1" tvg-name="VTC13-ITV"  group-title="VTC",VTC13-ITV
-http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="https://farm3.staticflickr.com/2910/14744105811_d21a74136a_o.jpg" tvg-name="VTC14"  group-title="VTC",VTC14
-rtmp://117.103.224.31/live//livestream?token=nothing&time=null
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="https://farm1.staticflickr.com/318/19581156103_fbd703e44b_o.png" tvg-name="VTVCab 7 - Drama"  group-title="VTC","VTVCab 7 - Drama
-http://live.cdn.mobifonetv.vn/motv3/ddramas_hls.smil/chunklist_b1200000.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://tvtructuyen.net/images/vitv.gif" tvg-name="VITV"  group-title="KHÁC",VITV
-rtmp://14.160.54.166/livepkgr/livestream
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/YDtH0Ud.png?1" tvg-name="KeengTV"  group-title="KHÁC",KeengTV
-http://125.235.29.16/livetv/keeng.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://lifetv.vn/upload/channel/k9.jpg" tvg-name="Kênh 9 âm nhạc"  group-title="KHÁC",Kênh 9 âm nhạc
-http://203.162.121.230:1935/live/9_music/index.m3u8?securetoken=
-
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/jFDiUWi.png" tvg-name="NTC"  group-title="KHÁC",NTC
-rtmp://123.30.134.108/live/nctlive
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/zxViCYt.jpg?1" tvg-name="MTV"  group-title="KHÁC",MTV
-http://iliketot.dyndns.tv/tot/web/8d45473ff4ca44d79e1abc4516c2fee0.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/pC5hmXf.png" tvg-name="Vivo1"  group-title="KHÁC",Vivo1
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/QRqqKHn.png" tvg-name="Mov-Ha nội cab"  group-title="KHÁC",Mov-Ha nội cab
-http://xmiolive.e14538a7.viettel-cdn.vn/mov.smil/chunklist_b1500000.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://lifetv.vn/images/front_end/2chanel_(Copy).png" tvg-name="2channel"  group-title="KHÁC",2channel
-http://203.162.121.230:1935/live//2channel/index.m3u8?securetoken=#ed%h0#w@1 
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://lifetv.vn/style/img/logo.png" tvg-name="lifetv "  group-title="KHÁC",lifetv 
-http://203.162.121.230:1935/live/live_lifetv/chunklist_w458239304.m3u8?securetoken=
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://lifetv.vn/images/front_end/1421894101_logo_di_san_4_(Copy).jpg" tvg-name="Di Sản Việt"  group-title="KHÁC",Di Sản Việt
-http://203.162.121.230:1935/live/disanviet/index.m3u8?securetoken=#ed%h0#w@1 
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://lifetv.vn/images/front_end/1390183812_1_Fitness_360_anh_11.jpg" tvg-name="fitness_360 "  group-title="KHÁC",fitness_360
-http://203.162.121.230:1935/live/fitness_360/index.m3u8?securetoken=#ed%h0#w@1 
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/YKaG7xo.png" tvg-name="Model channel "  group-title="KHÁC",Model channel
-http://203.162.121.230:1935/live/model_channel/index.m3u8?securetoken=#ed%h0#w@1 
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/YKaG7xo.png" tvg-name="Fashion TV "  group-title="KHÁC",Fashion TV
-http://premium.exabytetv.info/tokener/wwwwwws/530/exabytetv.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://lifetv.vn/images/front_end/1421914003_logo_truy%E1%BB%81n_th%C3%B4ng_vi%E1%BB%87t.jpg" tvg-name="Truyền Thông Việt "  group-title="KHÁC",Truyền Thông Việt
-http://203.162.121.230:1935/live//ttv/index.m3u8?securetoken=#ed%h0#w@1 
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://avatar1.cctalk.vn/csmtalk_room/1100891416" tvg-name="TheV kênh Phim "  group-title="KHÁC",TheV kênh Phim 
-http://live.csmtalk2.vcdn.vn/hls/5dd31a4fff3c2d93f225c1bf4fcf5796/155b85de954/thev/index.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/OzCmFR6.png" tvg-name=" kênh Phim "  group-title="KHÁC", kênh Phim 
-http://live.csmtalk.vcdn.vn/hls/e80aa1638d84f59e16965e57e9982184/155b85fcb6b/thegioionline/index.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/OzCmFR6.png" tvg-name="Anime HD  (Hoạt Hình) "  group-title="Thiếu Nhi",Anime HD  (Hoạt Hình)
-http://live.csmtalk.vcdn.vn/hls/99f77892c36fff40d51a3c07dd81d28c/155b860d813/cungnghenhac/index.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://farm9.staticflickr.com/8108/8471393768_fb880a772e_n.jpg" tvg-name="Discovery Channel"  group-title="Thiếu Nhi",Discovery Channel
-http://premium.exabytetv.info/total5/wwwwwws/432/exabytetv.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/-bqghK5VAO2I/AAAAAAAAAAI/AAAAAAAAAAA/HMEsmSxzbKg/s176-c-k-no/photo.jpg" tvg-name="Cartoon Network "  group-title="Thiếu Nhi",Cartoon Network 
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD28L240P/chunklist_b500000.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/b0CpC4q.png" tvg-name="Vĩnh Long 1"  group-title="Địa Phương", Vĩnh Long 1 
-http://thvllive.bb87e240.cdnviet.com/thvl1/chunklist.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/asnYGw2.png" tvg-name="Vĩnh Long 2"  group-title="Địa Phương", Vĩnh Long 2 
-http://thvllive.bb87e240.cdnviet.com/thvl2/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/TfS8wOA.png" tvg-name="THTP Cần Thơ"  group-title="Địa Phương",THTP Cần Thơ
-rtmp://118.69.205.223/livepkgr/livestream1
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/0VC4F5f.png" tvg-name="Long An"  group-title="Địa Phương",Long An
-http://live.vn-hd.com/6bc8782e2c8baff8fe23a98ea5045ac7/spsklfl/longan.360p.stream/playlist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/UzhW71U.png" tvg-name="Bình Dương 1"  group-title="Địa Phương",Bình Dương 1
-http://11e6.vp9.tv/chn/btv1/v.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/bsbzKS4.png" tvg-name="Bình Dương 2"  group-title="Địa Phương",Bình Dương 2
-http://11e6.vp9.tv/chn/btv2/v.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/roq8O6I.png" tvg-name="Hậu Giang"  group-title="Địa Phương",Hậu Giang
-rtmp://115.78.160.29/live//thhg
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/GitMCQP.png" tvg-name="Truyền hình Hà Tĩnh"  group-title="Địa Phương",Truyền hình Hà Tĩnh
-http://hatinhtv.vn/liveevent.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://farm1.staticflickr.com/343/19495624804_77bba8be49_o.jpg" tvg-name="Bình Thuận"  group-title="Địa Phương",Bình Thuận
-mms://123.30.108.114/BTVTruyenhinh
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://lh6.googleusercontent.com/-YSHXQX0lT2E/U2C4dHTR8HI/AAAAAAAAAcA/yYp3AlblziI/s304/vnptmang30042014.png" tvg-name="Khánh Hòa"  group-title="Địa Phương",Khánh Hòa
-rtmp://118.69.198.109/live//video
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/Ctl68EK.png" tvg-name="Thừa Thiên Huế"  group-title="Địa Phương",Thừa Thiên Huế
-rtmp://118.69.176.149/live//trt
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/GStotoE.png" tvg-name="Quảng Trị"  group-title="Địa Phương",Quảng Trị
-rtmp://123.25.117.9:80/live/qtv
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/CudiZMr.png" tvg-name="Lạng Sơn"  group-title="Địa Phương",Lạng Sơn
-rtmp://123.18.206.40/live/livestream
-
-#EXTINF:0,tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/CudiZMr.png" tvg-name="Bà Rịa (Thử Ngiệm)"  group-title="Địa Phương",Bà Rịa(Thử Ngiệm)
-rtmp://113.163.216.24:1935/live/livestream
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/eqyMCgh.png" tvg-name="Trà Vinh"  group-title="Địa Phương",Trà Vinh
-http://vnn.anluong.info/hls/travinh.m3u8
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/asWKbFw.png" tvg-name="TH Tiền Giang"  group-title="Địa Phương",TH Tiền Giang
-rtmp://123.30.141.4/live//thtg
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/HJCqqyF.png" tvg-name="Yên Bái"  group-title="Địa Phương",Yên Bái
-rtmp://123.30.186.141/oflaDemo//livestream
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://i.imgur.com/MKq7blh.png" tvg-name="Ninh Thuận"  group-title="Địa Phương",Ninh Thuận
-rtmp://203.113.166.233/live//NTV_VIDEO
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sau 12 giờ sẽ cập nhật tiếp các kênh Kodi M3U IPTV Editor"  group-title="New Group",Sau 12 giờ sẽ cập nhật tiếp các kênh
-rtmp://115.78.160.29/live//thvp
-
-#EXTINF:0, Thử nghiệm kênh H+ Phim 247
-http://live.csmtalk.vcdn.vn/hls/d2d0ba847a13480cedf0b76817cb0b10/155bb9708cc/tuanhungbox/index.m3u8
-#EXTINF:0, Thử nghiệm kênh H+ Hoạt Hình 247
-http://live.csmtalk.vcdn.vn/hls/be4cd40d38ee291d2f09fa6b3ec10a66/155b6f506ee/hhoathinh/index.m3u8
+#EXTINF:-1, Phim 24h
+http://live.csmtalk2.vcdn.vn/hls/e5cf6049fd21e71e6b041ddbc132eaa1/15c8d8b71ee/meowdoraemon/chunklist.m3u8
