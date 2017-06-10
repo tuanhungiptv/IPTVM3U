@@ -1,5 +1,5 @@
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://farm8.staticflickr.com/7265/26398984283_8a2861da3d_o.png" tvg-name="VTV1"  group-title="VTV",VTV1
-http://live.csmtalk2.vcdn.vn/hls/534fd6bffef6c15be6b719e26c81a414/15c8d51b16e/thanhmila/chunklist.m3u8
+http://118.107.68.10:1935/live/_definst_/VTV1HD_12806b51bdf7ac364126 /chunklist_w1566364151.m3u8
 
 #EXTINF:-1, VTV2
 http://118.107.68.10:1935/live/_definst_/VTV1HD_12806b51bdf7ac364126 /playlist.m3u8
