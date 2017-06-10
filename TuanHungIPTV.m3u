@@ -7,8 +7,9 @@ http://42.112.37.41/hls/4545780bfa790819/5/3/ab3e71a54d33cdd84f8659dd18f52213f4e
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://s19.postimg.org/gizbeazpv/4_CNs_FQ6.png" tvg-name="VTV3"  group-title="VTV",VTV3
 http://live.csmtalk.vcdn.vn/hls/7b26c93877fbabb6a18a82f5fa8f6598/15c902b9969/thanhmia/chunklist.m3u8
 
-#EXTINF:-1, HTV7
-http://113.160.49.39/lives/origin04/htv7hd.isml/htv7hd-2096k.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://s19.postimg.org/gizbeazpv/4_CNs_FQ6.png" tvg-name="HTV7"  group-title="VTV",HTV7
+https://lh3.googleusercontent.com/-LWRrpcTaCq8/UZY-wqRadII/AAAAAAAAAMU/dW2x3uIfZF0/h120/htv7.png
+
 
 
 #EXTINF:-1, HTV9
