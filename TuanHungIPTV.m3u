@@ -1,6 +1,5 @@
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://farm8.staticflickr.com/7265/26398984283_8a2861da3d_o.png" tvg-name="VTV1"  group-title="VTV",VTV1
-http://vtvgolive-web.04477775.sabai.vn/fddaa7175130e1141ed6a94f50ff186c1520542379/live/_definst_/vtv1.m3u8
-
+http://vtvgolive-web.04477775.sabai.vn/fddaa7175130e1141ed6a94f50ff186c1520542379/live/_definst_/vtv1-high.m3u8
 #EXTINF:-1, VTV2
 http://42.112.37.41/hls/4545780bfa790819/5/3/ab3e71a54d33cdd84f8659dd18f52213f4e82f248bc8d81433337b480c3b29e6/dnR2Mg==.m3u8
 
