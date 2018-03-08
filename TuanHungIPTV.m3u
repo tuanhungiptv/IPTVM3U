@@ -24,4 +24,5 @@ http://27.67.80.68:18080/133_2.m3u8?AdaptiveType=HLS&VOD_RequestID=dfc62336-e255
 http://27.67.80.71:18080/134_2.m3u8?AdaptiveType=HLS&VOD_RequestID=866a27d5-e1fe-4fa8-9efc-f682ac3b5592&SessionID=3e024f5d-7681-457a-a283-25534c205445&StreamID=02d48b68-4a7e-4e89-abf1-19612b843727
 
 #EXTINF:-1, Phim 24h
-http://live.csmtalk2.vcdn.vn/hls/e5cf6049fd21e71e6b041ddbc132eaa1/15c8d8b71ee/meowdoraemon/chunklist.m3u8
+http://htv.live.cdn.fptplay.net/htvonline/htv7.720p.stream/playlist.m3u8?st=uTT_ib_ijXpV_0Z7-X1Fjw&e=1520560215
+
