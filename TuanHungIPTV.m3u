@@ -1,28 +1,2 @@
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://farm8.staticflickr.com/7265/26398984283_8a2861da3d_o.png" tvg-name="VTV1"  group-title="VTV",VTV1
-http://htv.live.cdn.fptplay.net/htvonline/vtv1.480p.stream/chunklist.m3u8?st=SSE5d0F30QuwbnJ6gUx9kA&e=1520626855
-#EXTINF:-1, VTV2
-http://42.112.37.41/hls/4545780bfa790819/5/3/ab3e71a54d33cdd84f8659dd18f52213f4e82f248bc8d81433337b480c3b29e6/dnR2Mg==.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://s19.postimg.org/gizbeazpv/4_CNs_FQ6.png" tvg-name="VTV3"  group-title="VTV",VTV3
-http://live.csmtalk.vcdn.vn/hls/7b26c93877fbabb6a18a82f5fa8f6598/15c902b9969/thanhmia/chunklist.m3u8
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://lh3.googleusercontent.com/-LWRrpcTaCq8/UZY-wqRadII/AAAAAAAAAMU/dW2x3uIfZF0/h120/htv7.png" tvg-name="HTV7"  group-title="VTV",HTV7
-http://m.keodabanh.com/htvonline/htv7.480p.stream/playlist.m3u8?st=9B_mY_wnux2kDqaIBnYd0w&e=1497097178
-
-
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://lh5.googleusercontent.com/-Zy74p4doJHg/UZY-2rgoHFI/AAAAAAAAAMc/_FDGrTNvqug/h120/htv9.png" tvg-name="HTV9"  group-title="VTV",HTV9
-http://m.keodabanh.com/htvonline/htv9.480p.stream/playlist.m3u8?st=iMvHRQ3DJ6mepoUvs4tdqQ
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="&e=1497097482
-
-https://lh3.googleusercontent.com/-mLwwATgVRsU/VN12dbXIJCI/AAAAAAAABIY/Pn1Ab-730TM/w140-h84-p/tivi4k-vinhlong1.png" tvg-name="Vinh Long 1"  group-title="VTV",Vinh Long 1
-#EXTINF:-1, Vĩnh Long 1
-http://27.67.80.68:18080/133_2.m3u8?AdaptiveType=HLS&VOD_RequestID=dfc62336-e255-4ad1-833d-e3390b6b9cfe&SessionID=5781089e-c82c-479f-942b-9f92e36311e2&StreamID=302b707f-d6ab-4891-a7b5-fa4f62cdf414
-
-#EXTINF:-1, Vĩnh Long 2
-http://27.67.80.71:18080/134_2.m3u8?AdaptiveType=HLS&VOD_RequestID=866a27d5-e1fe-4fa8-9efc-f682ac3b5592&SessionID=3e024f5d-7681-457a-a283-25534c205445&StreamID=02d48b68-4a7e-4e89-abf1-19612b843727
-
-#EXTINF:-1, Phim 24h
-http://htv.live.cdn.fptplay.net/htvonline/htv7.720p.stream/playlist.m3u8?st=uTT_ib_ijXpV_0Z7-X1Fjw&e=1520560215
-
+http://vtvgolive-web.04477775.sabai.vn/f3cac19834974bee61990dedb937a8011520608962/live/_definst_/vtv1.m3u8
